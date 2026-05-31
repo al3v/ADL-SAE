@@ -31,3 +31,7 @@ outputs/activations/*.pt
 *.tmp
 *.log
 outputs/activations_later/
+outputs/activations/
+outputs/activations_later/
+outputs/popqa_clean_candidate_subset.csv
+data/factual_questions_manual_backup.csv
