@@ -1,61 +1,221 @@
 question,correct_answer,possible_answers,model_answer,is_correct,type
-Who is the father of Zhengde Emperor?,Hongzhi Emperor,"[""Hongzhi Emperor"", ""Zhu Youcheng"", ""Datianmingdaochunchengzhongzhengshengwenshenwuzhirendadejinghuangdi"", ""Hongzhi"", ""Zhu Youtang"", ""Xiao Zong"", ""Jing Di""]",Zhengde Emperor was the son of Zheng,True,father
-Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",George Frideric Handel,True,composer
-Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",Dalton Trumbo,False,producer
-Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,"[""Vidhu Vinod Chopra""]",Mahesh Bhatt,False,producer
-Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",Kander and Ebb,True,composer
-Who is the author of The Whole Family?,Henry James,"[""Henry James"", ""Henricus James"", ""Alice Brown"", ""William Dean Howells"", ""William Howells"", ""Elizabeth Jordan"", ""Elizabeth Garver Jordan""]",Dr. Robert H. Schuller,False,author
-Who was the composer of Introduction and Allegro?,Maurice Ravel,"[""Maurice Ravel"", ""Joseph-Maurice Ravel"", ""Maurice Joseph Ravel""]",Edward Elgar,False,composer
-Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",Uzak was written by the famous Turkish,False,screenwriter
-Who was the producer of The Descendants?,Alexander Payne,"[""Alexander Payne""]",Alexander Payne,True,producer
-Who was the screenwriter for One Life?,Alexandre Astruc,"[""Alexandre Astruc""]",David Mamet,False,screenwriter
-Who was the composer of Walker?,Joe Strummer,"[""Joe Strummer"", ""John Graham Mellor""]",John Williams,False,composer
-Who is the author of Camino Real?,Tennessee Williams,"[""Tennessee Williams"", ""Thomas Lanier Williams III"", ""Thomas Lanier Williams"", ""Thomas Williams""]",John Steinbeck,False,author
-Who was the director of Nightmare?,Freddie Francis,"[""Freddie Francis"", ""Frederick William Francis""]",Wes Craven,False,director
-Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",Oliver Stone,True,director
-Who was the composer of The Mission?,Ennio Morricone,"[""Ennio Morricone"", ""Dan Savio"", ""Leo Nichols""]",Gabriel Fauré,False,composer
-Who was the director of Nashville?,Robert Altman,"[""Robert Altman""]",Robert Altman,True,director
-Who is the author of The Wild Duck?,Henrik Ibsen,"[""Henrik Ibsen"", ""Henrik Johan Ibsen"", ""Henrich Johan Ibsen"", ""Henrich Ibsen""]",Henrik Ibsen,True,author
-In what city was Gintautas Umaras born?,Kaunas,"[""Kaunas"", ""Kovno"", ""Kovne"", ""Kovna"", ""Kowno"", ""Kauen""]",Kaunas,True,place of birth
-Who is the author of Detective?,Arthur Hailey,"[""Arthur Hailey"", ""Arthur Frederick Hailey""]",Agatha Christie,False,author
-Who was the composer of Imagine?,John Lennon,"[""John Lennon"", ""John Winston Ono Lennon"", ""John Winston Lennon"", ""Lennon John"", ""John Ono Lennon""]",John Lennon,True,composer
-In what city was Kalevi Kull born?,Tartu,"[""Tartu"", ""Dorpat"", ""Dörpt"", ""Derpt"", ""Tarbatu"", ""Jurjev"", ""Tartto"", ""Tartus""]",Helsinki,False,place of birth
-Who was the composer of Fame?,Michael Gore,"[""Michael Gore""]",Michael Gore,True,composer
-Who is the author of Memory?,Poul Anderson,"[""Poul Anderson"", ""Poul William Anderson"", ""Winston P. Sanders"", ""A. A. Craig"", ""Michael Karageorge"", ""Petronius Arbiter Kingsley"", ""P. A. Kingsley""]",James Salter,False,author
-Who was the director of Alone?,Parkpoom Wongpoom,"[""Parkpoom Wongpoom"", ""Banjong Pisanthanakun"", ""Bangjong Pisanthanakun""]",John Dahl,False,director
-Who is the father of Kim Kardashian?,Robert Kardashian,"[""Robert Kardashian"", ""Robert George Kardashian"", ""Rob Kardashian""]",Robert Kardashian,True,father
-Who was the director of Redemption?,Jon Alpert,"[""Jon Alpert""]",John Woo,False,director
-Who was the producer of Hot Rats?,Frank Zappa,"[""Frank Zappa"", ""Frank Vincent Zappa""]",Frank Zappa,True,producer
-Who was the composer of Annie?,Charles Strouse,"[""Charles Strouse""]",Charles Strouse,True,composer
-Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",Alexander Melville Bell,True,father
-Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",The producer of Human Nature was the late,False,producer
-Who is the father of Carl Valentin Falsen?,Enevold De Falsen,"[""Enevold De Falsen""]",Carl Valentin Falsen was born in,True,father
-Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",King Malcolm III of Scotland,True,father
-In what city was Frederick George Bromberg born?,New York City,"[""New York City"", ""NYC"", ""New York"", ""the five boroughs"", ""Big Apple"", ""City of New York"", ""NY City"", ""New York, New York"", ""New York City, New York"", ""New York, NY"", ""New York City (NYC)""]",New York City,True,place of birth
-Who was the producer of Good Night?,George Martin,"[""George Martin"", ""Sir George Henry Martin"", ""Sir George Martin""]",The producer of Good Night was the director,False,producer
-Who is the father of Philip III of Macedon?,Philip II of Macedon,"[""Philip II of Macedon"", ""King of Macedonia Filippo II"", ""King of Macedonia Philippos II"", ""King of Macedonia Philip II"", ""King of Macedonia Filip II"", ""King of Macedonia Philippus II"", ""Philip of Macedon""]",Philip II of Macedon,True,father
-Who was the screenwriter for The Shout?,Robert Graves,"[""Robert Graves"", ""Robert von Ranke-Graves"", ""Robert Ranke Graves"", ""Jerzy Skolimowski""]",John Sayles,False,screenwriter
-Who was the director of In My Life?,Bille August,"[""Bille August""]",Michael Apted,False,director
-Who is the author of Conan the Valiant?,Roland J. Green,"[""Roland J. Green"", ""Roland James Green""]",Robert E. Howard,False,author
-Who was the screenwriter for Yesterday's Hero?,Jackie Collins,"[""Jackie Collins"", ""Jacqueline Jill Collins""]",John Sayles,False,screenwriter
-Who was the composer of Getting to Know You?,Richard Rodgers,"[""Richard Rodgers"", ""Richard Charles Rodgers""]",Richard Rodgers,True,composer
-Who was the director of Stuff?,Johnny Depp,"[""Johnny Depp"", ""John Christopher \""Johnny\"" Depp II"", ""John Christopher Depp II"", ""John Christopher Depp""]",Chris Morris,False,director
-Who was the director of After Hours?,Martin Scorsese,"[""Martin Scorsese"", ""Martin Skorseze"", ""Martin Charles Scorsese""]",Martin Scorsese,True,director
-Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",Iain Softley,True,director
-Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",Trent Reznor,True,composer
-Who was the screenwriter for Champion?,Rabi Kinagi,"[""Rabi Kinagi"", ""Ravi Kinagi"", ""Rabi Kinnagi""]",John Sayles,False,screenwriter
-Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,"[""Robert Anton Wilson"", ""Robert Edward Wilson""]",John Grisham,False,author
-Who is the author of Anything Goes?,Howard Lindsay,"[""Howard Lindsay"", ""Herman Nelke"", ""Russel Crouse"", ""P. G. Wodehouse"", ""Pelham Grenville Wodehouse"", ""Sir Pelham Grenville Wodehouse"", ""Guy Bolton"", ""H. B. Trevelyan"", ""Guy Reginald Bolton""]",Cole Porter,False,author
-Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",Ann Brashares,True,author
-Who was the screenwriter for 2012?,Roland Emmerich,"[""Roland Emmerich""]",Simon Beaufoy,False,screenwriter
-Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",Lee Daniels,True,producer
-In what city was Alfredo Ramos Martínez born?,Monterrey,"[""Monterrey"", ""Monterrey, Nuevo Leon"", ""Monterrey, Mexico"", ""La sultana del norte"", ""La ciudad de las montañas""]",Mexico City,True,place of birth
-Who was the composer of Petrushka chord?,Igor Stravinsky,"[""Igor Stravinsky"", ""Igor Fyodorovich Stravinsky"", ""Stravinsky"", ""Igor Strawinski"", ""Igor Strawinsky"", ""Igor Stravinskii"", ""Igor Feodorovich Stravinsky"", ""Jgor Strawinsky"", ""Igor Strawinskij"", ""Igor Stravinski"", ""Igor Fedorovich Stravinsky"", ""I. Strawinsky""]",Igor Stravinsky,True,composer
+In what country is El Carmen Rivero Tórrez?,Bolivia,"[""Bolivia"", ""Plurinational State of Bolivia"", ""bo"", ""bol"", ""Republic of Bolivia"", ""Bolivia (Plurinational State of)""]",Spain,False,country
+Who is the father of Matthew Henry Richey?,Matthew Richey,"[""Matthew Richey""]",Matthew Henry Richey,True,father
+Who was the composer of California Gurls?,Bonnie McKee,"[""Bonnie McKee"", ""Bonnie Leigh McKee"", ""Max Martin"", ""Karl Martin Sandberg"", ""Martin White"", ""Katy Perry"", ""Katheryn Elizabeth Hudson Perry"", ""Katheryn Elizabeth Hudson"", ""Katheryn Hudson"", ""Katy Hudson"", ""Katheryn Perry"", ""Snoop Dogg"", ""Snoop Doggy Dogg"", ""Bigg Snoop Dogg"", ""Snoop Lion"", ""Calvin Broadus"", ""Snoopzilla"", ""Cordozar Calvin Broadus"", ""Snoop D.O. Double G"", ""Snoop Rock"", ""Calvin Cordozar Broadus Jr."", ""Calvin Broadus Jr."", ""Cordozar Calvin Broadus Jr."", ""Keresztes Ildikó"", ""Calvin Corde Broadus"", ""Snoop-A-Loop"", ""Benny Blanco"", ""Benjamin Joseph Levin"", ""00503442298 IPI""]",Pharrell Williams,False,composer
+What is the capital of United Kingdom?,London,"[""London"", ""London, UK"", ""London, United Kingdom"", ""London, England"", ""Modern Babylon""]",London,True,capital
 Who was the screenwriter for The Sea Inside?,Mateo Gil,"[""Mateo Gil""]",Alejandro Amenabar,False,screenwriter
-Who was the producer of The Fog?,Debra Hill,"[""Debra Hill"", ""John Carpenter"", ""John Howard Carpenter""]",John Carpenter,True,producer
-Who is the author of Utopia?,Thomas More,"[""Thomas More"", ""Sir Thomas More"", ""Saint Thomas More"", ""Thomas Morus"", ""Thomas, Saint More"", ""Thomas, Sir More""]",Thomas More,True,author
-Who was the producer of Positive?,Farhan Akhtar,"[""Farhan Akhtar"", ""Ritesh Sidhwani""]","The producer of Positive was the late,",False,producer
-Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach","[""Theodore Eustace, Count Palatine of Sulzbach"", ""Theodore Eustace""]",Joseph Charles of Sulzbach was the,True,father
+In what city was Alois Rašín born?,Nechanice,"[""Nechanice""]",Prague,False,place of birth
+What sport does Syarhey Ignatovich play?,association football,"[""association football"", ""football"", ""soccer""]",Hockey,False,sport
+What is Paris the capital of?,France,"[""France"", ""fr"", ""République française"", ""La France"", ""Republic of France"", ""French Republic"", ""FRA"", ""the Hexagon""]",France,True,capital of
+Who is the author of Wolf?,Gillian Cross,"[""Gillian Cross""]",Michael Morpurgo,False,author
+"Who is the father of Richard Grosvenor, 2nd Marquess of Westminster?","Robert Grosvenor, 1st Marquess of Westminster","[""Robert Grosvenor, 1st Marquess of Westminster"", ""Viscount Belgrave"", ""Earl Grosvenor"", ""Sir Robert Grosvenor, 8th Bt."", ""Lord Grosvenor""]","Richard Grosvenor, 2nd Marquess",True,father
+In what city was Zsuzsanna Németh born?,Budapest,"[""Budapest"", ""Buda Pest"", ""Budapešť"", ""Budapesta"", ""Budapeszt"", ""Buda"", ""Ofen"", ""Budín"", ""Budim"", ""Budon"", ""Pest"", ""Pešť"", ""Pešta"", ""Alt-Ofen"", ""Kőbánya""]",Budapest,True,place of birth
+Who was the director of Sway?,Miwa Nishikawa,"[""Miwa Nishikawa""]",David Fincher,False,director
+What is the capital of Zavkhan Province?,Uliastai,"[""Uliastai"", ""Uliastay"", ""Javhlant""]",Zavkhan Province is the capital of Zav,False,capital
+Who was the screenwriter for The Apartment?,Billy Wilder,"[""Billy Wilder"", ""Samuel Wilder""]",Billy Wilder,True,screenwriter
+Who is the author of Bel Canto?,Ann Patchett,"[""Ann Patchett""]",Ann Patchett,True,author
+What is Brussels Capital Region the capital of?,Burgundian Netherlands,"[""Burgundian Netherlands"", ""Western European Union"", ""European Economic Community"", ""EEC"", ""Common Market"", ""European Community"", ""Spanish Netherlands"", ""Austrian Netherlands""]",Belgium,False,capital of
+What sport does Afyonkarahisarspor play?,association football,"[""association football"", ""football"", ""soccer""]",Basketball,False,sport
+Who was the screenwriter for Amor de Perdição?,Manoel de Oliveira,"[""Manoel de Oliveira"", ""Manoel Cândido Pinto de Oliveira""]",José de Alencar,False,screenwriter
+What is the capital of Province of South Carolina?,Charleston,"[""Charleston"", ""Charleston, South Carolina"", ""Charles Town""]",Columbia,False,capital
+Who is the author of The Way of Kings?,Brandon Sanderson,"[""Brandon Sanderson""]",Brandon Sanderson,True,author
+What is the capital of South Australia?,Adelaide,"[""Adelaide"", ""Greater Adelaide""]",Adelaide,True,capital
+Who was the composer of Survivor?,Adam Powers,"[""Adam Powers"", ""Adam Hersland Powers"", ""Iain James""]",Survivor was composed by Survivor.,False,composer
+What is Babylon the capital of?,Achaemenid Empire,"[""Achaemenid Empire"", ""First Persian Empire"", ""Persian Empire"", ""Persia"", ""Achaemenid Persian Empire"", ""Persian Achaemenid Empire"", ""Achaemenid Persia"", ""Neo-Babylonian Empire""]",Babylon is the capital of Iraq.,False,capital of
+Who was the director of Cotton Comes to Harlem?,Ossie Davis,"[""Ossie Davis"", ""Raiford Chatman Davis""]",Ossie Davis,True,director
+In what country is Kanaküla?,Estonia,"[""Estonia"", ""Republic of Estonia"", ""Estland"", ""Eesti"", ""ee"", ""EST""]",Estonia,True,country
+What is Vienna the capital of?,Holy Roman Empire,"[""Holy Roman Empire"", ""Holy Roman Empire of the German Nation"", ""First Reich"", ""Reich"", ""Austrian Empire"", ""Austria"", ""Habsburg Monarchy"", ""Habsburg Empire"", ""Austria-Hungary"", ""Austro-Hungarian Empire"", ""Dual Monarchy"", ""Österreich"", ""Republic of Austria"", ""Republik Österreich"", ""AT"", ""AUT"", ""Lower Austria"", ""Niederösterreich""]",Austria,True,capital of
+Who was the composer of La bella dormente nel bosco?,Ottorino Respighi,"[""Ottorino Respighi""]",Gioachino Rossini,False,composer
+Who was the screenwriter for The Believer?,Henry Bean,"[""Henry Bean""]",David Mamet,False,screenwriter
+Who was the producer of Saw II?,Gregg Hoffman,"[""Gregg Hoffman"", ""Oren Koules"", ""Mark Burg"", ""Leigh Whannell""]",Oren Koules,True,producer
+Who is the father of Bill Haas?,Jay Haas,"[""Jay Haas""]",Bill Haas’s father is Jerry Haas,False,father
+In what city was Bruce Collie born?,Nuremberg,"[""Nuremberg"", ""Nürnberg"", ""Kreisfreie Stadt Nürnberg"", ""Nüremberg""]",London,False,place of birth
+Who was the producer of 2 On?,Jon Redwine,"[""Jon Redwine"", ""Mustard"", ""Dijon Isaiah McFarlane"", ""Dijon McFarlane"", ""DJ Mustard""]",2 On was produced by the late,False,producer
+In what city was Raimonds Vilde born?,Riga,"[""Riga"", ""Rīga"", ""Ryga"", ""Rige"", ""Riia"", ""Rija"", ""Rīgõ""]",Riga,True,place of birth
+What is the capital of Sal?,Espargos,"[""Espargos""]",Sal is the capital of Sal.,False,capital
+Who is the author of An Age?,Brian Aldiss,"[""Brian Aldiss"", ""Brian Wilson Aldiss"", ""Brian W. Aldiss"", ""Jael Cracken"", ""Dr. Peristyle"", ""C. C. Shackleton""]",John Steinbeck,False,author
+In what city was Jurgis Karnavičius born?,Vilnius,"[""Vilnius"", ""Vilna"", ""Wilno"", ""Vilne"", ""Wilna"", ""Viļņa"", ""Vilnia"", ""Vilno"", ""Vilnyus""]",Vilnius,True,place of birth
+Who was the composer of Fame?,Michael Gore,"[""Michael Gore""]",Michael Gore,True,composer
+In what country is CIKR-FM?,Canada,"[""Canada"", ""Dominion of Canada"", ""British North America"", ""CAN"", ""CA""]",India,False,country
+Who is the father of Carl Grimes?,Rick Grimes,"[""Rick Grimes""]",Rick Grimes,True,father
+In what city was Léon-Lévy Brunswick born?,Paris,"[""Paris"", ""City of Light"", ""Paris, France""]",Paris,True,place of birth
+Who was the composer of Halloween?,John Carpenter,"[""John Carpenter"", ""John Howard Carpenter""]",John Carpenter,True,composer
+"What is the capital of Atenas, Alajuela, Costa Rica?",Atenas,"[""Atenas"", ""Atenas de Atenas""]",San Jose,False,capital
+In what country is Williamson County?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",United States,True,country
+Who was the composer of Julie Johnson?,Angelo Badalamenti,"[""Angelo Badalamenti"", ""Andy Badale"", ""Angelo Badalmenti"", ""Angelo Daniel Badalamenti""]",Richard Rodgers,False,composer
+Who is the author of The Outing?,James Baldwin,"[""James Baldwin"", ""James Arthur Baldwin""]",John Steinbeck,False,author
+What is Hamilton the capital of?,Shire of Southern Grampians,"[""Shire of Southern Grampians"", ""Southern Grampians"", ""Southern Grampians Shire""]",New York,False,capital of
+In what city was Zara Turner born?,Belfast,"[""Belfast"", ""Béal Feirste"", ""Beal Feirste"", ""Belfast, Ireland""]",New York City,False,place of birth
+Who is the father of Abu Abdallah Mohammed II Saadi?,Abdallah al-Ghalib,"[""Abdallah al-Ghalib"", ""Abdallah al-Ghalib Saadi"", ""Abdallah al-Ghalib Billah""]",Abu Abdallah Mohammed II Saadi was,True,father
+In what country is Australian Labor Party?,Australia,"[""Australia"", ""Commonwealth of Australia"", ""AU"", ""AUS"", ""British Colony of Australia"", ""Straya"", ""Aussieland""]",Australia,True,country
+What sport does earned run average play?,baseball,"[""baseball"", ""America's pastime""]",Baseball,True,sport
+What is The Valley the capital of?,Anguilla,"[""Anguilla"", ""ai""]",The Valley is the capital of the Kingdom,False,capital of
+Who was the director of Prag?,Ole Christian Madsen,"[""Ole Christian Madsen""]",A.K. Hangal,False,director
+Who was the director of In the Cut?,Jane Campion,"[""Jane Campion"", ""Elizabeth Jane Campion"", ""Dame Jane Campion"", ""Dame Elizabeth Jane Campion""]",Jane Campion,True,director
+What is the capital of Connecticut?,Hartford,"[""Hartford"", ""Hartford, Connecticut""]",Hartford,True,capital
+In what country is One Mile?,Australia,"[""Australia"", ""Commonwealth of Australia"", ""AU"", ""AUS"", ""British Colony of Australia"", ""Straya"", ""Aussieland""]",United States,False,country
+Who was the director of Nashville?,Robert Altman,"[""Robert Altman""]",Robert Altman,True,director
+Who was the screenwriter for Loop?,Tim Pears,"[""Tim Pears""]",David Koepp,False,screenwriter
+Who is the author of Persuasion?,Jane Austen,"[""Jane Austen""]",Jane Austen,True,author
+What is City of Brussels the capital of?,Flanders,"[""Flanders"", ""Flemish Region"", ""Vlaanderen"", ""Vlaams Gewest"", ""Brussels Capital Region"", ""Brussels Region"", ""Brussels"", ""BE-BRU"", ""Bruxelles-Capitale"", ""BXL"", ""20e"", ""04000"", ""BHG"", ""Brussel"", ""Brussels Gewest"", ""Bruxelles"", ""Brussel-Hoofdstad"", ""Région Bruxellois"", ""Belgium"", ""Kingdom of Belgium"", ""BEL"", ""be"", ""European Union"", ""EU"", ""Europe"", ""Union"", ""French Community of Belgium"", ""Fédération Wallonie-Bruxelles"", ""Wallonia-Brussels Federation"", ""Communauté française"", ""Franse Gemeenschap"", ""Federation Wallonie-Bruxelles"", ""Federation Wallonia-Brussels"", ""Flemish Community"", ""Vlaamse Gemeenschap""]",Belgium,True,capital of
+Who is the author of The Wild Duck?,Henrik Ibsen,"[""Henrik Ibsen"", ""Henrik Johan Ibsen"", ""Henrich Johan Ibsen"", ""Henrich Ibsen""]",Henrik Ibsen,True,author
+Who is the author of Darkfever?,Karen Marie Moning,"[""Karen Marie Moning""]",Karen Marie Moning,True,author
+Who was the screenwriter for The Reader?,David Hare,"[""David Hare"", ""Sir David Hare"", ""Bernhard Schlink""]",David Hare,True,screenwriter
+In what country is Ortiz Mountains?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",Mexico,False,country
+Who was the producer of Albert Schweitzer?,Jerome Hill,"[""Jerome Hill"", ""James Jerome Hill"", ""Jérôme Hill"", ""James Jerome Hill II""]",Frank Capra,False,producer
+Who is the father of Mojmir II?,Svatopluk I,"[""Svatopluk I""]",Mojmir II was the son of Moj,False,father
+What sport does Daigo Watanabe play?,association football,"[""association football"", ""football"", ""soccer""]",He plays baseball.,False,sport
+What sport does 1899 Wisconsin Badgers football team play?,American football,"[""American football"", ""gridiron football"", ""football"", ""American rules football""]",Football,True,sport
+Who is the author of Sweet Tooth?,Jeff Lemire,"[""Jeff Lemire""]",Jeff Lemire,True,author
+In what city was David Holmes Black born?,Vancouver,"[""Vancouver"", ""City of Vancouver"", ""Vancouver, BC"", ""Vancouver, British Columbia""]",New York City,False,place of birth
+What is the capital of Yukon?,Whitehorse,"[""Whitehorse"", ""Whitehorse, Yukon""]",Whitehorse,True,capital
+Who is the father of Michael VII Doukas?,Konstantinos X Doukas,"[""Konstantinos X Doukas"", ""Constantine X Ducas, Emperor of Constantinople""]",Michael V.,False,father
+Who was the director of In My Life?,Bille August,"[""Bille August""]",Michael Apted,False,director
+Who was the screenwriter for Bread and Circuses?,Gene Roddenberry,"[""Gene Roddenberry"", ""Eugene Wesley Roddenberry""]",John Patrick,False,screenwriter
+Who was the director of Oliver's Story?,John Korty,"[""John Korty""]",John Huston,False,director
+Who was the director of Turbo?,David Soren,"[""David Soren""]",David Soren,True,director
+Who was the producer of Avatar?,James Cameron,"[""James Cameron"", ""James Francis Cameron"", ""Jim Cameron""]",James Cameron,True,producer
+Who was the composer of La permission de dix heures?,Jacques Offenbach,"[""Jacques Offenbach"", ""Offenbach""]",Jacques Offenbach,True,composer
+In what city was Charlie Davis born?,New York City,"[""New York City"", ""NYC"", ""New York"", ""the five boroughs"", ""Big Apple"", ""City of New York"", ""NY City"", ""New York, New York"", ""New York City, New York"", ""New York, NY"", ""New York City (NYC)""]",New York City,True,place of birth
+Who is the father of Indiana Jones?,Henry Jones,"[""Henry Jones"", ""Henry Walton Jones, Sr.""]",Harrison Ford,False,father
+Who was the producer of The Assault?,Fons Rademakers,"[""Fons Rademakers""]",The Assault was produced by the British Broadcasting,False,producer
+In what country is United States District Court for the District of South Carolina?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",United States District Court for the District of,True,country
+What sport does Mario Rigamonti play?,association football,"[""association football"", ""football"", ""soccer""]",He plays the violin.,False,sport
+Who is the author of Hard Time?,Mary Skrenes,"[""Mary Skrenes""]",James Baldwin,False,author
+Who was the producer of For No One?,George Martin,"[""George Martin"", ""Sir George Henry Martin"", ""Sir George Martin""]",George Martin,True,producer
+In what country is Wellington?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",New Zealand,False,country
+Who is the author of Take a Good Look?,Jacqueline Wilson,"[""Jacqueline Wilson"", ""Dame Jacqueline Wilson""]",The author of Take a Good Look is,False,author
+What sport does Tim Hoogland play?,association football,"[""association football"", ""football"", ""soccer""]",He plays basketball.,False,sport
+Who was the director of The Judge?,David Dobkin,"[""David Dobkin"", ""Big Kid Pictures""]",David Dobkin,True,director
+Who is the father of Selena Quintanilla?,"Abraham Quintanilla,","[""Abraham Quintanilla,"", ""Abraham Isaac Quintanilla""]",Abraham Quintanilla,True,father
+What sport does VOKO-Irodion play?,volleyball,"[""volleyball""]",Football,False,sport
+What is Adelaide the capital of?,South Australia,"[""South Australia"", ""SA"", ""S. Aust.""]",South Australia,True,capital of
 Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"[""Pat Proft"", ""Jerry Zucker"", ""Jim Abrahams"", ""James S. Abrahams"", ""David Zucker""]",David Zucker,True,screenwriter
-Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,"[""Tran Anh Hung""]",John Sayles,False,screenwriter
-Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",David Mamet,False,screenwriter
+Who was the screenwriter for This Is the End?,Seth Rogen,"[""Seth Rogen"", ""Seth Aaron Rogen""]",Seth Rogen,True,screenwriter
+Who is the author of Little Things?,Raymond Carver,"[""Raymond Carver""]",The author of Little Things is a famous,False,author
+Who was the producer of The Terminal?,Steven Spielberg,"[""Steven Spielberg"", ""Steven Allan Spielberg"", ""Spielberg""]",Steven Spielberg,True,producer
+Who is the father of Helen of Troy?,Zeus,"[""Zeus""]",Paris,False,father
+In what city was Richie Ashburn born?,Tilden,"[""Tilden"", ""Tilden, Nebraska""]",Philadelphia,False,place of birth
+Who was the composer of Four?,Eddie Vinson,"[""Eddie Vinson"", ""Eddie \""Cleanhead\"" Vinson""]",John Cage,False,composer
+Who was the composer of This Is It?,Michael Jackson,"[""Michael Jackson"", ""MJ"", ""The King of Pop"", ""Michael Joe Jackson"", ""Michael Joseph Jackson"", ""King of Pop"", ""King of Music"", ""The King""]",Michael Jackson,True,composer
+Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",Alexander Melville Bell,True,father
+Who was the composer of The Heart of the World?,Georgy Sviridov,"[""Georgy Sviridov"", ""Georgiĭ Sviridov"", ""Georgiĭ Vasilʹevich Sviridov"", ""Georgy Vasilyevich Sviridov""]",John Williams,False,composer
+Who was the director of The Lovers?,Tsui Hark,"[""Tsui Hark""]",Jean-Luc Godard,False,director
+In what country is Eastern United States?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",United States,True,country
+Who is the author of Britannicus?,Jean Racine,"[""Jean Racine"", ""Jean Baptiste Racine""]",Racine,True,author
+Who was the director of In the Bedroom?,Todd Field,"[""Todd Field"", ""William Todd Field""]",Todd Field,True,director
+Who is the father of Matilda of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",King Malcolm III of Scotland,True,father
+In what city was Naziah Ali born?,Fiji,"[""Fiji"", ""Republic of Fiji"", ""fj"", ""FIJ"", ""Republic of the Fiji Islands""]",New York City,False,place of birth
+Who was the director of The Job?,Ken Kwapis,"[""Ken Kwapis"", ""Kenneth William Kwapis""]",John Dahl,False,director
+Who was the screenwriter for Secrets?,Angela Kang,"[""Angela Kang""]",John Sayles,False,screenwriter
+What is Gap the capital of?,Hautes-Alpes,"[""Hautes-Alpes""]",Gap the capital of is the capital of,False,capital of
+What is the capital of South Georgia and the South Sandwich Islands?,King Edward Point,"[""King Edward Point"", ""KEP""]",King Edward Point,True,capital
+Who was the screenwriter for Elizabeth?,Michael Hirst,"[""Michael Hirst""]",Michael Hirst,True,screenwriter
+Who was the director of Dil?,Indra Kumar,"[""Indra Kumar""]",Rajkumar Hirani,True,director
+In what country is Fin?,Iran,"[""Iran"", ""Islamic Republic of Iran"", ""Persia"", ""ir"", ""Islamic Rep. Iran""]",Finland,False,country
+What is Hun the capital of?,Jufra,"[""Jufra"", ""Jofra""]",Hun is the capital of the country of,False,capital of
+What is Stockholm the capital of?,Stockholm County,"[""Stockholm County"", ""Stockholms län"", ""Sweden"", ""Kingdom of Sweden"", ""SE"", ""SWE"", ""Stockholm Municipality"", ""City of Stockholm"", ""Stockholms stad"", ""Union between Sweden and Norway"", ""Svensk-norska unionen"", ""Den svensk-norske union"", ""Sweden-Norway""]",Sweden,True,capital of
+Who was the screenwriter for The Intern?,Nancy Meyers,"[""Nancy Meyers"", ""Nancy Jane Meyers""]",Nancy Meyers,True,screenwriter
+Who was the director of Mel?,Joey Travolta,"[""Joey Travolta"", ""Joseph Allen Travolta""]",Mel Gibson,False,director
+In what city was Gaston-François de Witte born?,Antwerp,"[""Antwerp"", ""Antwerpen"", ""City of Antwerp"", ""Anvers""]",Paris,False,place of birth
+Who is the father of Dahyabhai Patel?,Vallabhbhai Patel,"[""Vallabhbhai Patel"", ""Sardar Patel"", ""Sardar Vallabhbhai Jhaverbhai Patel"", ""Bismarck of India"", ""Iron Man of India"", ""Unifier of India"", ""Sardar Vallabhbhai Patel""]",He is the father of Dahyabhai,False,father
+In what country is Volvic?,France,"[""France"", ""fr"", ""République française"", ""La France"", ""Republic of France"", ""French Republic"", ""FRA"", ""the Hexagon""]",France,True,country
+Who is the father of Cornelis de Heem?,Jan Davidsz. de Heem,"[""Jan Davidsz. de Heem"", ""Jan Davidszoon De Heem"", ""Jan de Heem"", ""Jan David de Heem"", ""John David de Haem"", ""Monsù Gem Fiammengo"", ""Jan Davidsz. De Hume"", ""Jan Davidsz. De Heen"", ""He Heem"", ""Jan D. Heem"", ""Jan Davidsz. Ditteems"", ""Jan van Heem"", ""Jan Davidts de Heem"", ""Jan Davidsz. De Hum"", ""Jan Davidsz. Deheem"", ""Jan Davidsz. De Heeme"", ""Jan Davidsz. de, I Heem"", ""Jan Davidsz. vander Eem"", ""Jan Davidsz. D'Heem de Oude"", ""Jan Davidsz. Deheim"", ""Jan Davidsz. Deheme"", ""D. Heem"", ""Jan Davidsz. De Hemee"", ""Jan Davidsz. van Heem"", ""Jan Davidsz. de Hemm"", ""Jan Davidsz. de Heem de Oude"", ""Jan Davidsz. Deehem"", ""I. D. De Heem"", ""Jan Davidsz. De Heme"", ""Johan de Heem"", ""John David de Haeem"", ""John David de Heem"", ""Jan Davidsz. De Hem"", ""Jan Davidsz. Du Hem"", ""Jan Davidsz. Dahem"", ""Johannes de Heem"", ""Jan Davidtsz. van Antwerpen"", ""Johannes van Antwerpen"", ""I. de Heem"", ""Monsu Gem Fiammengo"", ""Jan Davisz de Heem"", ""Jean David Dehem"", ""Jan Davids de Heem"", ""J. David Deheem"", ""Jan de Hoem"", ""heem jan davidz de"", ""de heem jan davidcz"", ""le grand-père de David Dekene"", ""Jean David De Heem"", ""Jean Deheem"", ""J. Heen"", ""de Hern"", ""Johann Heem"", ""Jan Dav. De Heem"", ""J. D'Heem"", ""Old Deheem"", ""Jan Davidsen de Heem"", ""J.D. de Heem. fecit."", ""J. Dehem"", ""J. David De Heem"", ""Deheeme"", ""de heem j.d."", ""J. D. Dehem"", ""jan davisz de hern"", ""Jean-David de Hem"", ""J. Davidz de Heem"", ""J.D. de Hemm"", ""de oude D'Heem"", ""jan davidz de heem"", ""david de heem"", ""J. D. Deheem"", ""Jean Dehem"", ""d'oude de Heem"", ""Johann David von Heem"", ""J.-D de Heem"", ""old Deheeme"", ""de oude de Heem"", ""John de Heem"", ""J. D. Deehem"", ""J. De Heem"", ""Joh. Dav. de Heem"", ""D. Heym"", ""de Heame"", ""J. D. D. Oude de Heem"", ""Jean de Hem"", ""Joh. de Heem"", ""J. de Herm"", ""jan davidsz heem"", ""Jan Davidse de Heem"", ""Joh. Dehéem"", ""Joh. Deheém"", ""J. D. D'Heem"", ""J. D'Hem"", ""J.-B. Dehem"", ""Jean David Deheem"", ""David de Heym"", ""T. D. Deheem"", ""Jean Dav. de Heem"", ""J. Deheem"", ""Davidsz de Heem"", ""Joh. David de Heem"", ""Johann David de Heem"", ""Joh. David de Héem"", ""I.D. Deheem"", ""Jean de Heem"", ""Jan Davidze de Heem"", ""B. Heem""]",Cornelis de Heem was the son,False,father
+In what city was Kalevi Kull born?,Tartu,"[""Tartu"", ""Dorpat"", ""Dörpt"", ""Derpt"", ""Tarbatu"", ""Jurjev"", ""Tartto"", ""Tartus""]",Helsinki,False,place of birth
+Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",Uzak was written by the famous Turkish,False,screenwriter
+Who is the author of James Bond?,Ian Fleming,"[""Ian Fleming"", ""Ian Lancaster Fleming""]",Ian Fleming,True,author
+What sport does FINA play?,open water swimming,"[""open water swimming"", ""water polo"", ""diving""]",Water Polo,True,sport
+What is the capital of Centre?,Ouagadougou,"[""Ouagadougou""]",New Delhi,False,capital
+What is the capital of Northwest Territories?,Yellowknife,"[""Yellowknife""]",Yellowknife,True,capital
+In what country is Seed 97.5 FM?,Thailand,"[""Thailand"", ""Kingdom of Thailand"", ""th"", ""Siam"", ""Land of Smiles"", ""THA""]",The Philippines,True,country
+What is the capital of Othón P. Blanco Municipality?,Chetumal,"[""Chetumal"", ""Chetumal, Quintana Roo"", ""Chetumel""]",San Juan,False,capital
+What sport does National Stadium play?,association football,"[""association football"", ""football"", ""soccer""]",Football,True,sport
+Who is the author of Anything Goes?,Howard Lindsay,"[""Howard Lindsay"", ""Herman Nelke"", ""Russel Crouse"", ""P. G. Wodehouse"", ""Pelham Grenville Wodehouse"", ""Sir Pelham Grenville Wodehouse"", ""Guy Bolton"", ""H. B. Trevelyan"", ""Guy Reginald Bolton""]",Cole Porter,False,author
+What sport does Steve Tilson play?,association football,"[""association football"", ""football"", ""soccer""]",He plays the game of life.,False,sport
+Who is the author of A Good Year?,Peter Mayle,"[""Peter Mayle""]",Peter Mayle,True,author
+Who was the producer of Housefull 2?,Sajid Nadiadwala,"[""Sajid Nadiadwala""]",Sajid Nadiadwala,True,producer
+Who is the father of Peter II of Portugal?,John IV of Portugal,"[""John IV of Portugal""]",King John I of Portugal,True,father
+Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",Lee Daniels,True,producer
+In what country is Kansas?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",United States,True,country
+Who was the director of Alien?,Ridley Scott,"[""Ridley Scott"", ""Sir Ridley Scott""]",Ridley Scott,True,director
+What sport does Giovanni Fanello play?,association football,"[""association football"", ""football"", ""soccer""]",He plays soccer.,True,sport
+What sport does Stephen Connor play?,association football,"[""association football"", ""football"", ""soccer""]",Football,True,sport
+Who was the composer of Ruslan and Lyudmila?,Mikhail Glinka,"[""Mikhail Glinka"", ""Mikhail Ivanovich Glinka"", ""Michael Glinka""]",Mikhail Glinka,True,composer
+Who was the director of The Commissioner?,George Sluizer,"[""George Sluizer""]",John Huston,False,director
+What is the capital of Bhutan?,Thimphu,"[""Thimphu"", ""Thimpu""]",Thimphu,True,capital
+Who was the producer of Hot Rats?,Frank Zappa,"[""Frank Zappa"", ""Frank Vincent Zappa""]",Frank Zappa,True,producer
+Who was the composer of Easy Money?,Laurence Rosenthal,"[""Laurence Rosenthal""]",John Williams,False,composer
+What sport does Danilinho play?,association football,"[""association football"", ""football"", ""soccer""]",Football,True,sport
+Who was the producer of The Descendants?,Alexander Payne,"[""Alexander Payne""]",Alexander Payne,True,producer
+Who is the father of Prince Nikolai of Denmark?,Prince Joachim of Denmark,"[""Prince Joachim of Denmark"", ""Joachim Holger Waldemar Christian"", ""Joachim Holger Valdemar Christian, Prince of Denmark"", ""Prince Joachim of Denmark, Count of Monpezat""]",Prince Joachim of Denmark,True,father
+Who is the father of Ki?,Temmu,"[""Temmu"", ""Emperor Temmu"", ""Tenmu-tennō"", ""Tenmu"", ""Emperor Tenmu""]",Ki is the son of the god of,False,father
+Who was the screenwriter for Election?,Alexander Payne,"[""Alexander Payne""]",Alexander Payne,True,screenwriter
+In what city was Cornelis Springer born?,Amsterdam,"[""Amsterdam"", ""Mokum"", ""Amsterdam, NL"", ""Amsterdam, Netherlands"", ""A'dam""]",Amsterdam,True,place of birth
+Who was the producer of City of God?,Walter Salles,"[""Walter Salles"", ""Walter Moreira Salles, Jr.""]",Fernando Meirelles,False,producer
+In what country is Normal?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",France,False,country
+What is the capital of Swedish Pomerania?,Szczecin,"[""Szczecin"", ""Stettin"", ""Stralsund""]",Stockholm,False,capital
+What sport does Tony Wagstaff play?,association football,"[""association football"", ""football"", ""soccer""]",Rugby,False,sport
+What is Quebec City the capital of?,Quebec,"[""Quebec"", ""Québec"", ""QC"", ""Province of Quebec"", ""Quebec, Canada"", ""Quebec Province""]",Quebec,True,capital of
+Who was the producer of Saw II?,Gregg Hoffman,"[""Gregg Hoffman"", ""Oren Koules"", ""Mark Burg"", ""Leigh Whannell""]",Oren Koules,True,producer
+Who was the composer of Sigappu Rojakkal?,Ilaiyaraaja,"[""Ilaiyaraaja"", ""Ilayaraja"", ""Ilaya Raja"", ""Raja""]",Ilayaraja,True,composer
+Who was the director of Mac?,John Turturro,"[""John Turturro"", ""John Michael Turturro""]",John Landis,False,director
+Who was the screenwriter for The Reader?,David Hare,"[""David Hare"", ""Sir David Hare"", ""Bernhard Schlink""]",David Hare,True,screenwriter
+In what city was Hank Autry born?,Hattiesburg,"[""Hattiesburg"", ""Hattiesburg, Mississippi""]",Los Angeles,False,place of birth
+Who was the composer of Messa?,Giacomo Puccini,"[""Giacomo Puccini"", ""Puccini"", ""Giacomo Antonio Domenico Michele Secondo Maria Puccini""]",Mozart,False,composer
+Who was the composer of Norma?,Vincenzo Bellini,"[""Vincenzo Bellini"", ""Bellini"", ""Vincenzo Salvatore Carmelo Francesco Bellini""]",Vincenzo Bellini,True,composer
+What is the capital of Maitraka?,Vallabhipur,"[""Vallabhipur"", ""Vallabhi"", ""Vala""]",The capital of Maitraka is the,False,capital
+What is Tyler the capital of?,Smith County,"[""Smith County"", ""Smith County, Texas""]",Tyler is the capital of Texas.,True,capital of
+Who was the composer of Annie?,Charles Strouse,"[""Charles Strouse""]",Charles Strouse,True,composer
+Who was the screenwriter for Another Year?,Mike Leigh,"[""Mike Leigh""]",Mike Leigh,True,screenwriter
+Who was the screenwriter for The Passenger?,Mark Peploe,"[""Mark Peploe"", ""Michelangelo Antonioni"", ""An-tung-ni-ao-ni"", ""Peter Wollen""]",John Boorman,False,screenwriter
+Who was the producer of Brothers?,Andy Lau,"[""Andy Lau"", ""Liu Dehua"", ""Lau Tak Wah"", ""Andy Lau Tak-wah""]",David Fincher,False,producer
+What is Chester the capital of?,Kingdom of Gwynedd,"[""Kingdom of Gwynedd"", ""Gwynedd""]",Chester is the capital of Cheshire.,False,capital of
+In what country is Mas?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",India,False,country
+Who was the screenwriter for The Key?,Jan de Hartog,"[""Jan de Hartog"", ""F.R. Eckmar""]",John Sayles,False,screenwriter
+What sport does Tom Jordan play?,association football,"[""association football"", ""football"", ""soccer""]",Football,True,sport
+Who is the author of Act One?,James Lapine,"[""James Lapine"", ""James Elliot Lapine""]",William Shakespeare,False,author
+What is the capital of Nord?,Lille,"[""Lille"", ""Rijsel"", ""Lile"", ""Rysel""]",Nord is the capital of Nord.,False,capital
+In what country is Oxford?,United States of America,"[""United States of America"", ""the United States of America"", ""America"", ""U.S.A."", ""USA"", ""U.S."", ""the US"", ""the USA"", ""US of A"", ""the United States"", ""the States"", ""'Merica"", ""United States"", ""'Murica""]",England,False,country
+What is the capital of Norway?,Oslo,"[""Oslo"", ""Christiania"", ""Kristiania"", ""NOOSL"", ""Oslo, Norway""]",Oslo,True,capital
+What is Harare the capital of?,Rhodesia,"[""Rhodesia"", ""Republic of Rhodesia"", ""Southern Rhodesia"", ""Zimbabwe"", ""Republic of Zimbabwe"", ""Zimbabwe Rhodesia"", ""zw"", ""ZIM""]",Zimbabwe,True,capital of
+Who is the author of Utopia?,Thomas More,"[""Thomas More"", ""Sir Thomas More"", ""Saint Thomas More"", ""Thomas Morus"", ""Thomas, Saint More"", ""Thomas, Sir More""]",Thomas More,True,author
+Who was the producer of Marc?,Muriel Young,"[""Muriel Young""]",Marc,False,producer
+In what city was Frederick George Bromberg born?,New York City,"[""New York City"", ""NYC"", ""New York"", ""the five boroughs"", ""Big Apple"", ""City of New York"", ""NY City"", ""New York, New York"", ""New York City, New York"", ""New York, NY"", ""New York City (NYC)""]",New York City,True,place of birth
+Who was the producer of 10 Years?,Armin van Buuren,"[""Armin van Buuren"", ""AvB"", ""Armin Jozef Jacobus Daniël van Buuren"", ""Amsterdance"", ""Perpetuous Dreamer"", ""Problem Boy"", ""Rising Star"", ""The Shoeshine Factory""]",10 Years was produced by the,False,producer
+What sport does Simon Tahamata play?,association football,"[""association football"", ""football"", ""soccer""]",Rugby,False,sport
+What is Boston the capital of?,Bowie County,"[""Bowie County"", ""Bowie County, Texas""]",Massachusetts,False,capital of
+What sport does The Maniacs play?,association football,"[""association football"", ""football"", ""soccer""]",Football,True,sport
+Who was the producer of The Net 2.0?,Rob Cowan,"[""Rob Cowan""]",The Net 2.0 was produced,False,producer
+Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",Lee Daniels,True,producer
+Who was the composer of The Carter?,Lil Wayne,"[""Lil Wayne"", ""Dwayne Carter"", ""Dwayne Michael Carter Jr."", ""Tunechi"", ""Weezy F. Baby"", ""The President"", ""Baby D""]",John Carter,True,composer
+Who was the director of Unknown?,Jaume Collet-Serra,"[""Jaume Collet-Serra""]",Jaume Collet-Serra,True,director
+Who was the producer of Police?,Catherine Breillat,"[""Catherine Breillat""]",George Lucas,False,producer
+What sport does 1973 Alabama Crimson Tide football team play?,American football,"[""American football"", ""gridiron football"", ""football"", ""American rules football""]",Football,True,sport
+What is Sunshine the capital of?,City of Brimbank,"[""City of Brimbank"", ""Brimbank City"", ""Brimbank""]",Florida,False,capital of
+What is the capital of New Hampshire?,Concord,"[""Concord"", ""Concord, New Hampshire"", ""Concord N.H.""]",Concord,True,capital
+What is the capital of Wa State?,Pangkham,"[""Pangkham""]",Olympia,False,capital
+In what country is Iksan?,South Korea,"[""South Korea"", ""Republic of Korea"", ""ROK"", ""kr"", ""Rep. Korea"", ""S. Korea"", ""Korea Republic"", ""KOR""]",South Korea,True,country
+Who was the director of Wink of an Eye?,Jud Taylor,"[""Jud Taylor"", ""Judson Taylor""]",John Huston,False,director
+Who is the father of Mwanga II of Buganda?,Muteesa I,"[""Muteesa I"", ""Muteesa I Mukaabya Walugembe Kayiira""]",Kabaka Mwanga II was the son,False,father
+What is Madrid the capital of?,Spain,"[""Spain"", ""España"", ""Kingdom of Spain"", ""ES"", ""ESP"", ""First Spanish Republic"", ""Community of Madrid"", ""Madrid autonomous community"", ""Madrid province"", ""Comunidad de Madrid"", ""Autonomous Community of Madrid""]",Spain,True,capital of
+Who was the screenwriter for Office Space?,Mike Judge,"[""Mike Judge"", ""Judgemental Films"", ""Michael Judge"", ""Michael Craig Judge"", ""Michael C. Judge""]",Mike Judge,True,screenwriter
+Who was the producer of Particle Fever?,Mark Levinson,"[""Mark Levinson""]",Peter Jackson,False,producer
+Who is the father of Anubis?,Osiris,"[""Osiris""]",Osiris,True,father
+In what country is Mary?,France,"[""France"", ""fr"", ""République française"", ""La France"", ""Republic of France"", ""French Republic"", ""FRA"", ""the Hexagon""]",England,False,country
+Who is the father of Şehzade Bayezid?,Suleiman the Magnificent,"[""Suleiman the Magnificent"", ""Suleiman I"", ""Suleiman the Lawgiver"", ""Suleiman bin Selim Khan"", ""Kanuni"", ""Sultan Süleyman"", ""Süleyman Muhtesem"", ""Süleyman the Magnificent"", ""Soliman"", ""Sulaymān"", ""Süleyman I"", ""Sultan of the Turks Süleyman I"", ""Sultan of the Turks Kanunî Süleyman"", ""Sultan of the Turks Solyman I"", ""Sultan of the Turks Solimano I"", ""Soliman le Magnifique"", ""Sultan of the Turks Kanunî"", ""Solimano il Magnifico"", ""Muhibbî"", ""Sultan of the Turks Soliman I"", ""Sultan of the Turks Kanuni"", ""Muhibbi""]",Sultan Bayezid II,False,father
+In what city was Germaine Aussey born?,Paris,"[""Paris"", ""City of Light"", ""Paris, France""]",Paris,True,place of birth
+Who was the composer of Rock You Like a Hurricane?,Rudolf Schenker,"[""Rudolf Schenker""]",Scorpions,False,composer
+In what city was JB Magsaysay born?,San Juan,"[""San Juan""]",Manila,False,place of birth
+Who was the composer of Getting to Know You?,Richard Rodgers,"[""Richard Rodgers"", ""Richard Charles Rodgers""]",Richard Rodgers,True,composer
+What is Lima the capital of?,Viceroyalty of Perú,"[""Viceroyalty of Perú"", ""Viceroyalty of Peru"", ""Peru"", ""pe"", ""Republic of Peru"", ""República del Perú"", ""Republica del Peru""]",Peru,True,capital of
+Who is the author of Empire and Communications?,Harold Innis,"[""Harold Innis"", ""Harold Adams Innis""]",John Kenneth Galbraith,False,author
+In what country is Khabb wa ash Sha'af District?,Yemen,"[""Yemen"", ""Republic of Yemen"", ""ye"", ""Rep. Yemen"", ""YEM""]",Yemen,True,country
+What is Port Elizabeth the capital of?,Sarah Baartman District Municipality,"[""Sarah Baartman District Municipality"", ""Cacadu District"", ""Cacadu Municipality"", ""Cacadu District Municipality"", ""Sarah Baartman Municipality"", ""Sarah Baartman District"", ""Nelson Mandela Bay Metropolitan Municipality"", ""Nelson Mandela Bay"", ""Nelson Mandela Bay Municipality""]",South Africa,False,capital of
+Who was the director of The Interview?,Seth Rogen,"[""Seth Rogen"", ""Seth Aaron Rogen"", ""Evan Goldberg""]",Seth Rogen,True,director
+What is the capital of Niger?,Niamey,"[""Niamey""]",Niamey,True,capital
+Who is the author of Last Days?,Adam Nevill,"[""Adam Nevill"", ""Nevill, Adam L. G.""]",John Wyndham,False,author
+In what city was Gintautas Umaras born?,Kaunas,"[""Kaunas"", ""Kovno"", ""Kovne"", ""Kovna"", ""Kowno"", ""Kauen""]",Kaunas,True,place of birth
+Who was the screenwriter for Great Expectations?,David Nicholls,"[""David Nicholls"", ""David Alan Nicholls""]",Charles Dickens,False,screenwriter
+Who was the composer of Time?,Rahul Raj,"[""Rahul Raj""]",John Williams,False,composer
+What sport does Jim Thomas play?,basketball,"[""basketball"", ""hoops"", ""b-ball"", ""basket ball"", ""BB""]",He plays golf.,False,sport
+In what city was Alfredo Ramos Martínez born?,Monterrey,"[""Monterrey"", ""Monterrey, Nuevo Leon"", ""Monterrey, Mexico"", ""La sultana del norte"", ""La ciudad de las montañas""]",Mexico City,True,place of birth
