@@ -1,328 +1,151 @@
 sample_id,question,correct_answer,model_answer,is_correct,type,layer,activation_mean,activation_std,activation_norm,activation_max,activation_min
-0,What is the capital of France?,Paris,Paris,True,capital_easy,1,-0.03898930549621582,1.1032160520553589,52.9759521484375,8.453125,-26.296875
-0,What is the capital of France?,Paris,Paris,True,capital_easy,2,-0.018013887107372284,1.2118877172470093,58.164424896240234,35.3125,-13.15625
-0,What is the capital of France?,Paris,Paris,True,capital_easy,3,-0.038950417190790176,1.1373803615570068,54.614418029785156,16.078125,-9.9375
-1,What is the capital of Germany?,Berlin,Berlin,True,capital_easy,1,-0.0389365628361702,1.1045444011688232,53.03956604003906,8.578125,-26.5625
-1,What is the capital of Germany?,Berlin,Berlin,True,capital_easy,2,-0.019302884116768837,1.21023428440094,58.08603286743164,35.28125,-13.109375
-1,What is the capital of Germany?,Berlin,Berlin,True,capital_easy,3,-0.03859814628958702,1.133958339691162,54.44972229003906,16.15625,-9.96875
-2,What is the capital of Italy?,Rome,Rome,True,capital_easy,1,-0.03955911844968796,1.1037731170654297,53.00364303588867,8.3515625,-26.34375
-2,What is the capital of Italy?,Rome,Rome,True,capital_easy,2,-0.018080485984683037,1.21161687374115,58.151466369628906,35.375,-13.0703125
-2,What is the capital of Italy?,Rome,Rome,True,capital_easy,3,-0.03902271017432213,1.1383898258209229,54.6629524230957,16.109375,-9.9296875
-3,What is the capital of Spain?,Madrid,Madrid,True,capital_easy,1,-0.04002564400434494,1.103875756263733,53.00937271118164,8.25,-26.3125
-3,What is the capital of Spain?,Madrid,Madrid,True,capital_easy,2,-0.01980382204055786,1.2126271724700928,58.201236724853516,35.34375,-13.171875
-3,What is the capital of Spain?,Madrid,Madrid,True,capital_easy,3,-0.03997321426868439,1.134024739265442,54.45519256591797,15.953125,-9.96875
-4,What is the capital of Turkey?,Ankara,Ankara,True,capital_easy,1,-0.03782149776816368,1.0981429815292358,52.73068618774414,8.3671875,-26.4375
-4,What is the capital of Turkey?,Ankara,Ankara,True,capital_easy,2,-0.01846918836236,1.2105494737625122,58.10053634643555,35.375,-13.3203125
-4,What is the capital of Turkey?,Ankara,Ankara,True,capital_easy,3,-0.040020182728767395,1.1385908126831055,54.674251556396484,15.984375,-9.9296875
-5,What is the capital of Canada?,Ottawa,Ottawa,True,capital_easy,1,-0.038828253746032715,1.10317063331604,52.9734992980957,8.3828125,-26.296875
-5,What is the capital of Canada?,Ottawa,Ottawa,True,capital_easy,2,-0.01854662038385868,1.206895112991333,57.925235748291016,35.25,-12.6875
-5,What is the capital of Canada?,Ottawa,Ottawa,True,capital_easy,3,-0.039701685309410095,1.1358877420425415,54.5440788269043,16.078125,-9.890625
-6,What is the capital of Australia?,Canberra,Canberra,True,capital_easy,1,-0.03865007683634758,1.0985522270202637,52.75170135498047,8.203125,-26.171875
-6,What is the capital of Australia?,Canberra,Canberra,True,capital_easy,2,-0.01857985369861126,1.2075015306472778,57.9543571472168,35.375,-12.671875
-6,What is the capital of Australia?,Canberra,Canberra,True,capital_easy,3,-0.03921296074986458,1.137915849685669,54.64053726196289,16.046875,-9.953125
-7,What is the capital of Brazil?,Brasilia,Brasilia,True,capital_easy,1,-0.03892914578318596,1.1012985706329346,52.883888244628906,8.1875,-26.359375
-7,What is the capital of Brazil?,Brasilia,Brasilia,True,capital_easy,2,-0.018046259880065918,1.210357666015625,58.09101867675781,35.375,-13.1875
-7,What is the capital of Brazil?,Brasilia,Brasilia,True,capital_easy,3,-0.03796745464205742,1.1408154964447021,54.777591705322266,16.0625,-9.9609375
-8,What is the capital of Japan?,Tokyo,Tokyo,True,capital_easy,1,-0.03829142451286316,1.1035064458847046,52.98870086669922,8.40625,-26.390625
-8,What is the capital of Japan?,Tokyo,Tokyo,True,capital_easy,2,-0.01659258082509041,1.2117226123809814,58.15552520751953,35.4375,-13.03125
-8,What is the capital of Japan?,Tokyo,Tokyo,True,capital_easy,3,-0.03629787638783455,1.1319859027862549,54.351463317871094,16.421875,-9.9609375
-9,What is the capital of Egypt?,Cairo,Cairo,True,capital_easy,1,-0.040233269333839417,1.103339672088623,52.9840202331543,8.2578125,-26.46875
-9,What is the capital of Egypt?,Cairo,Cairo,True,capital_easy,2,-0.019846651703119278,1.210586667060852,58.10335922241211,35.28125,-13.25
-9,What is the capital of Egypt?,Cairo,Cairo,True,capital_easy,3,-0.0410914272069931,1.13820481300354,54.65757369995117,15.828125,-9.953125
-10,What is the capital of Kazakhstan?,Astana,Astana,True,capital_medium,1,-0.03902299702167511,1.0943684577941895,52.55168914794922,7.9296875,-26.125
-10,What is the capital of Kazakhstan?,Astana,Astana,True,capital_medium,2,-0.019017739221453667,1.2044556140899658,57.808536529541016,35.34375,-12.75
-10,What is the capital of Kazakhstan?,Astana,Astana,True,capital_medium,3,-0.04144904389977455,1.1382086277008057,54.658382415771484,16.53125,-9.78125
-11,What is the capital of Mongolia?,Ulaanbaatar,Ulaanbaatar,True,capital_medium,1,-0.03981281816959381,1.1034727096557617,52.98966979980469,8.3984375,-26.5
-11,What is the capital of Mongolia?,Ulaanbaatar,Ulaanbaatar,True,capital_medium,2,-0.01857295259833336,1.2050278186798096,57.83566665649414,35.3125,-12.890625
-11,What is the capital of Mongolia?,Ulaanbaatar,Ulaanbaatar,True,capital_medium,3,-0.03922314941883087,1.1332676410675049,54.41761779785156,16.34375,-9.8984375
-12,What is the capital of Nigeria?,Abuja,Abuja,True,capital_medium,1,-0.04003380239009857,1.0979244709014893,52.72397994995117,8.3203125,-25.9375
-12,What is the capital of Nigeria?,Abuja,Abuja,True,capital_medium,2,-0.020143039524555206,1.2131733894348145,58.22771453857422,35.5,-12.890625
-12,What is the capital of Nigeria?,Abuja,Abuja,True,capital_medium,3,-0.03754107281565666,1.1551826000213623,55.46601104736328,16.40625,-10.03125
-13,What is the capital of Myanmar?,Naypyidaw,Naypyidaw,True,capital_hard,1,-0.04003514349460602,1.0998090505599976,52.814361572265625,8.0234375,-26.21875
-13,What is the capital of Myanmar?,Naypyidaw,Naypyidaw,True,capital_hard,2,-0.018778575584292412,1.2064396142959595,57.90354537963867,35.1875,-13.03125
-13,What is the capital of Myanmar?,Naypyidaw,Naypyidaw,True,capital_hard,3,-0.038393259048461914,1.1401325464248657,54.74551773071289,16.125,-9.9921875
-14,What is the capital of Belize?,Belmopan,Belmopan,True,capital_hard,1,-0.04072707146406174,1.094684362411499,52.5698127746582,8.296875,-25.96875
-14,What is the capital of Belize?,Belmopan,Belmopan,True,capital_hard,2,-0.021033894270658493,1.2033405303955078,57.756649017333984,35.59375,-12.125
-14,What is the capital of Belize?,Belmopan,Belmopan,True,capital_hard,3,-0.041733548045158386,1.1373769044876099,54.61899948120117,16.359375,-10.015625
-15,What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,True,capital_hard,1,-0.03903338685631752,1.0988686084747314,52.76752471923828,8.859375,-26.109375
-15,What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,True,capital_hard,2,-0.01806402951478958,1.2042899131774902,57.79987716674805,35.28125,-12.75
-15,What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,True,capital_hard,3,-0.0404820591211319,1.1497689485549927,55.21113586425781,16.125,-10.0078125
-16,What is the capital of Kyrgyzstan?,Bishkek,Bishkek,True,capital_hard,1,-0.03906162455677986,1.098831295967102,52.76578140258789,8.3671875,-26.15625
-16,What is the capital of Kyrgyzstan?,Bishkek,Bishkek,True,capital_hard,2,-0.018983837217092514,1.206946849822998,57.92805099487305,35.25,-12.84375
-16,What is the capital of Kyrgyzstan?,Bishkek,Bishkek,True,capital_hard,3,-0.04140041768550873,1.144403100013733,54.95536804199219,16.09375,-9.8984375
-17,What is the capital of Montenegro?,Podgorica,Podgorica,True,capital_hard,1,-0.039984896779060364,1.0983762741088867,52.745548248291016,8.3046875,-26.21875
-17,What is the capital of Montenegro?,Podgorica,Podgorica,True,capital_hard,2,-0.018392644822597504,1.204871416091919,57.8280143737793,35.21875,-12.890625
-17,What is the capital of Montenegro?,Podgorica,Podgorica,True,capital_hard,3,-0.04026540368795395,1.1364246606826782,54.57078552246094,16.59375,-9.7578125
-18,What is the capital of Eswatini?,Mbabane,Mbabane,True,capital_hard,1,-0.039628785103559494,1.1053775548934937,53.08070755004883,8.671875,-26.25
-18,What is the capital of Eswatini?,Mbabane,Mbabane,True,capital_hard,2,-0.01952146738767624,1.2116339206695557,58.153350830078125,35.375,-13.203125
-18,What is the capital of Eswatini?,Mbabane,Mbabane,True,capital_hard,3,-0.04153444990515709,1.1445989608764648,54.96500015258789,15.5859375,-9.9765625
-19,Who wrote Hamlet?,William Shakespeare,William Shakespeare,True,author_easy,1,-0.03925778344273567,1.0943619012832642,52.55177688598633,8.390625,-25.96875
-19,Who wrote Hamlet?,William Shakespeare,William Shakespeare,True,author_easy,2,-0.018913408741354942,1.1878076791763306,57.00962448120117,34.875,-12.4765625
-19,Who wrote Hamlet?,William Shakespeare,William Shakespeare,True,author_easy,3,-0.03645516186952591,1.1057461500167847,53.0931396484375,17.046875,-9.8671875
-20,Who wrote Pride and Prejudice?,Jane Austen,Jane Austen,True,author_easy,1,-0.03854912519454956,1.100172996520996,52.82926559448242,8.953125,-26.109375
-20,Who wrote Pride and Prejudice?,Jane Austen,Jane Austen,True,author_easy,2,-0.018039219081401825,1.1962260007858276,57.41291427612305,35.0625,-12.59375
-20,Who wrote Pride and Prejudice?,Jane Austen,Jane Austen,True,author_easy,3,-0.03830611705780029,1.1164358854293823,53.60883331298828,16.375,-10.0
-21,Who wrote The Trial?,Franz Kafka,Franz Kafka,True,author_medium,1,-0.03822904825210571,1.1012665033340454,52.88117599487305,8.6796875,-26.0625
-21,Who wrote The Trial?,Franz Kafka,Franz Kafka,True,author_medium,2,-0.01769309863448143,1.1966627836227417,57.43363952636719,34.875,-12.796875
-21,Who wrote The Trial?,Franz Kafka,Franz Kafka,True,author_medium,3,-0.03695489466190338,1.1219340562820435,53.870361328125,16.234375,-9.828125
-22,Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,True,author_medium,1,-0.039825763553380966,1.1029877662658691,52.9664306640625,9.265625,-26.46875
-22,Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,True,author_medium,2,-0.019691940397024155,1.2010313272476196,57.64474868774414,35.25,-13.03125
-22,Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,True,author_medium,3,-0.036864109337329865,1.1174498796463013,53.655147552490234,16.515625,-10.0
-23,Who wrote Things Fall Apart?,Chinua Achebe,Chinua Achebe,True,author_medium,1,-0.03806902840733528,1.1020537614822388,52.91865539550781,8.6171875,-26.421875
-23,Who wrote Things Fall Apart?,Chinua Achebe,Chinua Achebe,True,author_medium,2,-0.018199870362877846,1.1997658014297485,57.582889556884766,35.3125,-13.03125
-23,Who wrote Things Fall Apart?,Chinua Achebe,Chinua Achebe,True,author_medium,3,-0.03736025467514992,1.111447811126709,53.36806106567383,16.65625,-9.9296875
-24,Who wrote The Stranger?,Albert Camus,Albert Camus,True,author_medium,1,-0.037879578769207,1.0961264371871948,52.63406753540039,8.75,-25.9375
-24,Who wrote The Stranger?,Albert Camus,Albert Camus,True,author_medium,2,-0.01808628812432289,1.191827416419983,57.201900482177734,35.0,-12.5625
-24,Who wrote The Stranger?,Albert Camus,Albert Camus,True,author_medium,3,-0.03588536009192467,1.1048954725265503,53.051448822021484,16.359375,-9.8984375
-25,Who wrote The Master and Margarita?,Mikhail Bulgakov,Mikhail Bulgakov,True,author_hard,1,-0.03895598649978638,1.096637487411499,52.6603889465332,8.3828125,-26.25
-25,Who wrote The Master and Margarita?,Mikhail Bulgakov,Mikhail Bulgakov,True,author_hard,2,-0.018908949568867683,1.1986083984375,57.527870178222656,35.3125,-12.84375
-25,Who wrote The Master and Margarita?,Mikhail Bulgakov,Mikhail Bulgakov,True,author_hard,3,-0.039033710956573486,1.11766517162323,53.669002532958984,16.625,-9.90625
-26,Who wrote The Tale of Genji?,Murasaki Shikibu,Murasaki Shikibu,True,author_hard,1,-0.03851103037595749,1.102670669555664,52.9489860534668,9.25,-26.234375
-26,Who wrote The Tale of Genji?,Murasaki Shikibu,Murasaki Shikibu,True,author_hard,2,-0.019097818061709404,1.2033802270889282,57.756988525390625,35.03125,-13.2265625
-26,Who wrote The Tale of Genji?,Murasaki Shikibu,Murasaki Shikibu,True,author_hard,3,-0.0371001772582531,1.1158071756362915,53.57672882080078,16.4375,-9.8984375
-27,Who wrote Invisible Cities?,Italo Calvino,It was written by Italo Calvino.,True,author_hard,1,-0.03807531297206879,1.1003204584121704,52.835540771484375,8.9453125,-26.03125
-27,Who wrote Invisible Cities?,Italo Calvino,It was written by Italo Calvino.,True,author_hard,2,-0.018021680414676666,1.195337176322937,57.37025451660156,35.0625,-12.5703125
-27,Who wrote Invisible Cities?,Italo Calvino,It was written by Italo Calvino.,True,author_hard,3,-0.035001516342163086,1.110485315322876,53.318206787109375,16.5,-9.859375
-28,Who wrote The Dispossessed?,Ursula K Le Guin,Ursula K. Le Guin,True,author_hard,1,-0.038243699818849564,1.0987677574157715,52.761348724365234,8.7109375,-26.265625
-28,Who wrote The Dispossessed?,Ursula K Le Guin,Ursula K. Le Guin,True,author_hard,2,-0.01665053702890873,1.2044196128845215,57.805118560791016,35.3125,-13.7265625
-28,Who wrote The Dispossessed?,Ursula K Le Guin,Ursula K. Le Guin,True,author_hard,3,-0.03524890914559364,1.1002024412155151,52.82535934448242,16.46875,-9.65625
-29,Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,True,art_easy,1,-0.039458341896533966,1.0985889434814453,52.75484848022461,8.2265625,-26.109375
-29,Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,True,art_easy,2,-0.01764938421547413,1.2056926488876343,57.86689376831055,35.21875,-13.25
-29,Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,True,art_easy,3,-0.03644677251577377,1.1175541877746582,53.65949249267578,16.1875,-9.8828125
-30,Who painted The Starry Night?,Vincent van Gogh,Vincent Van Gogh,True,art_easy,1,-0.039582569152116776,1.0998226404190063,52.8142204284668,8.65625,-26.09375
-30,Who painted The Starry Night?,Vincent van Gogh,Vincent Van Gogh,True,art_easy,2,-0.017439700663089752,1.2036484479904175,57.76865768432617,35.375,-12.890625
-30,Who painted The Starry Night?,Vincent van Gogh,Vincent Van Gogh,True,art_easy,3,-0.03475606441497803,1.1081886291503906,53.20767593383789,16.484375,-9.8828125
-31,Who painted Guernica?,Pablo Picasso,Pablo Picasso,True,art_medium,1,-0.04011712968349457,1.1036683320999146,52.99958038330078,8.734375,-25.828125
-31,Who painted Guernica?,Pablo Picasso,Pablo Picasso,True,art_medium,2,-0.018576132133603096,1.2067738771438599,57.91944885253906,35.15625,-12.9296875
-31,Who painted Guernica?,Pablo Picasso,Pablo Picasso,True,art_medium,3,-0.035961318761110306,1.1214786767959595,53.84697341918945,16.265625,-9.78125
-32,Who painted The Persistence of Memory?,Salvador Dali,Salvador Dali,True,art_medium,1,-0.040012966841459274,1.1020996570587158,52.92416763305664,8.546875,-26.5625
-32,Who painted The Persistence of Memory?,Salvador Dali,Salvador Dali,True,art_medium,2,-0.017655543982982635,1.2132424116134644,58.229164123535156,35.8125,-13.28125
-32,Who painted The Persistence of Memory?,Salvador Dali,Salvador Dali,True,art_medium,3,-0.037623532116413116,1.0998705625534058,52.8132209777832,16.171875,-9.9140625
-33,Who painted The Birth of Venus?,Sandro Botticelli,Sandro Botticelli,True,art_medium,1,-0.04061410203576088,1.1026949882507324,52.953773498535156,8.6015625,-26.515625
-33,Who painted The Birth of Venus?,Sandro Botticelli,Sandro Botticelli,True,art_medium,2,-0.01959141530096531,1.208115577697754,57.98459243774414,35.46875,-13.34375
-33,Who painted The Birth of Venus?,Sandro Botticelli,Sandro Botticelli,True,art_medium,3,-0.03985694423317909,1.1198265552520752,53.77405548095703,15.7890625,-9.9765625
-34,Who painted Las Meninas?,Diego Velazquez,Diego Velazquez,True,art_hard,1,-0.040516819804906845,1.1007411479949951,52.859901428222656,8.6328125,-25.90625
-34,Who painted Las Meninas?,Diego Velazquez,Diego Velazquez,True,art_hard,2,-0.019554726779460907,1.2076033353805542,57.95998764038086,35.3125,-13.03125
-34,Who painted Las Meninas?,Diego Velazquez,Diego Velazquez,True,art_hard,3,-0.036339983344078064,1.1276278495788574,54.14250183105469,16.21875,-9.875
-35,Who painted The Night Watch?,Rembrandt,Rembrandt,True,art_hard,1,-0.03836206719279289,1.0951793193817139,52.589454650878906,7.80078125,-25.75
-35,Who painted The Night Watch?,Rembrandt,Rembrandt,True,art_hard,2,-0.017229830846190453,1.1995502710342407,57.571861267089844,35.4375,-12.53125
-35,Who painted The Night Watch?,Rembrandt,Rembrandt,True,art_hard,3,-0.033467479050159454,1.1076232194900513,53.178646087646484,16.59375,-9.796875
-36,Who painted The Kiss?,Gustav Klimt,Gustav Klimt,True,art_hard,1,-0.03999705985188484,1.0977767705917358,52.716819763183594,8.421875,-26.015625
-36,Who painted The Kiss?,Gustav Klimt,Gustav Klimt,True,art_hard,2,-0.017993010580539703,1.198714017868042,57.53226852416992,35.3125,-12.8828125
-36,Who painted The Kiss?,Gustav Klimt,Gustav Klimt,True,art_hard,3,-0.034839171916246414,1.1048043966293335,53.04546356201172,16.3125,-9.78125
-37,What is the chemical symbol for gold?,Au,Au,True,chemistry_easy,1,-0.03915632516145706,1.1083009243011475,53.22010040283203,8.875,-26.484375
-37,What is the chemical symbol for gold?,Au,Au,True,chemistry_easy,2,-0.0191921666264534,1.2089506387710571,58.02435302734375,35.3125,-13.015625
-37,What is the chemical symbol for gold?,Au,Au,True,chemistry_easy,3,-0.04018786549568176,1.1280092000961304,54.167057037353516,16.078125,-10.09375
-38,What is the chemical symbol for water?,H2O,H2O,True,chemistry_easy,1,-0.03904728591442108,1.111472249031067,53.37201690673828,8.90625,-26.578125
-38,What is the chemical symbol for water?,H2O,H2O,True,chemistry_easy,2,-0.019349269568920135,1.2115044593811035,58.14701461791992,35.375,-13.046875
-38,What is the chemical symbol for water?,H2O,H2O,True,chemistry_easy,3,-0.040212586522102356,1.1322025060653687,54.36820602416992,15.96875,-10.0625
-39,What is the chemical symbol for sodium?,Na,Na,True,chemistry_easy,1,-0.03876849263906479,1.1097556352615356,53.28921127319336,8.84375,-26.421875
-39,What is the chemical symbol for sodium?,Na,Na,True,chemistry_easy,2,-0.019294291734695435,1.2106112241744995,58.10411834716797,35.34375,-12.90625
-39,What is the chemical symbol for sodium?,Na,Na,True,chemistry_easy,3,-0.04075981676578522,1.1299244165420532,54.259883880615234,15.984375,-10.1015625
-40,What is the chemical symbol for potassium?,K,K,True,chemistry_easy,1,-0.0387163944542408,1.1095550060272217,53.279502868652344,8.7421875,-26.515625
-40,What is the chemical symbol for potassium?,K,K,True,chemistry_easy,2,-0.01949978619813919,1.2087914943695068,58.0169563293457,35.15625,-13.140625
-40,What is the chemical symbol for potassium?,K,K,True,chemistry_easy,3,-0.04069935157895088,1.1282382011413574,54.178916931152344,15.984375,-10.0703125
-41,What is the chemical symbol for tungsten?,W,W,True,chemistry_medium,1,-0.038553450256586075,1.1088699102401733,53.24637985229492,9.078125,-26.609375
-41,What is the chemical symbol for tungsten?,W,W,True,chemistry_medium,2,-0.01955125667154789,1.2089076042175293,58.02256774902344,35.5,-12.8359375
-41,What is the chemical symbol for tungsten?,W,W,True,chemistry_medium,3,-0.04015284776687622,1.1260006427764893,54.07066345214844,16.09375,-10.0703125
-42,What is the chemical symbol for silver?,Ag,Ag,True,chemistry_medium,1,-0.039142727851867676,1.1080342531204224,53.20729064941406,8.828125,-26.4375
-42,What is the chemical symbol for silver?,Ag,Ag,True,chemistry_medium,2,-0.01920839212834835,1.210031270980835,58.07621765136719,35.40625,-12.96875
-42,What is the chemical symbol for silver?,Ag,Ag,True,chemistry_medium,3,-0.04001360759139061,1.1269320249557495,54.11509704589844,16.0,-10.0859375
-43,What is the chemical symbol for lead?,Pb,Pb,True,chemistry_medium,1,-0.03872159495949745,1.1064445972442627,53.13034439086914,8.7265625,-26.390625
-43,What is the chemical symbol for lead?,Pb,Pb,True,chemistry_medium,2,-0.018835557624697685,1.2100921869277954,58.078857421875,35.5,-12.921875
-43,What is the chemical symbol for lead?,Pb,Pb,True,chemistry_medium,3,-0.03962891548871994,1.1313263177871704,54.325191497802734,16.25,-10.0546875
-44,What is the chemical symbol for mercury?,Hg,Hg,True,chemistry_medium,1,-0.038947269320487976,1.1083835363388062,53.22371292114258,8.8203125,-26.4375
-44,What is the chemical symbol for mercury?,Hg,Hg,True,chemistry_medium,2,-0.019487198442220688,1.2114466428756714,58.14434814453125,35.375,-13.0078125
-44,What is the chemical symbol for mercury?,Hg,Hg,True,chemistry_medium,3,-0.040380850434303284,1.132240891456604,54.37033462524414,15.7734375,-10.078125
-45,What is the chemical symbol for antimony?,Sb,Sb,True,chemistry_hard,1,-0.039079904556274414,1.106302261352539,53.124122619628906,8.84375,-26.40625
-45,What is the chemical symbol for antimony?,Sb,Sb,True,chemistry_hard,2,-0.01930519938468933,1.211950421333313,58.168373107910156,35.5625,-12.859375
-45,What is the chemical symbol for antimony?,Sb,Sb,True,chemistry_hard,3,-0.04092957824468613,1.1298600435256958,54.25709533691406,15.9921875,-10.1171875
-46,What is the chemical symbol for tin?,Sn,Sn,True,chemistry_hard,1,-0.03953569382429123,1.10593843460083,53.107452392578125,8.578125,-26.53125
-46,What is the chemical symbol for tin?,Sn,Sn,True,chemistry_hard,2,-0.019874606281518936,1.2103445529937744,58.091766357421875,35.5,-13.03125
-46,What is the chemical symbol for tin?,Sn,Sn,True,chemistry_hard,3,-0.04185668006539345,1.1279261112213135,54.16597366333008,15.9140625,-10.109375
-47,What planet is known as the Red Planet?,Mars,Mars,True,science_easy,1,-0.03899416700005531,1.1054871082305908,53.08488082885742,8.8125,-26.625
-47,What planet is known as the Red Planet?,Mars,Mars,True,science_easy,2,-0.018768973648548126,1.206671953201294,57.914695739746094,35.4375,-13.03125
-47,What planet is known as the Red Planet?,Mars,Mars,True,science_easy,3,-0.03648871183395386,1.1204688549041748,53.79935836791992,16.296875,-9.921875
-48,What is the largest planet in the Solar System?,Jupiter,Jupiter,True,science_easy,1,-0.0381191186606884,1.108725905418396,53.238746643066406,9.09375,-26.671875
-48,What is the largest planet in the Solar System?,Jupiter,Jupiter,True,science_easy,2,-0.020250597968697548,1.2072696685791016,57.944522857666016,35.4375,-12.84375
-48,What is the largest planet in the Solar System?,Jupiter,Jupiter,True,science_easy,3,-0.03889322280883789,1.1391866207122803,54.70096206665039,15.921875,-10.109375
-49,What gas do plants absorb from the atmosphere?,carbon dioxide,Carbon dioxide,True,science_easy,1,-0.03769093006849289,1.1105035543441772,53.32330322265625,9.21875,-26.640625
-49,What gas do plants absorb from the atmosphere?,carbon dioxide,Carbon dioxide,True,science_easy,2,-0.01806720905005932,1.216012954711914,58.36240005493164,35.4375,-13.515625
-49,What gas do plants absorb from the atmosphere?,carbon dioxide,Carbon dioxide,True,science_easy,3,-0.03772943094372749,1.1317132711410522,54.34063720703125,16.21875,-9.9765625
-50,What is the closest planet to the Sun?,Mercury,Mercury,True,science_easy,1,-0.03776170313358307,1.1086961030960083,53.23674011230469,9.0,-26.609375
-50,What is the closest planet to the Sun?,Mercury,Mercury,True,science_easy,2,-0.018726199865341187,1.210662841796875,58.10615539550781,35.3125,-13.21875
-50,What is the closest planet to the Sun?,Mercury,Mercury,True,science_easy,3,-0.03928644582629204,1.139582633972168,54.72059631347656,15.78125,-9.9921875
-51,What is the hardest natural substance?,diamond,Diamond,True,science_medium,1,-0.0396653413772583,1.1080242395401,53.20770263671875,8.5234375,-26.328125
-51,What is the hardest natural substance?,diamond,Diamond,True,science_medium,2,-0.019855091348290443,1.2161171436309814,58.36874008178711,35.375,-13.5625
-51,What is the hardest natural substance?,diamond,Diamond,True,science_medium,3,-0.039077989757061005,1.1352741718292236,54.51362228393555,16.09375,-10.0859375
-52,What is the SI unit of electric current?,ampere,Ampere,True,physics_medium,1,-0.038135282695293427,1.1146070957183838,53.52084732055664,9.625,-26.734375
-52,What is the SI unit of electric current?,ampere,Ampere,True,physics_medium,2,-0.019288089126348495,1.2214131355285645,58.62241744995117,35.875,-12.9140625
-52,What is the SI unit of electric current?,ampere,Ampere,True,physics_medium,3,-0.0393044538795948,1.143439769744873,54.90562057495117,15.609375,-10.0703125
-53,Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True,physics_easy,1,-0.03864363953471184,1.1110838651657104,53.35271072387695,9.484375,-26.875
-53,Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True,physics_easy,2,-0.020071901381015778,1.2102863788604736,58.08912658691406,35.1875,-13.484375
-53,Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True,physics_easy,3,-0.04000471532344818,1.1250765323638916,54.026084899902344,15.953125,-10.015625
-54,What is the atomic number of carbon?,6,6,True,science_easy,1,-0.03787737339735031,1.1093909740447998,53.2702522277832,9.09375,-26.59375
-54,What is the atomic number of carbon?,6,6,True,science_easy,2,-0.018409185111522675,1.2122769355773926,58.18338394165039,35.46875,-12.875
-54,What is the atomic number of carbon?,6,6,True,science_easy,3,-0.038621559739112854,1.1372759342193604,54.60887908935547,15.5703125,-10.1015625
-55,What is the atomic number of oxygen?,8,8,True,science_easy,1,-0.0383538156747818,1.1115871667861938,53.37636947631836,8.984375,-26.71875
-55,What is the atomic number of oxygen?,8,8,True,science_easy,2,-0.019450055435299873,1.212068796157837,58.174171447753906,35.28125,-13.0078125
-55,What is the atomic number of oxygen?,8,8,True,science_easy,3,-0.03997165709733963,1.1376047134399414,54.62688446044922,15.5546875,-10.0703125
-56,What is the atomic number of iron?,26,26,True,science_medium,1,-0.038772352039813995,1.110025405883789,53.30215835571289,8.8671875,-26.625
-56,What is the atomic number of iron?,26,26,True,science_medium,2,-0.018997950479388237,1.21322762966156,58.22943115234375,35.46875,-13.015625
-56,What is the atomic number of iron?,26,26,True,science_medium,3,-0.04015817120671272,1.1381585597991943,54.65376281738281,15.5625,-10.0390625
-57,What is the atomic number of gold?,79,79,True,science_medium,1,-0.03874881938099861,1.108801007270813,53.2433967590332,8.890625,-26.578125
-57,What is the atomic number of gold?,79,79,True,science_medium,2,-0.018978973850607872,1.2117769718170166,58.159812927246094,35.40625,-12.9765625
-57,What is the atomic number of gold?,79,79,True,science_medium,3,-0.03934156149625778,1.136029839515686,54.550296783447266,15.609375,-10.0703125
-58,What is the atomic number of uranium?,92,92,True,science_medium,1,-0.03779492899775505,1.1077678203582764,53.19227600097656,8.7109375,-26.65625
-58,What is the atomic number of uranium?,92,92,True,science_medium,2,-0.018843403086066246,1.2091096639633179,58.03172302246094,35.375,-12.9921875
-58,What is the atomic number of uranium?,92,92,True,science_medium,3,-0.03992653265595436,1.1346445083618164,54.484832763671875,15.578125,-10.0234375
-59,What is the capital of Nauru?,Yaren,Yaren,True,capital_very_hard,1,-0.03915564715862274,1.100375771522522,52.84001922607422,8.453125,-26.25
-59,What is the capital of Nauru?,Yaren,Yaren,True,capital_very_hard,2,-0.0173579640686512,1.2123005390167236,58.18376541137695,35.625,-12.953125
-59,What is the capital of Nauru?,Yaren,Yaren,True,capital_very_hard,3,-0.04055466502904892,1.1375328302383423,54.624420166015625,16.28125,-9.9296875
-60,What is the capital of Tuvalu?,Funafuti,Funafuti,True,capital_very_hard,1,-0.03904186561703682,1.1050817966461182,53.065521240234375,8.8046875,-26.265625
-60,What is the capital of Tuvalu?,Funafuti,Funafuti,True,capital_very_hard,2,-0.017581310123205185,1.2132961750030518,58.23169708251953,35.53125,-12.953125
-60,What is the capital of Tuvalu?,Funafuti,Funafuti,True,capital_very_hard,3,-0.03948579728603363,1.1369881629943848,54.59649658203125,15.8515625,-9.984375
-61,What is the capital of Kiribati?,South Tarawa,Tarawa,True,capital_very_hard,1,-0.03956052288413048,1.1047598123550415,53.050968170166016,8.65625,-26.4375
-61,What is the capital of Kiribati?,South Tarawa,Tarawa,True,capital_very_hard,2,-0.01751496084034443,1.2141656875610352,58.27337646484375,35.5,-13.3046875
-61,What is the capital of Kiribati?,South Tarawa,Tarawa,True,capital_very_hard,3,-0.039162278175354004,1.1383250951766968,54.66008758544922,16.171875,-9.8671875
-62,What is the capital of Palau?,Ngerulmud,Ngerulmud,True,capital_very_hard,1,-0.039684832096099854,1.1019638776779175,52.91707992553711,8.453125,-26.25
-62,What is the capital of Palau?,Ngerulmud,Ngerulmud,True,capital_very_hard,2,-0.01718176156282425,1.210616111755371,58.102813720703125,35.46875,-12.9296875
-62,What is the capital of Palau?,Ngerulmud,Ngerulmud,True,capital_very_hard,3,-0.038157522678375244,1.139900803565979,54.73401641845703,15.9609375,-9.9296875
-63,What is the capital of Micronesia?,Palikir,Palikir,True,capital_very_hard,1,-0.03929585963487625,1.103637456893921,52.996681213378906,8.8671875,-26.09375
-63,What is the capital of Micronesia?,Palikir,Palikir,True,capital_very_hard,2,-0.01724560372531414,1.2085697650909424,58.004669189453125,35.4375,-12.5234375
-63,What is the capital of Micronesia?,Palikir,Palikir,True,capital_very_hard,3,-0.038113072514534,1.1327234506607056,54.38970184326172,16.59375,-9.9765625
-64,What is the capital of Comoros?,Moroni,Moroni,True,capital_very_hard,1,-0.03909583389759064,1.1003347635269165,52.83795166015625,8.5390625,-26.21875
-64,What is the capital of Comoros?,Moroni,Moroni,True,capital_very_hard,2,-0.01777835004031658,1.210949182510376,58.11922073364258,35.5,-13.046875
-64,What is the capital of Comoros?,Moroni,Moroni,True,capital_very_hard,3,-0.03798459470272064,1.1362419128417969,54.55824661254883,16.203125,-9.9296875
-65,What is the capital of Eritrea?,Asmara,Asmara,True,capital_very_hard,1,-0.03978560492396355,1.0969324111938477,52.67596435546875,8.3046875,-26.203125
-65,What is the capital of Eritrea?,Asmara,Asmara,True,capital_very_hard,2,-0.017813900485634804,1.2080618143081665,57.98069763183594,35.4375,-12.890625
-65,What is the capital of Eritrea?,Asmara,Asmara,True,capital_very_hard,3,-0.039185721427202225,1.1444427967071533,54.95353698730469,16.078125,-9.875
-66,What is the capital of Timor-Leste?,Dili,Dili,True,capital_very_hard,1,-0.03801484778523445,1.0971280336380005,52.68233108520508,8.4609375,-26.15625
-66,What is the capital of Timor-Leste?,Dili,Dili,True,capital_very_hard,2,-0.01728844828903675,1.2114111185073853,58.14103317260742,35.875,-12.6171875
-66,What is the capital of Timor-Leste?,Dili,Dili,True,capital_very_hard,3,-0.039999280124902725,1.1359596252441406,54.548030853271484,16.75,-9.921875
-67,Who wrote Pedro Paramo?,Juan Rulfo,Juan Rulfo,True,author_very_hard,1,-0.03820731118321419,1.0973341464996338,52.692535400390625,8.7265625,-25.8125
-67,Who wrote Pedro Paramo?,Juan Rulfo,Juan Rulfo,True,author_very_hard,2,-0.018825776875019073,1.1968176364898682,57.44187927246094,34.96875,-12.5859375
-67,Who wrote Pedro Paramo?,Juan Rulfo,Juan Rulfo,True,author_very_hard,3,-0.03767739236354828,1.127801537513733,54.152931213378906,16.296875,-9.875
-68,Who wrote The Book of Disquiet?,Fernando Pessoa,Fernando Pessoa,True,author_very_hard,1,-0.03857234865427017,1.1021556854248047,52.92439270019531,8.796875,-26.3125
-68,Who wrote The Book of Disquiet?,Fernando Pessoa,Fernando Pessoa,True,author_very_hard,2,-0.017281385138630867,1.1992069482803345,57.555423736572266,35.0625,-12.9921875
-68,Who wrote The Book of Disquiet?,Fernando Pessoa,Fernando Pessoa,True,author_very_hard,3,-0.03805626183748245,1.1134538650512695,53.46540832519531,16.578125,-9.8984375
-69,Who wrote Season of Migration to the North?,Tayeb Salih,Wole Soyinka,False,author_very_hard,1,-0.03900232911109924,1.0977623462677002,52.71441650390625,8.640625,-26.328125
-69,Who wrote Season of Migration to the North?,Tayeb Salih,Wole Soyinka,False,author_very_hard,2,-0.019948264583945274,1.2025128602981567,57.716041564941406,35.125,-13.28125
-69,Who wrote Season of Migration to the North?,Tayeb Salih,Wole Soyinka,False,author_very_hard,3,-0.03808516263961792,1.1255452632904053,54.04536819458008,16.71875,-9.8828125
-70,Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,Giuseppe Tomasi di Lampedusa,True,author_very_hard,1,-0.03812312334775925,1.0966238975524902,52.6583366394043,8.625,-26.03125
-70,Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,Giuseppe Tomasi di Lampedusa,True,author_very_hard,2,-0.0177006796002388,1.1924995183944702,57.23387145996094,35.03125,-12.609375
-70,Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,Giuseppe Tomasi di Lampedusa,True,author_very_hard,3,-0.03437354788184166,1.111227035522461,53.35284423828125,16.5,-9.78125
-71,Who painted The Garden of Earthly Delights?,Hieronymus Bosch,Hieronymus Bosch,True,art_very_hard,1,-0.03926439955830574,1.1111646890640259,53.357635498046875,9.59375,-26.5
-71,Who painted The Garden of Earthly Delights?,Hieronymus Bosch,Hieronymus Bosch,True,art_very_hard,2,-0.02024279721081257,1.2114320993423462,58.14424133300781,35.4375,-13.34375
-71,Who painted The Garden of Earthly Delights?,Hieronymus Bosch,Hieronymus Bosch,True,art_very_hard,3,-0.04134203866124153,1.1193532943725586,53.75394058227539,15.734375,-10.0625
-72,Who painted The Arnolfini Portrait?,Jan van Eyck,Jan van Eyck,True,art_very_hard,1,-0.040702659636735916,1.1015642881393433,52.89970397949219,9.015625,-26.15625
-72,Who painted The Arnolfini Portrait?,Jan van Eyck,Jan van Eyck,True,art_very_hard,2,-0.018977699801325798,1.2051204442977905,57.840396881103516,35.4375,-12.875
-72,Who painted The Arnolfini Portrait?,Jan van Eyck,Jan van Eyck,True,art_very_hard,3,-0.03605954349040985,1.0995020866394043,52.79302978515625,16.65625,-9.90625
-73,Who painted The Raft of the Medusa?,Theodore Gericault,Theodore Gericault,True,art_very_hard,1,-0.0397062823176384,1.101542592048645,52.89691925048828,8.796875,-26.71875
-73,Who painted The Raft of the Medusa?,Theodore Gericault,Theodore Gericault,True,art_very_hard,2,-0.018619360402226448,1.2076765298843384,57.9627799987793,35.40625,-13.671875
-73,Who painted The Raft of the Medusa?,Theodore Gericault,Theodore Gericault,True,art_very_hard,3,-0.03967352211475372,1.1087130308151245,53.240745544433594,16.21875,-9.921875
-74,Who discovered penicillin?,Alexander Fleming,Alexander Fleming,True,science_medium,1,-0.03963400796055794,1.104934573173523,53.05946731567383,8.59375,-26.25
-74,Who discovered penicillin?,Alexander Fleming,Alexander Fleming,True,science_medium,2,-0.01835092529654503,1.2022007703781128,57.69983673095703,35.25,-12.6875
-74,Who discovered penicillin?,Alexander Fleming,Alexander Fleming,True,science_medium,3,-0.03843265771865845,1.1214373111724854,53.84892272949219,16.09375,-9.90625
-75,Who discovered the electron?,J J Thomson,J.J. Thomson,True,science_hard,1,-0.038228824734687805,1.1065236330032349,53.133304595947266,8.875,-26.109375
-75,Who discovered the electron?,J J Thomson,J.J. Thomson,True,science_hard,2,-0.018849195912480354,1.2074813842773438,57.9536018371582,35.125,-13.0390625
-75,Who discovered the electron?,J J Thomson,J.J. Thomson,True,science_hard,3,-0.03892938792705536,1.1210663318634033,53.83195114135742,15.59375,-9.953125
-76,Who discovered the neutron?,James Chadwick,James Chadwick,True,science_hard,1,-0.038067348301410675,1.1017682552337646,52.90496826171875,8.75,-26.28125
-76,Who discovered the neutron?,James Chadwick,James Chadwick,True,science_hard,2,-0.017815371975302696,1.2013065814971924,57.65654373168945,35.375,-12.8984375
-76,Who discovered the neutron?,James Chadwick,James Chadwick,True,science_hard,3,-0.0371379479765892,1.1242514848709106,53.981807708740234,16.21875,-9.90625
-77,Who proposed the uncertainty principle?,Werner Heisenberg,Heisenberg,True,physics_medium,1,-0.03775619715452194,1.1062133312225342,53.117652893066406,9.328125,-26.34375
-77,Who proposed the uncertainty principle?,Werner Heisenberg,Heisenberg,True,physics_medium,2,-0.01879148744046688,1.214838981628418,58.30659484863281,35.4375,-13.515625
-77,Who proposed the uncertainty principle?,Werner Heisenberg,Heisenberg,True,physics_medium,3,-0.03802971541881561,1.1319265365600586,54.351348876953125,15.875,-10.1796875
-78,Who wrote The Cairo Trilogy?,Naguib Mahfouz,Naguib Mahfouz,True,author_very_hard,1,-0.03834623470902443,1.0939077138900757,52.5284423828125,8.4375,-25.984375
-78,Who wrote The Cairo Trilogy?,Naguib Mahfouz,Naguib Mahfouz,True,author_very_hard,2,-0.01897541619837284,1.1892374753952026,57.07828903198242,35.03125,-12.5078125
-78,Who wrote The Cairo Trilogy?,Naguib Mahfouz,Naguib Mahfouz,True,author_very_hard,3,-0.03648975118994713,1.109774112701416,53.28639221191406,16.75,-9.8671875
-79,Who wrote The Bridge on the Drina?,Ivo Andric,Ivo Andric,True,author_very_hard,1,-0.03788294643163681,1.100495457649231,52.84362030029297,8.4296875,-26.34375
-79,Who wrote The Bridge on the Drina?,Ivo Andric,Ivo Andric,True,author_very_hard,2,-0.01783069595694542,1.205941915512085,57.87897872924805,35.0625,-13.796875
-79,Who wrote The Bridge on the Drina?,Ivo Andric,Ivo Andric,True,author_very_hard,3,-0.03771829977631569,1.1309528350830078,54.30414962768555,16.578125,-9.8046875
-80,Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,John Buchan,False,author_very_hard,1,-0.03938720002770424,1.0976072549819946,52.707645416259766,8.203125,-26.375
-80,Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,John Buchan,False,author_very_hard,2,-0.020740700885653496,1.2048263549804688,57.82768630981445,35.46875,-13.4921875
-80,Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,John Buchan,False,author_very_hard,3,-0.037771593779325485,1.1048038005828857,53.05006408691406,16.5625,-9.9140625
-81,Who wrote Ficciones?,Jorge Luis Borges,Jorge Luis Borges,True,author_very_hard,1,-0.037853166460990906,1.1058361530303955,53.0997200012207,9.4765625,-26.125
-81,Who wrote Ficciones?,Jorge Luis Borges,Jorge Luis Borges,True,author_very_hard,2,-0.01871144026517868,1.2038532495498657,57.779396057128906,35.5,-12.4296875
-81,Who wrote Ficciones?,Jorge Luis Borges,Jorge Luis Borges,True,author_very_hard,3,-0.038135457783937454,1.1097720861434937,53.28894805908203,15.984375,-9.8515625
-82,Who wrote The Blind Owl?,Sadegh Hedayat,Rainer Maria Rilke,False,author_very_hard,1,-0.038834914565086365,1.0977312326431274,52.71263885498047,8.6484375,-26.109375
-82,Who wrote The Blind Owl?,Sadegh Hedayat,Rainer Maria Rilke,False,author_very_hard,2,-0.01812339760363102,1.1970081329345703,57.45051193237305,35.3125,-12.671875
-82,Who wrote The Blind Owl?,Sadegh Hedayat,Rainer Maria Rilke,False,author_very_hard,3,-0.03544194996356964,1.1112738847732544,53.35670471191406,16.5625,-9.9140625
-83,Who wrote The Museum of Innocence?,Orhan Pamuk,Orhan Pamuk,True,author_very_hard,1,-0.038572438061237335,1.09688138961792,52.67144012451172,8.546875,-26.15625
-83,Who wrote The Museum of Innocence?,Orhan Pamuk,Orhan Pamuk,True,author_very_hard,2,-0.01721227914094925,1.1934294700622559,57.278133392333984,35.0625,-12.71875
-83,Who wrote The Museum of Innocence?,Orhan Pamuk,Orhan Pamuk,True,author_very_hard,3,-0.037717875093221664,1.105776071548462,53.09660720825195,16.1875,-9.921875
-84,Who wrote The Sound of the Mountain?,Yasunari Kawabata,The Sound of the Mountain was written by the famous Chinese writer Lu Xun.,False,author_very_hard,1,-0.039007846266031265,1.099662184715271,52.80553436279297,8.5625,-26.34375
-84,Who wrote The Sound of the Mountain?,Yasunari Kawabata,The Sound of the Mountain was written by the famous Chinese writer Lu Xun.,False,author_very_hard,2,-0.019034167751669884,1.200688123703003,57.627769470214844,35.0625,-13.421875
-84,Who wrote The Sound of the Mountain?,Yasunari Kawabata,The Sound of the Mountain was written by the famous Chinese writer Lu Xun.,False,author_very_hard,3,-0.03651341050863266,1.118033766746521,53.68259811401367,16.40625,-9.8984375
-85,Who wrote The Makioka Sisters?,Junichiro Tanizaki,Junichiro Tanizaki,True,author_very_hard,1,-0.03823476284742355,1.095658779144287,52.61223220825195,8.65625,-26.09375
-85,Who wrote The Makioka Sisters?,Junichiro Tanizaki,Junichiro Tanizaki,True,author_very_hard,2,-0.0175586249679327,1.1970106363296509,57.450225830078125,35.1875,-12.8125
-85,Who wrote The Makioka Sisters?,Junichiro Tanizaki,Junichiro Tanizaki,True,author_very_hard,3,-0.034655433148145676,1.114859938621521,53.52751541137695,16.71875,-9.8203125
-86,Who wrote The Famished Road?,Ben Okri,Ben Okri,True,author_very_hard,1,-0.03889923542737961,1.0973645448684692,52.69516372680664,8.7890625,-26.1875
-86,Who wrote The Famished Road?,Ben Okri,Ben Okri,True,author_very_hard,2,-0.019141431897878647,1.196675419807434,57.435302734375,35.21875,-12.9375
-86,Who wrote The Famished Road?,Ben Okri,Ben Okri,True,author_very_hard,3,-0.035361915826797485,1.1108217239379883,53.33489227294922,17.03125,-9.8203125
-87,Who wrote The Palm-Wine Drinkard?,Amos Tutuola,Amos Tutuola,True,author_very_hard,1,-0.038516268134117126,1.100620985031128,52.8506965637207,8.9765625,-26.15625
-87,Who wrote The Palm-Wine Drinkard?,Amos Tutuola,Amos Tutuola,True,author_very_hard,2,-0.019000351428985596,1.2018641233444214,57.684173583984375,35.40625,-12.703125
-87,Who wrote The Palm-Wine Drinkard?,Amos Tutuola,Amos Tutuola,True,author_very_hard,3,-0.036993928253650665,1.1123942136764526,53.412872314453125,16.859375,-9.828125
-88,Who painted The Third of May 1808?,Francisco Goya,Francisco Goya,True,art_very_hard,1,-0.04010380059480667,1.1058422327041626,53.10381317138672,9.0546875,-25.9375
-88,Who painted The Third of May 1808?,Francisco Goya,Francisco Goya,True,art_very_hard,2,-0.018688321113586426,1.2162500619888306,58.37422561645508,35.8125,-12.4453125
-88,Who painted The Third of May 1808?,Francisco Goya,Francisco Goya,True,art_very_hard,3,-0.03690159320831299,1.1064245700836182,53.12638854980469,16.09375,-9.9921875
-89,Who painted The Ambassadors?,Hans Holbein,Hans Holbein the Younger,True,art_very_hard,1,-0.04046621546149254,1.0986846685409546,52.76119613647461,8.40625,-26.109375
-89,Who painted The Ambassadors?,Hans Holbein,Hans Holbein the Younger,True,art_very_hard,2,-0.01936040259897709,1.2023093700408936,57.705810546875,35.09375,-13.203125
-89,Who painted The Ambassadors?,Hans Holbein,Hans Holbein the Younger,True,art_very_hard,3,-0.038169343024492264,1.1128729581832886,53.43772506713867,16.0,-9.8125
-90,Who painted The School of Athens?,Raphael,Raphael,True,art_very_hard,1,-0.04085280001163483,1.0952584743499756,52.597564697265625,8.015625,-26.140625
-90,Who painted The School of Athens?,Raphael,Raphael,True,art_very_hard,2,-0.01860714703798294,1.2061136960983276,57.887786865234375,35.65625,-13.1015625
-90,Who painted The School of Athens?,Raphael,Raphael,True,art_very_hard,3,-0.03830907121300697,1.1152242422103882,53.55073547363281,16.46875,-9.8671875
-91,Who painted The Maids of Honour?,Diego Velazquez,John Everett Millais,False,art_very_hard,1,-0.03982549533247948,1.098527431488037,52.75252151489258,8.515625,-26.203125
-91,Who painted The Maids of Honour?,Diego Velazquez,John Everett Millais,False,art_very_hard,2,-0.017937812954187393,1.2051881551742554,57.84288787841797,35.59375,-12.8828125
-91,Who painted The Maids of Honour?,Diego Velazquez,John Everett Millais,False,art_very_hard,3,-0.03748504817485809,1.1112534999847412,53.35893630981445,16.40625,-9.96875
-92,Who painted The Gross Clinic?,Thomas Eakins,Edward Hopper,False,art_very_hard,1,-0.04060378298163414,1.0970604419708252,52.68353271484375,8.1875,-25.875
-92,Who painted The Gross Clinic?,Thomas Eakins,Edward Hopper,False,art_very_hard,2,-0.019010312855243683,1.2026337385177612,57.721107482910156,35.28125,-12.75
-92,Who painted The Gross Clinic?,Thomas Eakins,Edward Hopper,False,art_very_hard,3,-0.03781028464436531,1.1166231632232666,53.617008209228516,16.5,-9.7734375
-93,Who painted Christina's World?,Andrew Wyeth,Andrew Wyeth,True,art_very_hard,1,-0.040098726749420166,1.0978436470031738,52.72020721435547,8.546875,-25.84375
-93,Who painted Christina's World?,Andrew Wyeth,Andrew Wyeth,True,art_very_hard,2,-0.019746558740735054,1.20026433467865,57.60798645019531,34.96875,-12.875
-93,Who painted Christina's World?,Andrew Wyeth,Andrew Wyeth,True,art_very_hard,3,-0.03821668401360512,1.1154484748840332,53.56133270263672,16.1875,-9.9453125
-94,Who discovered argon?,Lord Rayleigh,Sir William Ramsay,False,science_very_hard,1,-0.0393274761736393,1.1068822145462036,53.1523551940918,8.875,-26.265625
-94,Who discovered argon?,Lord Rayleigh,Sir William Ramsay,False,science_very_hard,2,-0.01761457324028015,1.2035163640975952,57.76244354248047,35.4375,-12.671875
-94,Who discovered argon?,Lord Rayleigh,Sir William Ramsay,False,science_very_hard,3,-0.03634493052959442,1.1201324462890625,53.78298568725586,16.359375,-9.859375
-95,Who discovered radium?,Marie Curie,Marie Curie,True,science_medium,1,-0.03942646458745003,1.1084145307540894,53.226009368896484,8.71875,-26.40625
-95,Who discovered radium?,Marie Curie,Marie Curie,True,science_medium,2,-0.0182538703083992,1.2069463729858398,57.92748260498047,35.09375,-13.296875
-95,Who discovered radium?,Marie Curie,Marie Curie,True,science_medium,3,-0.038551215082407,1.1297824382781982,54.24936294555664,15.8984375,-9.90625
-96,Who discovered the positron?,Carl Anderson,Carl Anderson,True,physics_very_hard,1,-0.03834673389792442,1.1050167083740234,53.06123733520508,8.921875,-26.328125
-96,Who discovered the positron?,Carl Anderson,Carl Anderson,True,physics_very_hard,2,-0.01834811083972454,1.2062888145446777,57.895999908447266,35.40625,-13.125
-96,Who discovered the positron?,Carl Anderson,Carl Anderson,True,physics_very_hard,3,-0.03933365270495415,1.1272395849227905,54.128692626953125,16.09375,-9.9140625
-97,Who discovered the muon?,Carl Anderson,Wolfgang Pauli,False,physics_very_hard,1,-0.03801777586340904,1.1014647483825684,52.89033508300781,9.03125,-26.125
-97,Who discovered the muon?,Carl Anderson,Wolfgang Pauli,False,physics_very_hard,2,-0.017613716423511505,1.2033659219741821,57.755226135253906,35.59375,-12.4375
-97,Who discovered the muon?,Carl Anderson,Wolfgang Pauli,False,physics_very_hard,3,-0.0382208377122879,1.1260428428649902,54.069461822509766,15.921875,-9.9609375
-98,Who proposed the exclusion principle?,Wolfgang Pauli,Ernest Rutherford,False,physics_medium,1,-0.03760014474391937,1.1053074598312378,53.07394790649414,9.1015625,-26.3125
-98,Who proposed the exclusion principle?,Wolfgang Pauli,Ernest Rutherford,False,physics_medium,2,-0.018142445012927055,1.2192926406860352,58.519832611083984,35.65625,-13.671875
-98,Who proposed the exclusion principle?,Wolfgang Pauli,Ernest Rutherford,False,physics_medium,3,-0.03805873170495033,1.1240509748458862,53.973670959472656,16.515625,-10.0
-99,Who formulated the laws of planetary motion?,Johannes Kepler,Kepler,True,physics_easy,1,-0.03882976248860359,1.1072942018508911,53.171260833740234,9.21875,-26.625
-99,Who formulated the laws of planetary motion?,Johannes Kepler,Kepler,True,physics_easy,2,-0.020999155938625336,1.2109928131103516,58.123779296875,35.1875,-13.578125
-99,Who formulated the laws of planetary motion?,Johannes Kepler,Kepler,True,physics_easy,3,-0.04087255895137787,1.1350092887878418,54.503944396972656,15.390625,-10.0703125
-100,Who first proposed continental drift?,Alfred Wegener,Alfred Wegener,True,science_medium,1,-0.03789845108985901,1.102660059928894,52.94746017456055,9.046875,-26.046875
-100,Who first proposed continental drift?,Alfred Wegener,Alfred Wegener,True,science_medium,2,-0.01745724305510521,1.2083957195281982,57.996463775634766,35.40625,-13.0
-100,Who first proposed continental drift?,Alfred Wegener,Alfred Wegener,True,science_medium,3,-0.036607444286346436,1.1214666366577148,53.8474006652832,16.5,-9.9609375
-101,Who developed the polio vaccine?,Jonas Salk,Jonas Salk,True,science_medium,1,-0.037823788821697235,1.1013298034667969,52.8835334777832,8.640625,-26.234375
-101,Who developed the polio vaccine?,Jonas Salk,Jonas Salk,True,science_medium,2,-0.017236117273569107,1.2021831274032593,57.69819641113281,34.78125,-13.3671875
-101,Who developed the polio vaccine?,Jonas Salk,Jonas Salk,True,science_medium,3,-0.03771879896521568,1.130587100982666,54.2866096496582,16.15625,-9.9453125
-102,Who discovered streptomycin?,Selman Waksman,Selman Waksman,True,science_very_hard,1,-0.03980310633778572,1.1028163433074951,52.95817565917969,9.1796875,-26.09375
-102,Who discovered streptomycin?,Selman Waksman,Selman Waksman,True,science_very_hard,2,-0.018498867750167847,1.2020213603973389,57.691341400146484,35.25,-12.703125
-102,Who discovered streptomycin?,Selman Waksman,Selman Waksman,True,science_very_hard,3,-0.038010675460100174,1.1110546588897705,53.35025405883789,16.546875,-9.8984375
-103,What is the capital of Lesotho?,Maseru,Maseru,True,capital_hard,1,-0.03971503674983978,1.1011013984680176,52.87577438354492,8.5,-26.078125
-103,What is the capital of Lesotho?,Maseru,Maseru,True,capital_hard,2,-0.01877541095018387,1.20879065990448,58.01637268066406,35.34375,-12.921875
-103,What is the capital of Lesotho?,Maseru,Maseru,True,capital_hard,3,-0.03901015967130661,1.1445425748825073,54.958030700683594,16.078125,-10.0078125
-104,What is the capital of Bhutan?,Thimphu,Thimphu,True,capital_hard,1,-0.039804525673389435,1.0992419719696045,52.78675842285156,8.015625,-25.9375
-104,What is the capital of Bhutan?,Thimphu,Thimphu,True,capital_hard,2,-0.01907419227063656,1.210091233253479,58.079002380371094,35.21875,-12.859375
-104,What is the capital of Bhutan?,Thimphu,Thimphu,True,capital_hard,3,-0.04057573899626732,1.1432684659957886,54.8995361328125,15.859375,-10.0
-105,What is the capital of Suriname?,Paramaribo,Paramaribo,True,capital_hard,1,-0.03870413079857826,1.0967276096343994,52.66428756713867,8.296875,-26.03125
-105,What is the capital of Suriname?,Paramaribo,Paramaribo,True,capital_hard,2,-0.017587753012776375,1.2051547765731812,57.84104537963867,35.4375,-12.65625
-105,What is the capital of Suriname?,Paramaribo,Paramaribo,True,capital_hard,3,-0.03893829137086868,1.1386555433273315,54.67556381225586,16.375,-9.8828125
-106,What is the capital of Guyana?,Georgetown,Georgetown,True,capital_hard,1,-0.03962439298629761,1.0919201374053955,52.435306549072266,7.98046875,-26.0
-106,What is the capital of Guyana?,Georgetown,Georgetown,True,capital_hard,2,-0.018517306074500084,1.2028356790542603,57.73042678833008,35.53125,-12.53125
-106,What is the capital of Guyana?,Georgetown,Georgetown,True,capital_hard,3,-0.03981049731373787,1.1363235712051392,54.56517028808594,16.40625,-9.9140625
-107,What is the capital of Vanuatu?,Port Vila,Port Vila,True,capital_hard,1,-0.03976596146821976,1.0974149703979492,52.699073791503906,8.1953125,-26.21875
-107,What is the capital of Vanuatu?,Port Vila,Port Vila,True,capital_hard,2,-0.018245389685034752,1.207668423652649,57.962127685546875,35.59375,-12.7734375
-107,What is the capital of Vanuatu?,Port Vila,Port Vila,True,capital_hard,3,-0.03932160511612892,1.1376891136169434,54.62984085083008,16.625,-9.96875
-108,What is the capital of Samoa?,Apia,Apia,True,capital_hard,1,-0.04034768044948578,1.0962623357772827,52.64480972290039,8.046875,-26.203125
-108,What is the capital of Samoa?,Apia,Apia,True,capital_hard,2,-0.017854372039437294,1.2077895402908325,57.967655181884766,35.625,-12.71875
-108,What is the capital of Samoa?,Apia,Apia,True,capital_hard,3,-0.0396331362426281,1.1377854347229004,54.63497543334961,16.296875,-9.9609375
+0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,1,-0.039236027747392654,1.1088181734085083,53.24504852294922,9.4765625,-26.6875
+0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,2,-0.02081293612718582,1.2099878787994385,58.075416564941406,35.15625,-13.4296875
+0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,3,-0.04281672462821007,1.1281023025512695,54.1761589050293,15.953125,-10.0703125
+1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,1,-0.039512477815151215,1.0967670679092407,52.66756057739258,8.203125,-26.40625
+1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,2,-0.02032647281885147,1.1929197311401367,57.25603103637695,35.0625,-12.9296875
+1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,3,-0.0376700796186924,1.1084463596343994,53.22460174560547,16.53125,-9.9375
+2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,1,-0.03867144137620926,1.0941219329833984,52.53926086425781,8.0234375,-26.0625
+2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,2,-0.018560068681836128,1.2018803358078003,57.68462371826172,35.1875,-13.21875
+2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,3,-0.03764686360955238,1.1247243881225586,54.00529861450195,16.28125,-9.796875
+3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,1,-0.03872418776154518,1.094111680984497,52.53886032104492,7.875,-26.25
+3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,2,-0.01816730387508869,1.2015056610107422,57.666358947753906,35.1875,-13.453125
+3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,3,-0.03749074414372444,1.1206251382827759,53.808441162109375,16.515625,-9.828125
+4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,1,-0.03948000445961952,1.1072479486465454,53.1701545715332,8.96875,-26.984375
+4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,2,-0.01953510008752346,1.2065891027450562,57.91130447387695,35.25,-13.546875
+4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,3,-0.04109890013933182,1.12465500831604,54.007774353027344,16.359375,-9.96875
+5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,1,-0.039271846413612366,1.0908126831054688,52.38157653808594,8.171875,-25.96875
+5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,2,-0.019899122416973114,1.1969523429870605,57.44918441772461,35.0,-13.046875
+5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,3,-0.03935036435723305,1.1216251850128174,53.85946273803711,16.25,-9.921875
+6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,1,-0.040087707340717316,1.1002748012542725,52.83678436279297,8.3828125,-26.21875
+6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,2,-0.01960304006934166,1.2098753452301025,58.06904602050781,35.25,-13.53125
+6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,3,-0.03833558410406113,1.119752049446106,53.76793670654297,15.9375,-9.90625
+7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,1,-0.03715117648243904,1.1091712713241577,53.25852966308594,9.1640625,-26.53125
+7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,2,-0.01642449013888836,1.2151120901107788,58.318058013916016,35.5,-13.5234375
+7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,3,-0.03865206241607666,1.126181960105896,54.076839447021484,15.75,-10.078125
+8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,1,-0.03766442835330963,1.0998764038085938,52.81356430053711,8.1875,-26.515625
+8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,2,-0.018794437870383263,1.1964983940124512,57.42654800415039,34.875,-13.5390625
+8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,3,-0.03819368779659271,1.1201814413070679,53.78829574584961,16.15625,-9.9296875
+9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,1,-0.039599403738975525,1.099360704421997,52.79209899902344,8.28125,-26.375
+9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,2,-0.020420147106051445,1.2027884721755981,57.729637145996094,35.125,-13.2265625
+9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,3,-0.04248909279704094,1.1290559768676758,54.22129821777344,15.96875,-9.9453125
+10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,1,-0.040126774460077286,1.097047209739685,52.68206787109375,8.484375,-26.609375
+10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,2,-0.022260209545493126,1.1953705549240112,57.37528610229492,34.90625,-13.3125
+10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,3,-0.04111947864294052,1.1109211444854736,53.34917449951172,16.34375,-9.96875
+11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,1,-0.03881050646305084,1.0931997299194336,52.495269775390625,7.68359375,-26.15625
+11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,2,-0.018064701929688454,1.201629638671875,57.67222595214844,34.96875,-13.578125
+11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,3,-0.03692375123500824,1.1342010498046875,54.45869445800781,16.1875,-9.8203125
+12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,1,-0.03949162736535072,1.0994914770126343,52.79817581176758,8.328125,-26.296875
+12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,2,-0.017924565821886063,1.2079367637634277,57.97477340698242,35.15625,-13.515625
+12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,3,-0.039823729544878006,1.1342039108276367,54.46353530883789,15.796875,-9.9765625
+13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,1,-0.03975216671824455,1.1040583848953247,53.01765441894531,9.109375,-26.5
+13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,2,-0.020336035639047623,1.2090572118759155,58.030364990234375,35.46875,-13.171875
+13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,3,-0.042687252163887024,1.1254199743270874,54.04728698730469,16.03125,-9.984375
+14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,1,-0.039556436240673065,1.1049532890319824,53.06023406982422,8.359375,-26.8125
+14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,2,-0.019502941519021988,1.2079347372055054,57.97584533691406,35.4375,-13.640625
+14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,3,-0.03695155680179596,1.1031988859176636,52.97175598144531,16.0,-9.921875
+15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,1,-0.03933636099100113,1.1046016216278076,53.04299545288086,8.484375,-26.875
+15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,2,-0.01870483160018921,1.209891676902771,58.06914138793945,35.5,-13.5859375
+15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,3,-0.040102846920490265,1.1190235614776611,53.735965728759766,16.125,-10.125
+16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,1,-0.039401207119226456,1.0950324535369873,52.58417510986328,8.3125,-26.171875
+16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,2,-0.01871228963136673,1.2068452835083008,57.92296600341797,35.21875,-13.390625
+16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,3,-0.04051286727190018,1.1371506452560425,54.606021881103516,15.890625,-10.046875
+17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,1,-0.03975372761487961,1.095522165298462,52.6082763671875,8.3984375,-26.0
+17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,2,-0.01958281733095646,1.210945725440979,58.120384216308594,35.4375,-13.3046875
+17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,3,-0.036294665187597275,1.1171252727508545,53.638671875,16.375,-9.9140625
+18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,1,-0.03979627415537834,1.102693796157837,52.95228958129883,8.8203125,-26.828125
+18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,2,-0.021050171926617622,1.2045763731002808,57.815948486328125,35.0625,-13.734375
+18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,3,-0.040116626769304276,1.1208727359771729,53.824676513671875,16.140625,-9.8984375
+19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,1,-0.039651621133089066,1.1024665832519531,52.94114303588867,8.734375,-27.09375
+19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,2,-0.02071511000394821,1.2125886678695679,58.20011901855469,35.625,-13.9453125
+19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,3,-0.0394098237156868,1.1159451007843018,53.58714294433594,16.59375,-10.03125
+20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,1,-0.039830282330513,1.0973351001739502,52.69535446166992,9.0859375,-25.9375
+20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,2,-0.020236756652593613,1.2100274562835693,58.07684326171875,35.34375,-13.125
+20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,3,-0.03863057121634483,1.1166393756866455,53.61913299560547,16.625,-10.015625
+21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,1,-0.039371952414512634,1.1000193357467651,52.82329559326172,8.5546875,-26.234375
+21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,2,-0.019766079261898994,1.2090436220169067,58.029273986816406,35.09375,-13.6015625
+21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,3,-0.039086274802684784,1.1203348636627197,53.7971305847168,15.828125,-9.9140625
+22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,1,-0.03891154006123543,1.0974626541137695,52.69989013671875,8.40625,-26.328125
+22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,2,-0.018182002007961273,1.1982852220535278,57.51183319091797,35.09375,-13.234375
+22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,3,-0.034505993127822876,1.1127585172653198,53.42649459838867,16.40625,-9.875
+23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,1,-0.03828413784503937,1.093894362449646,52.52769470214844,8.0,-26.0625
+23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,2,-0.018109198659658432,1.1948696374893188,57.34788513183594,34.875,-12.984375
+23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,3,-0.03585303947329521,1.1286052465438843,54.188636779785156,16.625,-9.890625
+24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,1,-0.03864128887653351,1.0950403213500977,52.583251953125,7.9375,-26.015625
+24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,2,-0.018135366961359978,1.203703761100769,57.77179718017578,35.0,-13.46875
+24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,3,-0.03672999143600464,1.1316782236099243,54.33737564086914,15.953125,-9.8046875
+25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,1,-0.03955746442079544,1.1013660430908203,52.8881950378418,8.9140625,-26.265625
+25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,2,-0.020107511430978775,1.208084225654602,57.98349380493164,35.125,-13.4609375
+25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,3,-0.04312153905630112,1.134379506111145,54.47773742675781,15.796875,-9.96875
+26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,1,-0.04191268980503082,1.0968819856643677,52.677337646484375,8.671875,-26.140625
+26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,2,-0.021379832178354263,1.2105258703231812,58.10169982910156,35.8125,-12.796875
+26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,3,-0.04055541753768921,1.114155888557434,53.5033073425293,16.65625,-9.96875
+27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,1,-0.03888736292719841,1.1022485494613647,52.92937469482422,8.1484375,-26.71875
+27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,2,-0.01868516206741333,1.2055445909500122,57.86054229736328,35.28125,-13.7265625
+27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,3,-0.03665885701775551,1.11713707447052,53.63981628417969,16.25,-9.9609375
+28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,1,-0.04043906554579735,1.1021273136138916,52.926231384277344,8.65625,-26.5
+28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,2,-0.020830439403653145,1.1985602378845215,57.527099609375,35.3125,-12.984375
+28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,3,-0.038830168545246124,1.1050214767456055,53.06227111816406,16.609375,-10.0078125
+29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,1,-0.03910588473081589,1.1005747318267822,52.84947967529297,8.75,-26.4375
+29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,2,-0.01931280829012394,1.2085912227630615,58.0072021484375,35.4375,-13.375
+29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,3,-0.0374489352107048,1.1140962839126587,53.4952278137207,16.03125,-9.9765625
+30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,1,-0.03866836428642273,1.1028509140014648,52.95790481567383,8.453125,-26.8125
+30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,2,-0.01905859261751175,1.2090847492218018,58.03068923950195,35.5,-13.625
+30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,3,-0.035368911921978,1.1083937883377075,53.21844482421875,15.8125,-10.0703125
+31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,1,-0.04045180603861809,1.0975240468978882,52.70550537109375,8.1875,-26.21875
+31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,2,-0.020953085273504257,1.1990883350372314,57.55253982543945,34.84375,-13.171875
+31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,3,-0.041975636035203934,1.1323226690292358,54.37703323364258,15.6796875,-10.0078125
+32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,1,-0.04043866693973541,1.101585865020752,52.9002799987793,8.71875,-25.90625
+32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,2,-0.02228611335158348,1.2153078317642212,58.331932067871094,35.40625,-13.296875
+32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,3,-0.043367210775613785,1.1315251588821411,54.34130096435547,15.53125,-9.984375
+33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,1,-0.038905780762434006,1.1080697774887085,53.208587646484375,8.4140625,-27.046875
+33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,2,-0.01776628941297531,1.2088885307312012,58.02033615112305,35.34375,-13.703125
+33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,3,-0.039074718952178955,1.1196154356002808,53.762603759765625,15.84375,-10.1484375
+34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,1,-0.03888088837265968,1.0892773866653442,52.307281494140625,7.9453125,-26.0
+34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,2,-0.019782867282629013,1.200376272201538,57.61337661743164,35.25,-13.3203125
+34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,3,-0.03631783276796341,1.1201115846633911,53.78194808959961,16.515625,-9.8203125
+35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,1,-0.03883770480751991,1.0980209112167358,52.726531982421875,8.453125,-26.25
+35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,2,-0.02018161676824093,1.1976627111434937,57.48350524902344,35.0,-13.140625
+35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,3,-0.03875535726547241,1.1112974882125854,53.36314392089844,16.4375,-9.9375
+36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,1,-0.040612656623125076,1.103258490562439,52.98079299926758,9.125,-26.71875
+36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,2,-0.021761426702141762,1.2088947296142578,58.023765563964844,35.21875,-13.578125
+36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,3,-0.04185162112116814,1.1270105838775635,54.122066497802734,15.859375,-9.953125
+37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,1,-0.0389045886695385,1.1006942987442017,52.8548583984375,8.296875,-26.609375
+37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,2,-0.019985850900411606,1.20083487033844,57.635555267333984,35.28125,-13.234375
+37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,3,-0.038841355592012405,1.107230544090271,53.16823196411133,16.359375,-9.9921875
+38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,1,-0.0394630953669548,1.101449966430664,52.892059326171875,8.3359375,-26.65625
+38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,2,-0.017006022855639458,1.2041839361190796,57.7940559387207,35.0625,-13.46875
+38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,3,-0.03993518278002739,1.1242311000823975,53.98542785644531,15.984375,-10.046875
+39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,1,-0.03913447633385658,1.109837293624878,53.29375076293945,9.3828125,-26.8125
+39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,2,-0.019016452133655548,1.2159953117370605,58.362247467041016,35.65625,-13.84375
+39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,3,-0.039938293397426605,1.1236305236816406,53.956634521484375,15.640625,-10.1328125
+40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,1,-0.03989477828145027,1.1016905307769775,52.90434265136719,8.84375,-26.421875
+40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,2,-0.020101990550756454,1.210907220840454,58.11894607543945,35.28125,-13.75
+40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,3,-0.039033789187669754,1.114695429801941,53.526580810546875,16.09375,-9.953125
+41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,1,-0.04026343300938606,1.1057257652282715,53.0985107421875,9.0,-26.609375
+41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,2,-0.020711243152618408,1.2058836221694946,57.87839889526367,35.1875,-13.1875
+41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,3,-0.043912842869758606,1.1358225345611572,54.54838943481445,15.890625,-10.0078125
+42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,1,-0.03932458907365799,1.0996304750442505,52.80455780029297,8.546875,-26.375
+42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,2,-0.01802132837474346,1.2102200984954834,58.08440399169922,35.375,-13.5
+42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,3,-0.03994166851043701,1.1326104402542114,54.387306213378906,16.09375,-9.984375
+43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,1,-0.03913275524973869,1.0896490812301636,52.325538635253906,7.6640625,-26.046875
+43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,2,-0.01831369660794735,1.200453758239746,57.61599349975586,35.125,-13.3125
+43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,3,-0.03654775768518448,1.1271778345108032,54.12123489379883,16.1875,-9.8515625
+44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,1,-0.03865410387516022,1.0967979431152344,52.66757583618164,8.484375,-26.71875
+44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,2,-0.016714002937078476,1.2065186500549316,57.9058952331543,35.875,-13.046875
+44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,3,-0.03885193169116974,1.1181854009628296,53.69364929199219,16.078125,-10.1171875
+45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,1,-0.04014666751027107,1.094682216644287,52.56867599487305,8.375,-26.15625
+45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,2,-0.021040014922618866,1.1958078145980835,57.39521026611328,35.15625,-12.953125
+45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,3,-0.038634903728961945,1.1060075759887695,53.10923385620117,16.578125,-10.0078125
+46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,1,-0.039570920169353485,1.1083427667617798,53.22282028198242,9.046875,-26.5625
+46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,2,-0.02082027867436409,1.2078032493591309,57.97060775756836,35.0625,-13.515625
+46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,3,-0.041924431920051575,1.1330238580703735,54.41057205200195,15.5625,-9.9296875
+47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,1,-0.03956232964992523,1.105159878730774,53.070152282714844,8.71875,-26.75
+47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,2,-0.018459931015968323,1.2043710947036743,57.80405807495117,34.9375,-13.6640625
+47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,3,-0.04020123556256294,1.1315233707427979,54.33561706542969,15.84375,-9.9453125
+48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,1,-0.04064299166202545,1.0936471223831177,52.51992416381836,8.078125,-26.109375
+48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,2,-0.021172817796468735,1.191373348236084,57.18254089355469,35.0625,-12.6328125
+48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,3,-0.03867850825190544,1.1144534349441528,53.514373779296875,16.484375,-9.859375
+49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,1,-0.039375536143779755,1.0975401401519775,52.70439529418945,8.421875,-26.140625
+49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,2,-0.01992124505341053,1.1986820697784424,57.53219985961914,35.21875,-12.921875
+49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,3,-0.03851858153939247,1.1081156730651855,53.210140228271484,16.46875,-9.8828125

@@ -1,110 +1,51 @@
 question,correct_answer,model_answer,is_correct,type,correct_answer_num_tokens,model_answer_num_tokens,correct_answer_tokens,model_answer_tokens,is_correct_answer_single_token,is_model_answer_single_token
-What is the capital of France?,Paris,Paris,True,capital_easy,1,1,['Paris'],['Paris'],True,True
-What is the capital of Germany?,Berlin,Berlin,True,capital_easy,1,1,['Berlin'],['Berlin'],True,True
-What is the capital of Italy?,Rome,Rome,True,capital_easy,1,1,['Rome'],['Rome'],True,True
-What is the capital of Spain?,Madrid,Madrid,True,capital_easy,1,1,['Madrid'],['Madrid'],True,True
-What is the capital of Turkey?,Ankara,Ankara,True,capital_easy,1,1,['Ankara'],['Ankara'],True,True
-What is the capital of Canada?,Ottawa,Ottawa,True,capital_easy,1,1,['Ottawa'],['Ottawa'],True,True
-What is the capital of Australia?,Canberra,Canberra,True,capital_easy,2,2,"['Can', 'berra']","['Can', 'berra']",False,False
-What is the capital of Brazil?,Brasilia,Brasilia,True,capital_easy,2,2,"['Bra', 'silia']","['Bra', 'silia']",False,False
-What is the capital of Japan?,Tokyo,Tokyo,True,capital_easy,1,1,['Tokyo'],['Tokyo'],True,True
-What is the capital of Egypt?,Cairo,Cairo,True,capital_easy,1,1,['Cairo'],['Cairo'],True,True
-What is the capital of Kazakhstan?,Astana,Astana,True,capital_medium,2,2,"['Ast', 'ana']","['Ast', 'ana']",False,False
-What is the capital of Mongolia?,Ulaanbaatar,Ulaanbaatar,True,capital_medium,4,4,"['U', 'laan', 'ba', 'atar']","['U', 'laan', 'ba', 'atar']",False,False
-What is the capital of Nigeria?,Abuja,Abuja,True,capital_medium,1,1,['Abuja'],['Abuja'],True,True
-What is the capital of Myanmar?,Naypyidaw,Naypyidaw,True,capital_hard,4,4,"['Nay', 'py', 'id', 'aw']","['Nay', 'py', 'id', 'aw']",False,False
-What is the capital of Belize?,Belmopan,Belmopan,True,capital_hard,3,3,"['Bel', 'mop', 'an']","['Bel', 'mop', 'an']",False,False
-What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,True,capital_hard,3,3,"['Ou', 'agad', 'ougou']","['Ou', 'agad', 'ougou']",False,False
-What is the capital of Kyrgyzstan?,Bishkek,Bishkek,True,capital_hard,3,3,"['B', 'ish', 'kek']","['B', 'ish', 'kek']",False,False
-What is the capital of Montenegro?,Podgorica,Podgorica,True,capital_hard,3,3,"['Pod', 'gor', 'ica']","['Pod', 'gor', 'ica']",False,False
-What is the capital of Eswatini?,Mbabane,Mbabane,True,capital_hard,3,3,"['M', 'bab', 'ane']","['M', 'bab', 'ane']",False,False
-Who wrote Hamlet?,William Shakespeare,William Shakespeare,True,author_easy,2,2,"['William', '▁Shakespeare']","['William', '▁Shakespeare']",False,False
-Who wrote Pride and Prejudice?,Jane Austen,Jane Austen,True,author_easy,2,2,"['Jane', '▁Austen']","['Jane', '▁Austen']",False,False
-Who wrote The Trial?,Franz Kafka,Franz Kafka,True,author_medium,2,2,"['Franz', '▁Kafka']","['Franz', '▁Kafka']",False,False
-Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,True,author_medium,3,3,"['Gabriel', '▁Garcia', '▁Marquez']","['Gabriel', '▁Garcia', '▁Marquez']",False,False
-Who wrote Things Fall Apart?,Chinua Achebe,Chinua Achebe,True,author_medium,4,4,"['Chin', 'ua', '▁Ache', 'be']","['Chin', 'ua', '▁Ache', 'be']",False,False
-Who wrote The Stranger?,Albert Camus,Albert Camus,True,author_medium,2,2,"['Albert', '▁Camus']","['Albert', '▁Camus']",False,False
-Who wrote The Master and Margarita?,Mikhail Bulgakov,Mikhail Bulgakov,True,author_hard,4,4,"['Mikhail', '▁Bul', 'gak', 'ov']","['Mikhail', '▁Bul', 'gak', 'ov']",False,False
-Who wrote The Tale of Genji?,Murasaki Shikibu,Murasaki Shikibu,True,author_hard,6,6,"['M', 'uras', 'aki', '▁Shi', 'ki', 'bu']","['M', 'uras', 'aki', '▁Shi', 'ki', 'bu']",False,False
-Who wrote Invisible Cities?,Italo Calvino,It was written by Italo Calvino.,True,author_hard,4,9,"['It', 'alo', '▁Cal', 'vino']","['It', '▁was', '▁written', '▁by', '▁It', 'alo', '▁Cal', 'vino', '.']",False,False
-Who wrote The Dispossessed?,Ursula K Le Guin,Ursula K. Le Guin,True,author_hard,4,5,"['Ursula', '▁K', '▁Le', '▁Guin']","['Ursula', '▁K', '.', '▁Le', '▁Guin']",False,False
-Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,True,art_easy,3,3,"['Leonardo', '▁da', '▁Vinci']","['Leonardo', '▁da', '▁Vinci']",False,False
-Who painted The Starry Night?,Vincent van Gogh,Vincent Van Gogh,True,art_easy,3,3,"['Vincent', '▁van', '▁Gogh']","['Vincent', '▁Van', '▁Gogh']",False,False
-Who painted Guernica?,Pablo Picasso,Pablo Picasso,True,art_medium,2,2,"['Pablo', '▁Picasso']","['Pablo', '▁Picasso']",False,False
-Who painted The Persistence of Memory?,Salvador Dali,Salvador Dali,True,art_medium,2,2,"['Salvador', '▁Dali']","['Salvador', '▁Dali']",False,False
-Who painted The Birth of Venus?,Sandro Botticelli,Sandro Botticelli,True,art_medium,4,4,"['S', 'andro', '▁Bot', 'ticelli']","['S', 'andro', '▁Bot', 'ticelli']",False,False
-Who painted Las Meninas?,Diego Velazquez,Diego Velazquez,True,art_hard,4,4,"['Diego', '▁Vel', 'az', 'quez']","['Diego', '▁Vel', 'az', 'quez']",False,False
-Who painted The Night Watch?,Rembrandt,Rembrandt,True,art_hard,2,2,"['Rem', 'brandt']","['Rem', 'brandt']",False,False
-Who painted The Kiss?,Gustav Klimt,Gustav Klimt,True,art_hard,3,3,"['Gustav', '▁Kli', 'mt']","['Gustav', '▁Kli', 'mt']",False,False
-What is the chemical symbol for gold?,Au,Au,True,chemistry_easy,1,1,['Au'],['Au'],True,True
-What is the chemical symbol for water?,H2O,H2O,True,chemistry_easy,3,3,"['H', '2', 'O']","['H', '2', 'O']",False,False
-What is the chemical symbol for sodium?,Na,Na,True,chemistry_easy,1,1,['Na'],['Na'],True,True
-What is the chemical symbol for potassium?,K,K,True,chemistry_easy,1,1,['K'],['K'],True,True
-What is the chemical symbol for tungsten?,W,W,True,chemistry_medium,1,1,['W'],['W'],True,True
-What is the chemical symbol for silver?,Ag,Ag,True,chemistry_medium,1,1,['Ag'],['Ag'],True,True
-What is the chemical symbol for lead?,Pb,Pb,True,chemistry_medium,1,1,['Pb'],['Pb'],True,True
-What is the chemical symbol for mercury?,Hg,Hg,True,chemistry_medium,1,1,['Hg'],['Hg'],True,True
-What is the chemical symbol for antimony?,Sb,Sb,True,chemistry_hard,1,1,['Sb'],['Sb'],True,True
-What is the chemical symbol for tin?,Sn,Sn,True,chemistry_hard,1,1,['Sn'],['Sn'],True,True
-What planet is known as the Red Planet?,Mars,Mars,True,science_easy,1,1,['Mars'],['Mars'],True,True
-What is the largest planet in the Solar System?,Jupiter,Jupiter,True,science_easy,1,1,['Jupiter'],['Jupiter'],True,True
-What gas do plants absorb from the atmosphere?,carbon dioxide,Carbon dioxide,True,science_easy,2,2,"['carbon', '▁dioxide']","['Carbon', '▁dioxide']",False,False
-What is the closest planet to the Sun?,Mercury,Mercury,True,science_easy,1,1,['Mercury'],['Mercury'],True,True
-What is the hardest natural substance?,diamond,Diamond,True,science_medium,1,1,['diamond'],['Diamond'],True,True
-What is the SI unit of electric current?,ampere,Ampere,True,physics_medium,2,2,"['amp', 'ere']","['Amp', 'ere']",False,False
-Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True,physics_easy,2,2,"['Albert', '▁Einstein']","['Albert', '▁Einstein']",False,False
-What is the atomic number of carbon?,6,6,True,science_easy,1,1,['6'],['6'],True,True
-What is the atomic number of oxygen?,8,8,True,science_easy,1,1,['8'],['8'],True,True
-What is the atomic number of iron?,26,26,True,science_medium,2,2,"['2', '6']","['2', '6']",False,False
-What is the atomic number of gold?,79,79,True,science_medium,2,2,"['7', '9']","['7', '9']",False,False
-What is the atomic number of uranium?,92,92,True,science_medium,2,2,"['9', '2']","['9', '2']",False,False
-What is the capital of Nauru?,Yaren,Yaren,True,capital_very_hard,2,2,"['Y', 'aren']","['Y', 'aren']",False,False
-What is the capital of Tuvalu?,Funafuti,Funafuti,True,capital_very_hard,3,3,"['Fun', 'af', 'uti']","['Fun', 'af', 'uti']",False,False
-What is the capital of Kiribati?,South Tarawa,Tarawa,True,capital_very_hard,3,2,"['South', '▁Tar', 'awa']","['Tar', 'awa']",False,False
-What is the capital of Palau?,Ngerulmud,Ngerulmud,True,capital_very_hard,4,4,"['N', 'ger', 'ul', 'mud']","['N', 'ger', 'ul', 'mud']",False,False
-What is the capital of Micronesia?,Palikir,Palikir,True,capital_very_hard,2,2,"['Pal', 'ikir']","['Pal', 'ikir']",False,False
-What is the capital of Comoros?,Moroni,Moroni,True,capital_very_hard,2,2,"['Mor', 'oni']","['Mor', 'oni']",False,False
-What is the capital of Eritrea?,Asmara,Asmara,True,capital_very_hard,2,2,"['As', 'mara']","['As', 'mara']",False,False
-What is the capital of Timor-Leste?,Dili,Dili,True,capital_very_hard,1,1,['Dili'],['Dili'],True,True
-Who wrote Pedro Paramo?,Juan Rulfo,Juan Rulfo,True,author_very_hard,3,3,"['Juan', '▁Rul', 'fo']","['Juan', '▁Rul', 'fo']",False,False
-Who wrote The Book of Disquiet?,Fernando Pessoa,Fernando Pessoa,True,author_very_hard,2,2,"['Fernando', '▁Pessoa']","['Fernando', '▁Pessoa']",False,False
-Who wrote Season of Migration to the North?,Tayeb Salih,Wole Soyinka,False,author_very_hard,4,4,"['Tay', 'eb', '▁S', 'alih']","['W', 'ole', '▁Soy', 'inka']",False,False
-Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,Giuseppe Tomasi di Lampedusa,True,author_very_hard,7,7,"['Giuseppe', '▁Tom', 'asi', '▁di', '▁Lamp', 'ed', 'usa']","['Giuseppe', '▁Tom', 'asi', '▁di', '▁Lamp', 'ed', 'usa']",False,False
-Who painted The Garden of Earthly Delights?,Hieronymus Bosch,Hieronymus Bosch,True,art_very_hard,3,3,"['Hier', 'onymus', '▁Bosch']","['Hier', 'onymus', '▁Bosch']",False,False
-Who painted The Arnolfini Portrait?,Jan van Eyck,Jan van Eyck,True,art_very_hard,4,4,"['Jan', '▁van', '▁Ey', 'ck']","['Jan', '▁van', '▁Ey', 'ck']",False,False
-Who painted The Raft of the Medusa?,Theodore Gericault,Theodore Gericault,True,art_very_hard,4,4,"['Theodore', '▁Ger', 'ica', 'ult']","['Theodore', '▁Ger', 'ica', 'ult']",False,False
-Who discovered penicillin?,Alexander Fleming,Alexander Fleming,True,science_medium,2,2,"['Alexander', '▁Fleming']","['Alexander', '▁Fleming']",False,False
-Who discovered the electron?,J J Thomson,J.J. Thomson,True,science_hard,3,5,"['J', '▁J', '▁Thomson']","['J', '.', 'J', '.', '▁Thomson']",False,False
-Who discovered the neutron?,James Chadwick,James Chadwick,True,science_hard,2,2,"['James', '▁Chadwick']","['James', '▁Chadwick']",False,False
-Who proposed the uncertainty principle?,Werner Heisenberg,Heisenberg,True,physics_medium,2,2,"['Werner', '▁Heisenberg']","['He', 'isenberg']",False,False
-Who wrote The Cairo Trilogy?,Naguib Mahfouz,Naguib Mahfouz,True,author_very_hard,6,6,"['N', 'agu', 'ib', '▁Mah', 'fou', 'z']","['N', 'agu', 'ib', '▁Mah', 'fou', 'z']",False,False
-Who wrote The Bridge on the Drina?,Ivo Andric,Ivo Andric,True,author_very_hard,3,3,"['Ivo', '▁And', 'ric']","['Ivo', '▁And', 'ric']",False,False
-Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,John Buchan,False,author_very_hard,3,3,"['Gabriel', '▁Garcia', '▁Marquez']","['John', '▁Bu', 'chan']",False,False
-Who wrote Ficciones?,Jorge Luis Borges,Jorge Luis Borges,True,author_very_hard,3,3,"['Jorge', '▁Luis', '▁Borges']","['Jorge', '▁Luis', '▁Borges']",False,False
-Who wrote The Blind Owl?,Sadegh Hedayat,Rainer Maria Rilke,False,author_very_hard,4,4,"['Sade', 'gh', '▁Hed', 'ayat']","['Rainer', '▁Maria', '▁Ril', 'ke']",False,False
-Who wrote The Museum of Innocence?,Orhan Pamuk,Orhan Pamuk,True,author_very_hard,4,4,"['Or', 'han', '▁Pam', 'uk']","['Or', 'han', '▁Pam', 'uk']",False,False
-Who wrote The Sound of the Mountain?,Yasunari Kawabata,The Sound of the Mountain was written by the famous Chinese writer Lu Xun.,False,author_very_hard,6,15,"['Yas', 'un', 'ari', '▁Kaw', 'ab', 'ata']","['The', '▁Sound', '▁of', '▁the', '▁Mountain', '▁was', '▁written', '▁by', '▁the', '▁famous', '▁Chinese', '▁writer', '▁Lu', '▁Xun', '.']",False,False
-Who wrote The Makioka Sisters?,Junichiro Tanizaki,Junichiro Tanizaki,True,author_very_hard,6,6,"['J', 'unic', 'hiro', '▁Tan', 'iz', 'aki']","['J', 'unic', 'hiro', '▁Tan', 'iz', 'aki']",False,False
-Who wrote The Famished Road?,Ben Okri,Ben Okri,True,author_very_hard,3,3,"['Ben', '▁Ok', 'ri']","['Ben', '▁Ok', 'ri']",False,False
-Who wrote The Palm-Wine Drinkard?,Amos Tutuola,Amos Tutuola,True,author_very_hard,3,3,"['Amos', '▁Tutu', 'ola']","['Amos', '▁Tutu', 'ola']",False,False
-Who painted The Third of May 1808?,Francisco Goya,Francisco Goya,True,art_very_hard,2,2,"['Francisco', '▁Goya']","['Francisco', '▁Goya']",False,False
-Who painted The Ambassadors?,Hans Holbein,Hans Holbein the Younger,True,art_very_hard,3,5,"['Hans', '▁Hol', 'bein']","['Hans', '▁Hol', 'bein', '▁the', '▁Younger']",False,False
-Who painted The School of Athens?,Raphael,Raphael,True,art_very_hard,1,1,['Raphael'],['Raphael'],True,True
-Who painted The Maids of Honour?,Diego Velazquez,John Everett Millais,False,art_very_hard,4,4,"['Diego', '▁Vel', 'az', 'quez']","['John', '▁Everett', '▁Milla', 'is']",False,False
-Who painted The Gross Clinic?,Thomas Eakins,Edward Hopper,False,art_very_hard,4,2,"['Thomas', '▁E', 'ak', 'ins']","['Edward', '▁Hopper']",False,False
-Who painted Christina's World?,Andrew Wyeth,Andrew Wyeth,True,art_very_hard,3,3,"['Andrew', '▁W', 'yeth']","['Andrew', '▁W', 'yeth']",False,False
-Who discovered argon?,Lord Rayleigh,Sir William Ramsay,False,science_very_hard,2,3,"['Lord', '▁Rayleigh']","['Sir', '▁William', '▁Ramsay']",False,False
-Who discovered radium?,Marie Curie,Marie Curie,True,science_medium,2,2,"['Marie', '▁Curie']","['Marie', '▁Curie']",False,False
-Who discovered the positron?,Carl Anderson,Carl Anderson,True,physics_very_hard,2,2,"['Carl', '▁Anderson']","['Carl', '▁Anderson']",False,False
-Who discovered the muon?,Carl Anderson,Wolfgang Pauli,False,physics_very_hard,2,2,"['Carl', '▁Anderson']","['Wolfgang', '▁Pauli']",False,False
-Who proposed the exclusion principle?,Wolfgang Pauli,Ernest Rutherford,False,physics_medium,2,2,"['Wolfgang', '▁Pauli']","['Ernest', '▁Rutherford']",False,False
-Who formulated the laws of planetary motion?,Johannes Kepler,Kepler,True,physics_easy,2,2,"['Johannes', '▁Kepler']","['Kep', 'ler']",False,False
-Who first proposed continental drift?,Alfred Wegener,Alfred Wegener,True,science_medium,3,3,"['Alfred', '▁We', 'gener']","['Alfred', '▁We', 'gener']",False,False
-Who developed the polio vaccine?,Jonas Salk,Jonas Salk,True,science_medium,3,3,"['Jonas', '▁S', 'alk']","['Jonas', '▁S', 'alk']",False,False
-Who discovered streptomycin?,Selman Waksman,Selman Waksman,True,science_very_hard,5,5,"['Sel', 'man', '▁W', 'aks', 'man']","['Sel', 'man', '▁W', 'aks', 'man']",False,False
-What is the capital of Lesotho?,Maseru,Maseru,True,capital_hard,2,2,"['Mas', 'eru']","['Mas', 'eru']",False,False
-What is the capital of Bhutan?,Thimphu,Thimphu,True,capital_hard,3,3,"['Thi', 'mp', 'hu']","['Thi', 'mp', 'hu']",False,False
-What is the capital of Suriname?,Paramaribo,Paramaribo,True,capital_hard,3,3,"['Param', 'ari', 'bo']","['Param', 'ari', 'bo']",False,False
-What is the capital of Guyana?,Georgetown,Georgetown,True,capital_hard,2,2,"['George', 'town']","['George', 'town']",False,False
-What is the capital of Vanuatu?,Port Vila,Port Vila,True,capital_hard,2,2,"['Port', '▁Vila']","['Port', '▁Vila']",False,False
-What is the capital of Samoa?,Apia,Apia,True,capital_hard,2,2,"['Ap', 'ia']","['Ap', 'ia']",False,False
+Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,4,5,"['John', '▁IV', '▁of', '▁Portugal']","['King', '▁John', '▁I', '▁of', '▁Portugal']",False,False
+Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,5,3,"['Mass', 'y', '▁Tad', 'jed', 'in']","['David', '▁Koe', 'pp']",False,False
+Who was the director of Pilot?,Alex Graves,David Nutter,False,director,2,3,"['Alex', '▁Graves']","['David', '▁N', 'utter']",False,False
+Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,2,3,"['John', '▁Woo']","['John', '▁Franken', 'heimer']",False,False
+Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,3,3,"['William', '▁the', '▁Conqueror']","['William', '▁the', '▁Conqueror']",False,False
+Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,2,2,"['Joseph', '▁Kaufman']","['John', '▁Waters']",False,False
+Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,2,2,"['Mani', '▁Sharma']","['Johann', '▁Strauss']",False,False
+Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,2,3,"['Linda', '▁Howard']","['Bret', '▁Easton', '▁Ellis']",False,False
+Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,2,4,"['Nicholas', '▁Meyer']","['Fred', '▁Sche', 'pis', 'i']",False,False
+Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,2,11,"['John', '▁Ritter']","['Tyler', '’', 's', '▁father', '▁is', '▁a', '▁man', '▁named', '▁John', '▁Ritter', '.']",False,False
+Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,4,4,"['Steve', '▁O', 'ede', 'kerk']","['Steve', '▁O', 'ede', 'kerk']",False,False
+Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,3,3,"['Spike', '▁Jon', 'ze']","['Spike', '▁Jon', 'ze']",False,False
+Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,4,3,"['Or', 'son', '▁Scott', '▁Card']","['John', '▁Stein', 'beck']",False,False
+Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,4,5,"['Philip', '▁III', '▁of', '▁France']","['King', '▁Philip', '▁IV', '▁of', '▁France']",False,False
+Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,2,7,"['Robert', '▁Lopez']","['Kristen', '▁Anderson', '-', 'Lopez', '▁and', '▁Robert', '▁Lopez']",False,False
+Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,3,3,"['Andrew', '▁Barton', '▁Paterson']","['Ban', 'jo', '▁Paterson']",False,False
+Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,2,3,"['Raymond', '▁Briggs']","['John', '▁Stein', 'beck']",False,False
+Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,3,2,"['Ing', 'mar', '▁Bergman']","['At', 'lus']",False,False
+Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,3,9,"['Emperor', '▁Kam', 'mu']","['Emperor', '▁Saga', '▁is', '▁the', '▁father', '▁of', '▁Emperor', '▁Saga', '.']",False,False
+Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,3,3,"['Ir', 'win', '▁Allen']","['Ir', 'win', '▁Allen']",False,False
+Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,3,3,"['Arnold', '▁Scho', 'enberg']","['Arnold', '▁Scho', 'enberg']",False,False
+Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,3,6,"['Marta', '▁Kau', 'ffman']","['David', '▁Crane', '▁and', '▁Marta', '▁Kau', 'ffman']",False,False
+Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,3,3,"['E', 'tan', '▁Cohen']","['E', 'tan', '▁Cohen']",False,False
+Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,4,2,"['George', '▁Fitz', 'mauri', 'ce']","['David', '▁Lynch']",False,False
+Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,5,5,"['Dar', 'rell', '▁W', 'asy', 'k']","['H', '.', 'G', '.', '▁Wells']",False,False
+Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,3,9,"['Leon', '▁Ben', 'ois']","['The', '▁father', '▁of', '▁Nadia', '▁Ben', 'ois', '▁is', '▁unknown', '.']",False,False
+"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,3,3,"['Boris', '▁Bla', 'cher']","['Johann', '▁Sebastian', '▁Bach']",False,False
+Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,4,2,"['Chris', '▁Ger', 'ol', 'mo']","['Irving', '▁Berlin']",False,False
+Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,2,3,"['Rick', '▁Berman']","['David', '▁Ger', 'rold']",False,False
+Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,2,2,"['Frank', '▁Zappa']","['Frank', '▁Zappa']",False,False
+Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,4,2,"['Peter', '▁Sera', 'fin', 'owicz']","['David', '▁Mitchell']",False,False
+Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,2,2,"['Rocky', '▁Johnson']","['Rocky', '▁Johnson']",False,False
+Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,4,5,"['Gee', 'th', 'ap', 'riya']","['K', '.', '▁Bal', 'ach', 'ander']",False,False
+Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,2,2,"['Walter', '▁Lord']","['Walter', '▁Lord']",False,False
+Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,2,2,"['Chris', '▁Columbus']","['Chris', '▁Columbus']",False,False
+Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,3,6,"['Betty', '▁Com', 'den']","['Betty', '▁Com', 'den', '▁and', '▁Adolph', '▁Green']",False,False
+Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,3,4,"['Walter', '▁S', 'alles']","['Fernando', '▁Me', 'ire', 'lles']",False,False
+Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,2,4,"['Anne', '▁Fontaine']","['John', '▁Patrick', '▁Shan', 'ley']",False,False
+Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,2,2,"['Charles', '▁Webb']","['Charles', '▁Webb']",False,False
+Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,3,2,"['Pi', 'ers', '▁Anthony']","['Margaret', '▁Atwood']",False,False
+Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,3,3,"['Stephen', '▁S', 'ondheim']","['Stephen', '▁S', 'ondheim']",False,False
+Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,4,4,"['Jacques', '-', 'Jean', '▁Barre']","['Jean', '-', 'Auguste', '▁Barre']",False,False
+Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,3,3,"['Christopher', '▁Pa', 'olini']","['Christopher', '▁Pa', 'olini']",False,False
+Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,4,3,"['Catherine', '▁Bre', 'ill', 'at']","['Sir', '▁Robert', '▁Peel']",False,False
+Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,2,2,"['George', '▁Orwell']","['George', '▁Orwell']",False,False
+Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,2,2,"['John', '▁Hughes']","['John', '▁Hughes']",False,False
+Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,3,13,"['Roland', '▁As', 'ch']","['Sebastian', '▁As', 'ch', '’', 's', '▁father', '▁is', '▁a', '▁man', '▁named', '▁As', 'ch', '.']",False,False
+Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,2,8,"['Lester', '▁Crown']","['The', '▁father', '▁of', '▁Susan', '▁Crown', '▁is', '▁unknown', '.']",False,False
+Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,3,3,"['Jerry', '▁Bel', 'son']","['John', '▁Say', 'les']",False,False
+Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,2,3,"['Matthew', '▁Chapman']","['David', '▁Koe', 'pp']",False,False
