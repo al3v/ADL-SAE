@@ -30,3 +30,4 @@ outputs/activations/*.pt
 # Temporary files
 *.tmp
 *.log
+outputs/activations_later/
