@@ -1,51 +1,61 @@
-question,correct_answer,model_answer,is_correct,type
-Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father
-Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter
-Who was the director of Pilot?,Alex Graves,David Nutter,False,director
-Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director
-Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father
-Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director
-Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer
-Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author
-Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director
-Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father
-Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter
-Who was the director of Her?,Spike Jonze,Spike Jonze,True,director
-Who is the author of West?,Orson Scott Card,John Steinbeck,False,author
-Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father
-Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer
-Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author
-Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author
-Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer
-Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father
-Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer
-Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer
-Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer
-Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director
-Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director
-Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director
-Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father
-"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer
-Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer
-Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter
-Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer
-Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer
-Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father
-Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director
-Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author
-Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director
-Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter
-Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer
-Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter
-Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author
-Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author
-Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer
-Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father
-Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author
-Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director
-Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author
-Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter
-Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father
-Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father
-Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter
-Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter
+question,correct_answer,possible_answers,model_answer,is_correct,type
+Who is the father of Zhengde Emperor?,Hongzhi Emperor,"[""Hongzhi Emperor"", ""Zhu Youcheng"", ""Datianmingdaochunchengzhongzhengshengwenshenwuzhirendadejinghuangdi"", ""Hongzhi"", ""Zhu Youtang"", ""Xiao Zong"", ""Jing Di""]",Zhengde Emperor was the son of Zheng,True,father
+Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",George Frideric Handel,True,composer
+Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",Dalton Trumbo,False,producer
+Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,"[""Vidhu Vinod Chopra""]",Mahesh Bhatt,False,producer
+Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",Kander and Ebb,True,composer
+Who is the author of The Whole Family?,Henry James,"[""Henry James"", ""Henricus James"", ""Alice Brown"", ""William Dean Howells"", ""William Howells"", ""Elizabeth Jordan"", ""Elizabeth Garver Jordan""]",Dr. Robert H. Schuller,False,author
+Who was the composer of Introduction and Allegro?,Maurice Ravel,"[""Maurice Ravel"", ""Joseph-Maurice Ravel"", ""Maurice Joseph Ravel""]",Edward Elgar,False,composer
+Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",Uzak was written by the famous Turkish,False,screenwriter
+Who was the producer of The Descendants?,Alexander Payne,"[""Alexander Payne""]",Alexander Payne,True,producer
+Who was the screenwriter for One Life?,Alexandre Astruc,"[""Alexandre Astruc""]",David Mamet,False,screenwriter
+Who was the composer of Walker?,Joe Strummer,"[""Joe Strummer"", ""John Graham Mellor""]",John Williams,False,composer
+Who is the author of Camino Real?,Tennessee Williams,"[""Tennessee Williams"", ""Thomas Lanier Williams III"", ""Thomas Lanier Williams"", ""Thomas Williams""]",John Steinbeck,False,author
+Who was the director of Nightmare?,Freddie Francis,"[""Freddie Francis"", ""Frederick William Francis""]",Wes Craven,False,director
+Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",Oliver Stone,True,director
+Who was the composer of The Mission?,Ennio Morricone,"[""Ennio Morricone"", ""Dan Savio"", ""Leo Nichols""]",Gabriel Fauré,False,composer
+Who was the director of Nashville?,Robert Altman,"[""Robert Altman""]",Robert Altman,True,director
+Who is the author of The Wild Duck?,Henrik Ibsen,"[""Henrik Ibsen"", ""Henrik Johan Ibsen"", ""Henrich Johan Ibsen"", ""Henrich Ibsen""]",Henrik Ibsen,True,author
+In what city was Gintautas Umaras born?,Kaunas,"[""Kaunas"", ""Kovno"", ""Kovne"", ""Kovna"", ""Kowno"", ""Kauen""]",Kaunas,True,place of birth
+Who is the author of Detective?,Arthur Hailey,"[""Arthur Hailey"", ""Arthur Frederick Hailey""]",Agatha Christie,False,author
+Who was the composer of Imagine?,John Lennon,"[""John Lennon"", ""John Winston Ono Lennon"", ""John Winston Lennon"", ""Lennon John"", ""John Ono Lennon""]",John Lennon,True,composer
+In what city was Kalevi Kull born?,Tartu,"[""Tartu"", ""Dorpat"", ""Dörpt"", ""Derpt"", ""Tarbatu"", ""Jurjev"", ""Tartto"", ""Tartus""]",Helsinki,False,place of birth
+Who was the composer of Fame?,Michael Gore,"[""Michael Gore""]",Michael Gore,True,composer
+Who is the author of Memory?,Poul Anderson,"[""Poul Anderson"", ""Poul William Anderson"", ""Winston P. Sanders"", ""A. A. Craig"", ""Michael Karageorge"", ""Petronius Arbiter Kingsley"", ""P. A. Kingsley""]",James Salter,False,author
+Who was the director of Alone?,Parkpoom Wongpoom,"[""Parkpoom Wongpoom"", ""Banjong Pisanthanakun"", ""Bangjong Pisanthanakun""]",John Dahl,False,director
+Who is the father of Kim Kardashian?,Robert Kardashian,"[""Robert Kardashian"", ""Robert George Kardashian"", ""Rob Kardashian""]",Robert Kardashian,True,father
+Who was the director of Redemption?,Jon Alpert,"[""Jon Alpert""]",John Woo,False,director
+Who was the producer of Hot Rats?,Frank Zappa,"[""Frank Zappa"", ""Frank Vincent Zappa""]",Frank Zappa,True,producer
+Who was the composer of Annie?,Charles Strouse,"[""Charles Strouse""]",Charles Strouse,True,composer
+Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",Alexander Melville Bell,True,father
+Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",The producer of Human Nature was the late,False,producer
+Who is the father of Carl Valentin Falsen?,Enevold De Falsen,"[""Enevold De Falsen""]",Carl Valentin Falsen was born in,True,father
+Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",King Malcolm III of Scotland,True,father
+In what city was Frederick George Bromberg born?,New York City,"[""New York City"", ""NYC"", ""New York"", ""the five boroughs"", ""Big Apple"", ""City of New York"", ""NY City"", ""New York, New York"", ""New York City, New York"", ""New York, NY"", ""New York City (NYC)""]",New York City,True,place of birth
+Who was the producer of Good Night?,George Martin,"[""George Martin"", ""Sir George Henry Martin"", ""Sir George Martin""]",The producer of Good Night was the director,False,producer
+Who is the father of Philip III of Macedon?,Philip II of Macedon,"[""Philip II of Macedon"", ""King of Macedonia Filippo II"", ""King of Macedonia Philippos II"", ""King of Macedonia Philip II"", ""King of Macedonia Filip II"", ""King of Macedonia Philippus II"", ""Philip of Macedon""]",Philip II of Macedon,True,father
+Who was the screenwriter for The Shout?,Robert Graves,"[""Robert Graves"", ""Robert von Ranke-Graves"", ""Robert Ranke Graves"", ""Jerzy Skolimowski""]",John Sayles,False,screenwriter
+Who was the director of In My Life?,Bille August,"[""Bille August""]",Michael Apted,False,director
+Who is the author of Conan the Valiant?,Roland J. Green,"[""Roland J. Green"", ""Roland James Green""]",Robert E. Howard,False,author
+Who was the screenwriter for Yesterday's Hero?,Jackie Collins,"[""Jackie Collins"", ""Jacqueline Jill Collins""]",John Sayles,False,screenwriter
+Who was the composer of Getting to Know You?,Richard Rodgers,"[""Richard Rodgers"", ""Richard Charles Rodgers""]",Richard Rodgers,True,composer
+Who was the director of Stuff?,Johnny Depp,"[""Johnny Depp"", ""John Christopher \""Johnny\"" Depp II"", ""John Christopher Depp II"", ""John Christopher Depp""]",Chris Morris,False,director
+Who was the director of After Hours?,Martin Scorsese,"[""Martin Scorsese"", ""Martin Skorseze"", ""Martin Charles Scorsese""]",Martin Scorsese,True,director
+Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",Iain Softley,True,director
+Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",Trent Reznor,True,composer
+Who was the screenwriter for Champion?,Rabi Kinagi,"[""Rabi Kinagi"", ""Ravi Kinagi"", ""Rabi Kinnagi""]",John Sayles,False,screenwriter
+Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,"[""Robert Anton Wilson"", ""Robert Edward Wilson""]",John Grisham,False,author
+Who is the author of Anything Goes?,Howard Lindsay,"[""Howard Lindsay"", ""Herman Nelke"", ""Russel Crouse"", ""P. G. Wodehouse"", ""Pelham Grenville Wodehouse"", ""Sir Pelham Grenville Wodehouse"", ""Guy Bolton"", ""H. B. Trevelyan"", ""Guy Reginald Bolton""]",Cole Porter,False,author
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",Ann Brashares,True,author
+Who was the screenwriter for 2012?,Roland Emmerich,"[""Roland Emmerich""]",Simon Beaufoy,False,screenwriter
+Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",Lee Daniels,True,producer
+In what city was Alfredo Ramos Martínez born?,Monterrey,"[""Monterrey"", ""Monterrey, Nuevo Leon"", ""Monterrey, Mexico"", ""La sultana del norte"", ""La ciudad de las montañas""]",Mexico City,True,place of birth
+Who was the composer of Petrushka chord?,Igor Stravinsky,"[""Igor Stravinsky"", ""Igor Fyodorovich Stravinsky"", ""Stravinsky"", ""Igor Strawinski"", ""Igor Strawinsky"", ""Igor Stravinskii"", ""Igor Feodorovich Stravinsky"", ""Jgor Strawinsky"", ""Igor Strawinskij"", ""Igor Stravinski"", ""Igor Fedorovich Stravinsky"", ""I. Strawinsky""]",Igor Stravinsky,True,composer
+Who was the screenwriter for The Sea Inside?,Mateo Gil,"[""Mateo Gil""]",Alejandro Amenabar,False,screenwriter
+Who was the producer of The Fog?,Debra Hill,"[""Debra Hill"", ""John Carpenter"", ""John Howard Carpenter""]",John Carpenter,True,producer
+Who is the author of Utopia?,Thomas More,"[""Thomas More"", ""Sir Thomas More"", ""Saint Thomas More"", ""Thomas Morus"", ""Thomas, Saint More"", ""Thomas, Sir More""]",Thomas More,True,author
+Who was the producer of Positive?,Farhan Akhtar,"[""Farhan Akhtar"", ""Ritesh Sidhwani""]","The producer of Positive was the late,",False,producer
+Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach","[""Theodore Eustace, Count Palatine of Sulzbach"", ""Theodore Eustace""]",Joseph Charles of Sulzbach was the,True,father
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"[""Pat Proft"", ""Jerry Zucker"", ""Jim Abrahams"", ""James S. Abrahams"", ""David Zucker""]",David Zucker,True,screenwriter
+Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,"[""Tran Anh Hung""]",John Sayles,False,screenwriter
+Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",David Mamet,False,screenwriter

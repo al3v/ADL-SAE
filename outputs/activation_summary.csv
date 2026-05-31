@@ -1,151 +1,181 @@
 sample_id,question,correct_answer,model_answer,is_correct,type,layer,activation_mean,activation_std,activation_norm,activation_max,activation_min
-0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,1,-0.039236027747392654,1.1088181734085083,53.24504852294922,9.4765625,-26.6875
-0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,2,-0.02081293612718582,1.2099878787994385,58.075416564941406,35.15625,-13.4296875
-0,Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,3,-0.04281672462821007,1.1281023025512695,54.1761589050293,15.953125,-10.0703125
-1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,1,-0.039512477815151215,1.0967670679092407,52.66756057739258,8.203125,-26.40625
-1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,2,-0.02032647281885147,1.1929197311401367,57.25603103637695,35.0625,-12.9296875
-1,Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,3,-0.0376700796186924,1.1084463596343994,53.22460174560547,16.53125,-9.9375
-2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,1,-0.03867144137620926,1.0941219329833984,52.53926086425781,8.0234375,-26.0625
-2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,2,-0.018560068681836128,1.2018803358078003,57.68462371826172,35.1875,-13.21875
-2,Who was the director of Pilot?,Alex Graves,David Nutter,False,director,3,-0.03764686360955238,1.1247243881225586,54.00529861450195,16.28125,-9.796875
-3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,1,-0.03872418776154518,1.094111680984497,52.53886032104492,7.875,-26.25
-3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,2,-0.01816730387508869,1.2015056610107422,57.666358947753906,35.1875,-13.453125
-3,Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,3,-0.03749074414372444,1.1206251382827759,53.808441162109375,16.515625,-9.828125
-4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,1,-0.03948000445961952,1.1072479486465454,53.1701545715332,8.96875,-26.984375
-4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,2,-0.01953510008752346,1.2065891027450562,57.91130447387695,35.25,-13.546875
-4,Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,3,-0.04109890013933182,1.12465500831604,54.007774353027344,16.359375,-9.96875
-5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,1,-0.039271846413612366,1.0908126831054688,52.38157653808594,8.171875,-25.96875
-5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,2,-0.019899122416973114,1.1969523429870605,57.44918441772461,35.0,-13.046875
-5,Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,3,-0.03935036435723305,1.1216251850128174,53.85946273803711,16.25,-9.921875
-6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,1,-0.040087707340717316,1.1002748012542725,52.83678436279297,8.3828125,-26.21875
-6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,2,-0.01960304006934166,1.2098753452301025,58.06904602050781,35.25,-13.53125
-6,Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,3,-0.03833558410406113,1.119752049446106,53.76793670654297,15.9375,-9.90625
-7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,1,-0.03715117648243904,1.1091712713241577,53.25852966308594,9.1640625,-26.53125
-7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,2,-0.01642449013888836,1.2151120901107788,58.318058013916016,35.5,-13.5234375
-7,Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,3,-0.03865206241607666,1.126181960105896,54.076839447021484,15.75,-10.078125
-8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,1,-0.03766442835330963,1.0998764038085938,52.81356430053711,8.1875,-26.515625
-8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,2,-0.018794437870383263,1.1964983940124512,57.42654800415039,34.875,-13.5390625
-8,Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,3,-0.03819368779659271,1.1201814413070679,53.78829574584961,16.15625,-9.9296875
-9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,1,-0.039599403738975525,1.099360704421997,52.79209899902344,8.28125,-26.375
-9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,2,-0.020420147106051445,1.2027884721755981,57.729637145996094,35.125,-13.2265625
-9,Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,3,-0.04248909279704094,1.1290559768676758,54.22129821777344,15.96875,-9.9453125
-10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,1,-0.040126774460077286,1.097047209739685,52.68206787109375,8.484375,-26.609375
-10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,2,-0.022260209545493126,1.1953705549240112,57.37528610229492,34.90625,-13.3125
-10,Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,3,-0.04111947864294052,1.1109211444854736,53.34917449951172,16.34375,-9.96875
-11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,1,-0.03881050646305084,1.0931997299194336,52.495269775390625,7.68359375,-26.15625
-11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,2,-0.018064701929688454,1.201629638671875,57.67222595214844,34.96875,-13.578125
-11,Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,3,-0.03692375123500824,1.1342010498046875,54.45869445800781,16.1875,-9.8203125
-12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,1,-0.03949162736535072,1.0994914770126343,52.79817581176758,8.328125,-26.296875
-12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,2,-0.017924565821886063,1.2079367637634277,57.97477340698242,35.15625,-13.515625
-12,Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,3,-0.039823729544878006,1.1342039108276367,54.46353530883789,15.796875,-9.9765625
-13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,1,-0.03975216671824455,1.1040583848953247,53.01765441894531,9.109375,-26.5
-13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,2,-0.020336035639047623,1.2090572118759155,58.030364990234375,35.46875,-13.171875
-13,Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,3,-0.042687252163887024,1.1254199743270874,54.04728698730469,16.03125,-9.984375
-14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,1,-0.039556436240673065,1.1049532890319824,53.06023406982422,8.359375,-26.8125
-14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,2,-0.019502941519021988,1.2079347372055054,57.97584533691406,35.4375,-13.640625
-14,Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,3,-0.03695155680179596,1.1031988859176636,52.97175598144531,16.0,-9.921875
-15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,1,-0.03933636099100113,1.1046016216278076,53.04299545288086,8.484375,-26.875
-15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,2,-0.01870483160018921,1.209891676902771,58.06914138793945,35.5,-13.5859375
-15,Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,3,-0.040102846920490265,1.1190235614776611,53.735965728759766,16.125,-10.125
-16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,1,-0.039401207119226456,1.0950324535369873,52.58417510986328,8.3125,-26.171875
-16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,2,-0.01871228963136673,1.2068452835083008,57.92296600341797,35.21875,-13.390625
-16,Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,3,-0.04051286727190018,1.1371506452560425,54.606021881103516,15.890625,-10.046875
-17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,1,-0.03975372761487961,1.095522165298462,52.6082763671875,8.3984375,-26.0
-17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,2,-0.01958281733095646,1.210945725440979,58.120384216308594,35.4375,-13.3046875
-17,Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,3,-0.036294665187597275,1.1171252727508545,53.638671875,16.375,-9.9140625
-18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,1,-0.03979627415537834,1.102693796157837,52.95228958129883,8.8203125,-26.828125
-18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,2,-0.021050171926617622,1.2045763731002808,57.815948486328125,35.0625,-13.734375
-18,Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,3,-0.040116626769304276,1.1208727359771729,53.824676513671875,16.140625,-9.8984375
-19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,1,-0.039651621133089066,1.1024665832519531,52.94114303588867,8.734375,-27.09375
-19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,2,-0.02071511000394821,1.2125886678695679,58.20011901855469,35.625,-13.9453125
-19,Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,3,-0.0394098237156868,1.1159451007843018,53.58714294433594,16.59375,-10.03125
-20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,1,-0.039830282330513,1.0973351001739502,52.69535446166992,9.0859375,-25.9375
-20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,2,-0.020236756652593613,1.2100274562835693,58.07684326171875,35.34375,-13.125
-20,Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,3,-0.03863057121634483,1.1166393756866455,53.61913299560547,16.625,-10.015625
-21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,1,-0.039371952414512634,1.1000193357467651,52.82329559326172,8.5546875,-26.234375
-21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,2,-0.019766079261898994,1.2090436220169067,58.029273986816406,35.09375,-13.6015625
-21,Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,3,-0.039086274802684784,1.1203348636627197,53.7971305847168,15.828125,-9.9140625
-22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,1,-0.03891154006123543,1.0974626541137695,52.69989013671875,8.40625,-26.328125
-22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,2,-0.018182002007961273,1.1982852220535278,57.51183319091797,35.09375,-13.234375
-22,Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,3,-0.034505993127822876,1.1127585172653198,53.42649459838867,16.40625,-9.875
-23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,1,-0.03828413784503937,1.093894362449646,52.52769470214844,8.0,-26.0625
-23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,2,-0.018109198659658432,1.1948696374893188,57.34788513183594,34.875,-12.984375
-23,Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,3,-0.03585303947329521,1.1286052465438843,54.188636779785156,16.625,-9.890625
-24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,1,-0.03864128887653351,1.0950403213500977,52.583251953125,7.9375,-26.015625
-24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,2,-0.018135366961359978,1.203703761100769,57.77179718017578,35.0,-13.46875
-24,Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,3,-0.03672999143600464,1.1316782236099243,54.33737564086914,15.953125,-9.8046875
-25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,1,-0.03955746442079544,1.1013660430908203,52.8881950378418,8.9140625,-26.265625
-25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,2,-0.020107511430978775,1.208084225654602,57.98349380493164,35.125,-13.4609375
-25,Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,3,-0.04312153905630112,1.134379506111145,54.47773742675781,15.796875,-9.96875
-26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,1,-0.04191268980503082,1.0968819856643677,52.677337646484375,8.671875,-26.140625
-26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,2,-0.021379832178354263,1.2105258703231812,58.10169982910156,35.8125,-12.796875
-26,"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,3,-0.04055541753768921,1.114155888557434,53.5033073425293,16.65625,-9.96875
-27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,1,-0.03888736292719841,1.1022485494613647,52.92937469482422,8.1484375,-26.71875
-27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,2,-0.01868516206741333,1.2055445909500122,57.86054229736328,35.28125,-13.7265625
-27,Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,3,-0.03665885701775551,1.11713707447052,53.63981628417969,16.25,-9.9609375
-28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,1,-0.04043906554579735,1.1021273136138916,52.926231384277344,8.65625,-26.5
-28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,2,-0.020830439403653145,1.1985602378845215,57.527099609375,35.3125,-12.984375
-28,Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,3,-0.038830168545246124,1.1050214767456055,53.06227111816406,16.609375,-10.0078125
-29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,1,-0.03910588473081589,1.1005747318267822,52.84947967529297,8.75,-26.4375
-29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,2,-0.01931280829012394,1.2085912227630615,58.0072021484375,35.4375,-13.375
-29,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,3,-0.0374489352107048,1.1140962839126587,53.4952278137207,16.03125,-9.9765625
-30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,1,-0.03866836428642273,1.1028509140014648,52.95790481567383,8.453125,-26.8125
-30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,2,-0.01905859261751175,1.2090847492218018,58.03068923950195,35.5,-13.625
-30,Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,3,-0.035368911921978,1.1083937883377075,53.21844482421875,15.8125,-10.0703125
-31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,1,-0.04045180603861809,1.0975240468978882,52.70550537109375,8.1875,-26.21875
-31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,2,-0.020953085273504257,1.1990883350372314,57.55253982543945,34.84375,-13.171875
-31,Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,3,-0.041975636035203934,1.1323226690292358,54.37703323364258,15.6796875,-10.0078125
-32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,1,-0.04043866693973541,1.101585865020752,52.9002799987793,8.71875,-25.90625
-32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,2,-0.02228611335158348,1.2153078317642212,58.331932067871094,35.40625,-13.296875
-32,Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,3,-0.043367210775613785,1.1315251588821411,54.34130096435547,15.53125,-9.984375
-33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,1,-0.038905780762434006,1.1080697774887085,53.208587646484375,8.4140625,-27.046875
-33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,2,-0.01776628941297531,1.2088885307312012,58.02033615112305,35.34375,-13.703125
-33,Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,3,-0.039074718952178955,1.1196154356002808,53.762603759765625,15.84375,-10.1484375
-34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,1,-0.03888088837265968,1.0892773866653442,52.307281494140625,7.9453125,-26.0
-34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,2,-0.019782867282629013,1.200376272201538,57.61337661743164,35.25,-13.3203125
-34,Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,3,-0.03631783276796341,1.1201115846633911,53.78194808959961,16.515625,-9.8203125
-35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,1,-0.03883770480751991,1.0980209112167358,52.726531982421875,8.453125,-26.25
-35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,2,-0.02018161676824093,1.1976627111434937,57.48350524902344,35.0,-13.140625
-35,Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,3,-0.03875535726547241,1.1112974882125854,53.36314392089844,16.4375,-9.9375
-36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,1,-0.040612656623125076,1.103258490562439,52.98079299926758,9.125,-26.71875
-36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,2,-0.021761426702141762,1.2088947296142578,58.023765563964844,35.21875,-13.578125
-36,Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,3,-0.04185162112116814,1.1270105838775635,54.122066497802734,15.859375,-9.953125
-37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,1,-0.0389045886695385,1.1006942987442017,52.8548583984375,8.296875,-26.609375
-37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,2,-0.019985850900411606,1.20083487033844,57.635555267333984,35.28125,-13.234375
-37,Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,3,-0.038841355592012405,1.107230544090271,53.16823196411133,16.359375,-9.9921875
-38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,1,-0.0394630953669548,1.101449966430664,52.892059326171875,8.3359375,-26.65625
-38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,2,-0.017006022855639458,1.2041839361190796,57.7940559387207,35.0625,-13.46875
-38,Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,3,-0.03993518278002739,1.1242311000823975,53.98542785644531,15.984375,-10.046875
-39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,1,-0.03913447633385658,1.109837293624878,53.29375076293945,9.3828125,-26.8125
-39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,2,-0.019016452133655548,1.2159953117370605,58.362247467041016,35.65625,-13.84375
-39,Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,3,-0.039938293397426605,1.1236305236816406,53.956634521484375,15.640625,-10.1328125
-40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,1,-0.03989477828145027,1.1016905307769775,52.90434265136719,8.84375,-26.421875
-40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,2,-0.020101990550756454,1.210907220840454,58.11894607543945,35.28125,-13.75
-40,Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,3,-0.039033789187669754,1.114695429801941,53.526580810546875,16.09375,-9.953125
-41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,1,-0.04026343300938606,1.1057257652282715,53.0985107421875,9.0,-26.609375
-41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,2,-0.020711243152618408,1.2058836221694946,57.87839889526367,35.1875,-13.1875
-41,Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,3,-0.043912842869758606,1.1358225345611572,54.54838943481445,15.890625,-10.0078125
-42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,1,-0.03932458907365799,1.0996304750442505,52.80455780029297,8.546875,-26.375
-42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,2,-0.01802132837474346,1.2102200984954834,58.08440399169922,35.375,-13.5
-42,Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,3,-0.03994166851043701,1.1326104402542114,54.387306213378906,16.09375,-9.984375
-43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,1,-0.03913275524973869,1.0896490812301636,52.325538635253906,7.6640625,-26.046875
-43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,2,-0.01831369660794735,1.200453758239746,57.61599349975586,35.125,-13.3125
-43,Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,3,-0.03654775768518448,1.1271778345108032,54.12123489379883,16.1875,-9.8515625
-44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,1,-0.03865410387516022,1.0967979431152344,52.66757583618164,8.484375,-26.71875
-44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,2,-0.016714002937078476,1.2065186500549316,57.9058952331543,35.875,-13.046875
-44,Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,3,-0.03885193169116974,1.1181854009628296,53.69364929199219,16.078125,-10.1171875
-45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,1,-0.04014666751027107,1.094682216644287,52.56867599487305,8.375,-26.15625
-45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,2,-0.021040014922618866,1.1958078145980835,57.39521026611328,35.15625,-12.953125
-45,Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,3,-0.038634903728961945,1.1060075759887695,53.10923385620117,16.578125,-10.0078125
-46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,1,-0.039570920169353485,1.1083427667617798,53.22282028198242,9.046875,-26.5625
-46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,2,-0.02082027867436409,1.2078032493591309,57.97060775756836,35.0625,-13.515625
-46,Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,3,-0.041924431920051575,1.1330238580703735,54.41057205200195,15.5625,-9.9296875
-47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,1,-0.03956232964992523,1.105159878730774,53.070152282714844,8.71875,-26.75
-47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,2,-0.018459931015968323,1.2043710947036743,57.80405807495117,34.9375,-13.6640625
-47,Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,3,-0.04020123556256294,1.1315233707427979,54.33561706542969,15.84375,-9.9453125
-48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,1,-0.04064299166202545,1.0936471223831177,52.51992416381836,8.078125,-26.109375
-48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,2,-0.021172817796468735,1.191373348236084,57.18254089355469,35.0625,-12.6328125
-48,Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,3,-0.03867850825190544,1.1144534349441528,53.514373779296875,16.484375,-9.859375
-49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,1,-0.039375536143779755,1.0975401401519775,52.70439529418945,8.421875,-26.140625
-49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,2,-0.01992124505341053,1.1986820697784424,57.53219985961914,35.21875,-12.921875
-49,Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,3,-0.03851858153939247,1.1081156730651855,53.210140228271484,16.46875,-9.8828125
+0,Who is the father of Zhengde Emperor?,Hongzhi Emperor,Zhengde Emperor was the son of Zheng,True,father,1,-0.038741741329431534,1.1028847694396973,52.95964813232422,8.765625,-26.859375
+0,Who is the father of Zhengde Emperor?,Hongzhi Emperor,Zhengde Emperor was the son of Zheng,True,father,2,-0.018730631098151207,1.2086063623428345,58.00748825073242,35.34375,-13.5234375
+0,Who is the father of Zhengde Emperor?,Hongzhi Emperor,Zhengde Emperor was the son of Zheng,True,father,3,-0.03728778660297394,1.1237152814865112,53.95632553100586,16.328125,-9.890625
+1,Who was the composer of Samson?,George Frideric Handel,George Frideric Handel,True,composer,1,-0.04070284590125084,1.098379135131836,52.746952056884766,8.171875,-26.25
+1,Who was the composer of Samson?,George Frideric Handel,George Frideric Handel,True,composer,2,-0.019850177690386772,1.20669686794281,57.91672134399414,35.1875,-13.359375
+1,Who was the composer of Samson?,George Frideric Handel,George Frideric Handel,True,composer,3,-0.04039493948221207,1.1226694583892822,53.91131591796875,16.109375,-9.9140625
+2,Who was the producer of Reds?,Warren Beatty,Dalton Trumbo,False,producer,1,-0.039321091026067734,1.092597246170044,52.46724319458008,8.421875,-26.078125
+2,Who was the producer of Reds?,Warren Beatty,Dalton Trumbo,False,producer,2,-0.020285410806536674,1.2050797939300537,57.8394775390625,35.09375,-13.46875
+2,Who was the producer of Reds?,Warren Beatty,Dalton Trumbo,False,producer,3,-0.03752220794558525,1.116517424583435,53.6114616394043,16.140625,-9.84375
+3,Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,Mahesh Bhatt,False,producer,1,-0.03909047320485115,1.0958794355392456,52.624263763427734,8.15625,-26.265625
+3,Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,Mahesh Bhatt,False,producer,2,-0.021653972566127777,1.2154271602630615,58.33710479736328,35.3125,-13.46875
+3,Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,Mahesh Bhatt,False,producer,3,-0.04386265203356743,1.147962212562561,55.13044357299805,15.15625,-9.921875
+4,Who was the composer of Cabaret?,John Kander,Kander and Ebb,True,composer,1,-0.04027791693806648,1.0982509851455688,52.74005889892578,8.484375,-26.265625
+4,Who was the composer of Cabaret?,John Kander,Kander and Ebb,True,composer,2,-0.019584916532039642,1.2028580904006958,57.73231887817383,35.3125,-13.1640625
+4,Who was the composer of Cabaret?,John Kander,Kander and Ebb,True,composer,3,-0.03843395784497261,1.107954740524292,53.20228576660156,16.59375,-9.890625
+5,Who is the author of The Whole Family?,Henry James,Dr. Robert H. Schuller,False,author,1,-0.039337366819381714,1.1038117408752441,53.00511932373047,8.3515625,-26.875
+5,Who is the author of The Whole Family?,Henry James,Dr. Robert H. Schuller,False,author,2,-0.01807980425655842,1.211206078529358,58.13174819946289,35.4375,-13.6875
+5,Who is the author of The Whole Family?,Henry James,Dr. Robert H. Schuller,False,author,3,-0.04082102328538895,1.1223257780075073,53.89558029174805,15.9921875,-10.09375
+6,Who was the composer of Introduction and Allegro?,Maurice Ravel,Edward Elgar,False,composer,1,-0.03933308646082878,1.099868893623352,52.816009521484375,8.046875,-26.71875
+6,Who was the composer of Introduction and Allegro?,Maurice Ravel,Edward Elgar,False,composer,2,-0.018349412828683853,1.2070183753967285,57.93101501464844,35.5625,-13.46875
+6,Who was the composer of Introduction and Allegro?,Maurice Ravel,Edward Elgar,False,composer,3,-0.03825892508029938,1.1130281686782837,53.44532012939453,16.9375,-10.09375
+7,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak was written by the famous Turkish,False,screenwriter,1,-0.039330050349235535,1.0952152013778687,52.59281921386719,8.1796875,-25.90625
+7,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak was written by the famous Turkish,False,screenwriter,2,-0.019758492708206177,1.1974186897277832,57.47145462036133,35.1875,-12.8203125
+7,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak was written by the famous Turkish,False,screenwriter,3,-0.03845681622624397,1.1196333169937134,53.76243591308594,16.421875,-9.859375
+8,Who was the producer of The Descendants?,Alexander Payne,Alexander Payne,True,producer,1,-0.039849307388067245,1.101828694343567,52.910892486572266,8.984375,-26.4375
+8,Who was the producer of The Descendants?,Alexander Payne,Alexander Payne,True,producer,2,-0.020053870975971222,1.2112411260604858,58.13492965698242,35.375,-13.59375
+8,Who was the producer of The Descendants?,Alexander Payne,Alexander Payne,True,producer,3,-0.0409143902361393,1.1180442571640015,53.690406799316406,16.0,-9.9375
+9,Who was the screenwriter for One Life?,Alexandre Astruc,David Mamet,False,screenwriter,1,-0.03997742757201195,1.0982550382614136,52.739723205566406,8.3515625,-26.28125
+9,Who was the screenwriter for One Life?,Alexandre Astruc,David Mamet,False,screenwriter,2,-0.019768178462982178,1.1937544345855713,57.2956428527832,35.09375,-12.8203125
+9,Who was the screenwriter for One Life?,Alexandre Astruc,David Mamet,False,screenwriter,3,-0.03791550174355507,1.1070353984832764,53.15733337402344,16.34375,-10.015625
+10,Who was the composer of Walker?,Joe Strummer,John Williams,False,composer,1,-0.03995353728532791,1.0955240726470947,52.60871505737305,8.125,-26.15625
+10,Who was the composer of Walker?,Joe Strummer,John Williams,False,composer,2,-0.019509412348270416,1.2056019306182861,57.86390686035156,35.28125,-13.359375
+10,Who was the composer of Walker?,Joe Strummer,John Williams,False,composer,3,-0.038380127400159836,1.1081912517547607,53.213539123535156,16.15625,-9.84375
+11,Who is the author of Camino Real?,Tennessee Williams,John Steinbeck,False,author,1,-0.03920438885688782,1.0994377136230469,52.79511260986328,8.546875,-26.390625
+11,Who is the author of Camino Real?,Tennessee Williams,John Steinbeck,False,author,2,-0.017520038411021233,1.2072097063064575,57.939598083496094,35.5,-12.96875
+11,Who is the author of Camino Real?,Tennessee Williams,John Steinbeck,False,author,3,-0.03913387656211853,1.1262030601501465,54.07865524291992,16.375,-10.0234375
+12,Who was the director of Nightmare?,Freddie Francis,Wes Craven,False,director,1,-0.038676667958498,1.0916707515716553,52.42171096801758,8.140625,-26.40625
+12,Who was the director of Nightmare?,Freddie Francis,Wes Craven,False,director,2,-0.018370678648352623,1.1943293809890747,57.32215118408203,35.09375,-13.484375
+12,Who was the director of Nightmare?,Freddie Francis,Wes Craven,False,director,3,-0.034931957721710205,1.1093019247055054,53.2613410949707,16.75,-9.8046875
+13,Who was the director of The Doors?,Oliver Stone,Oliver Stone,True,director,1,-0.039208296686410904,1.0955146551132202,52.60696792602539,8.046875,-26.421875
+13,Who was the director of The Doors?,Oliver Stone,Oliver Stone,True,director,2,-0.01963135227560997,1.1980489492416382,57.50159454345703,35.21875,-13.296875
+13,Who was the director of The Doors?,Oliver Stone,Oliver Stone,True,director,3,-0.03881022706627846,1.119085669517517,53.73675537109375,16.15625,-9.90625
+14,Who was the composer of The Mission?,Ennio Morricone,Gabriel Fauré,False,composer,1,-0.0391697883605957,1.0974764823913574,52.70099639892578,8.1875,-26.4375
+14,Who was the composer of The Mission?,Ennio Morricone,Gabriel Fauré,False,composer,2,-0.018333405256271362,1.2073493003845215,57.946876525878906,35.34375,-13.46875
+14,Who was the composer of The Mission?,Ennio Morricone,Gabriel Fauré,False,composer,3,-0.03722681477665901,1.1152100563049316,53.548282623291016,16.3125,-9.9140625
+15,Who was the director of Nashville?,Robert Altman,Robert Altman,True,director,1,-0.03972207009792328,1.0883713960647583,52.265289306640625,7.69140625,-25.9375
+15,Who was the director of Nashville?,Robert Altman,Robert Altman,True,director,2,-0.02117171511054039,1.1919468641281128,57.21006774902344,34.8125,-13.046875
+15,Who was the director of Nashville?,Robert Altman,Robert Altman,True,director,3,-0.03983399644494057,1.121997356414795,53.87812805175781,16.4375,-9.828125
+16,Who is the author of The Wild Duck?,Henrik Ibsen,Henrik Ibsen,True,author,1,-0.038477573543787,1.1012375354766846,52.88020706176758,8.4921875,-26.65625
+16,Who is the author of The Wild Duck?,Henrik Ibsen,Henrik Ibsen,True,author,2,-0.01725458726286888,1.2100578546524048,58.07607650756836,35.4375,-13.671875
+16,Who is the author of The Wild Duck?,Henrik Ibsen,Henrik Ibsen,True,author,3,-0.03887484595179558,1.1163034439086914,53.603424072265625,16.21875,-10.0546875
+17,In what city was Gintautas Umaras born?,Kaunas,Kaunas,True,place of birth,1,-0.04199294000864029,1.1047743558883667,53.05596923828125,9.40625,-26.421875
+17,In what city was Gintautas Umaras born?,Kaunas,Kaunas,True,place of birth,2,-0.02258068323135376,1.2100958824157715,58.082122802734375,35.8125,-12.5234375
+17,In what city was Gintautas Umaras born?,Kaunas,Kaunas,True,place of birth,3,-0.04096592590212822,1.1381527185440063,54.65485763549805,15.5390625,-10.046875
+18,Who is the author of Detective?,Arthur Hailey,Agatha Christie,False,author,1,-0.039447084069252014,1.104786992073059,53.05207824707031,8.671875,-26.78125
+18,Who is the author of Detective?,Arthur Hailey,Agatha Christie,False,author,2,-0.01784106157720089,1.213013768196106,58.21833801269531,35.40625,-13.984375
+18,Who is the author of Detective?,Arthur Hailey,Agatha Christie,False,author,3,-0.039037059992551804,1.122307300567627,53.89165496826172,16.15625,-9.96875
+19,Who was the composer of Imagine?,John Lennon,John Lennon,True,composer,1,-0.03955124318599701,1.1014587879180908,52.892635345458984,8.1953125,-26.484375
+19,Who was the composer of Imagine?,John Lennon,John Lennon,True,composer,2,-0.019292473793029785,1.205344796180725,57.851417541503906,35.25,-13.53125
+19,Who was the composer of Imagine?,John Lennon,John Lennon,True,composer,3,-0.03786396235227585,1.1197181940078735,53.765533447265625,15.875,-10.015625
+20,In what city was Kalevi Kull born?,Tartu,Helsinki,False,place of birth,1,-0.041133537888526917,1.1015352010726929,52.89908218383789,8.984375,-26.453125
+20,In what city was Kalevi Kull born?,Tartu,Helsinki,False,place of birth,2,-0.021452320739626884,1.202565312385559,57.71979522705078,35.125,-12.8359375
+20,In what city was Kalevi Kull born?,Tartu,Helsinki,False,place of birth,3,-0.04233762249350548,1.1310608386993408,54.31716537475586,14.96875,-9.9140625
+21,Who was the composer of Fame?,Michael Gore,Michael Gore,True,composer,1,-0.040541451424360275,1.0959466695785522,52.630008697509766,8.2109375,-26.1875
+21,Who was the composer of Fame?,Michael Gore,Michael Gore,True,composer,2,-0.021196629852056503,1.2066600322723389,57.916046142578125,35.1875,-13.5859375
+21,Who was the composer of Fame?,Michael Gore,Michael Gore,True,composer,3,-0.03910582885146141,1.1189476251602173,53.730628967285156,16.40625,-9.8984375
+22,Who is the author of Memory?,Poul Anderson,James Salter,False,author,1,-0.03872831538319588,1.103360652923584,52.982444763183594,8.4921875,-26.53125
+22,Who is the author of Memory?,Poul Anderson,James Salter,False,author,2,-0.01657942868769169,1.2170206308364868,58.40972900390625,35.65625,-13.5703125
+22,Who is the author of Memory?,Poul Anderson,James Salter,False,author,3,-0.038410887122154236,1.1199277639389038,53.7764892578125,16.21875,-9.9765625
+23,Who was the director of Alone?,Parkpoom Wongpoom,John Dahl,False,director,1,-0.03862607106566429,1.0957105159759521,52.61537170410156,8.1796875,-26.28125
+23,Who was the director of Alone?,Parkpoom Wongpoom,John Dahl,False,director,2,-0.01768181473016739,1.2010834217071533,57.64574432373047,35.0625,-13.5390625
+23,Who was the director of Alone?,Parkpoom Wongpoom,John Dahl,False,director,3,-0.03730402886867523,1.1234251260757446,53.94243621826172,16.171875,-9.84375
+24,Who is the father of Kim Kardashian?,Robert Kardashian,Robert Kardashian,True,father,1,-0.03948991000652313,1.0961765050888062,52.63920211791992,8.8203125,-26.234375
+24,Who is the father of Kim Kardashian?,Robert Kardashian,Robert Kardashian,True,father,2,-0.021312475204467773,1.1982545852661133,57.51284408569336,34.96875,-13.125
+24,Who is the father of Kim Kardashian?,Robert Kardashian,Robert Kardashian,True,father,3,-0.04173624515533447,1.1231147050857544,53.93503189086914,16.09375,-9.9765625
+25,Who was the director of Redemption?,Jon Alpert,John Woo,False,director,1,-0.039373815059661865,1.0915827751159668,52.41868591308594,8.09375,-25.9375
+25,Who was the director of Redemption?,Jon Alpert,John Woo,False,director,2,-0.019959937781095505,1.2022746801376343,57.704620361328125,35.03125,-13.3984375
+25,Who was the director of Redemption?,Jon Alpert,John Woo,False,director,3,-0.03911500424146652,1.1297953128814697,54.25090408325195,16.53125,-9.8203125
+26,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,1,-0.03910588473081589,1.1005747318267822,52.84947967529297,8.75,-26.4375
+26,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,2,-0.01931280829012394,1.2085912227630615,58.0072021484375,35.4375,-13.375
+26,Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,3,-0.0374489352107048,1.1140962839126587,53.4952278137207,16.03125,-9.9765625
+27,Who was the composer of Annie?,Charles Strouse,Charles Strouse,True,composer,1,-0.040411584079265594,1.0963035821914673,52.64690399169922,8.0546875,-26.25
+27,Who was the composer of Annie?,Charles Strouse,Charles Strouse,True,composer,2,-0.019324056804180145,1.2049357891082764,57.83180236816406,35.21875,-13.390625
+27,Who was the composer of Annie?,Charles Strouse,Charles Strouse,True,composer,3,-0.03961349278688431,1.1123530864715576,53.41521453857422,16.0,-9.9140625
+28,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,Alexander Melville Bell,True,father,1,-0.040110837668180466,1.1035774946212769,52.995216369628906,8.5546875,-26.609375
+28,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,Alexander Melville Bell,True,father,2,-0.02092973329126835,1.2089046239852905,58.02353286743164,35.3125,-13.4765625
+28,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,Alexander Melville Bell,True,father,3,-0.04324479401111603,1.1279983520507812,54.171958923339844,15.65625,-10.015625
+29,Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature was the late,False,producer,1,-0.039386067539453506,1.1019562482833862,52.91621017456055,8.5078125,-26.53125
+29,Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature was the late,False,producer,2,-0.01970071904361248,1.2132782936096191,58.232398986816406,35.3125,-13.6015625
+29,Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature was the late,False,producer,3,-0.03897358477115631,1.12159264087677,53.857269287109375,16.015625,-10.0546875
+30,Who is the father of Carl Valentin Falsen?,Enevold De Falsen,Carl Valentin Falsen was born in,True,father,1,-0.039865799248218536,1.109922170639038,53.2990608215332,9.390625,-26.53125
+30,Who is the father of Carl Valentin Falsen?,Enevold De Falsen,Carl Valentin Falsen was born in,True,father,2,-0.020310254767537117,1.2105491161346436,58.1019287109375,35.46875,-13.078125
+30,Who is the father of Carl Valentin Falsen?,Enevold De Falsen,Carl Valentin Falsen was born in,True,father,3,-0.042809002101421356,1.1306580305099487,54.2987060546875,15.703125,-10.03125
+31,Who is the father of David I of Scotland?,Malcolm III of Scotland,King Malcolm III of Scotland,True,father,1,-0.03926365450024605,1.1090710163116455,53.25721740722656,9.25,-27.0
+31,Who is the father of David I of Scotland?,Malcolm III of Scotland,King Malcolm III of Scotland,True,father,2,-0.020800309255719185,1.2058695554733276,57.8777961730957,35.15625,-13.3359375
+31,Who is the father of David I of Scotland?,Malcolm III of Scotland,King Malcolm III of Scotland,True,father,3,-0.042333170771598816,1.1246355772018433,54.009033203125,15.953125,-10.046875
+32,In what city was Frederick George Bromberg born?,New York City,New York City,True,place of birth,1,-0.041437093168497086,1.1033610105514526,52.987186431884766,9.1875,-26.5
+32,In what city was Frederick George Bromberg born?,New York City,New York City,True,place of birth,2,-0.021303359419107437,1.2001206874847412,57.60236358642578,35.25,-12.375
+32,In what city was Frederick George Bromberg born?,New York City,New York City,True,place of birth,3,-0.04103422909975052,1.1285191774368286,54.19297790527344,15.625,-10.0625
+33,Who was the producer of Good Night?,George Martin,The producer of Good Night was the director,False,producer,1,-0.039570290595293045,1.1029056310653687,52.96205520629883,8.9609375,-26.5625
+33,Who was the producer of Good Night?,George Martin,The producer of Good Night was the director,False,producer,2,-0.019403722137212753,1.20805823802948,57.98169708251953,35.1875,-13.5625
+33,Who was the producer of Good Night?,George Martin,The producer of Good Night was the director,False,producer,3,-0.03667152300477028,1.1226630210876465,53.904876708984375,15.953125,-10.0078125
+34,Who is the father of Philip III of Macedon?,Philip II of Macedon,Philip II of Macedon,True,father,1,-0.04018687456846237,1.1083978414535522,53.22651672363281,9.125,-26.8125
+34,Who is the father of Philip III of Macedon?,Philip II of Macedon,Philip II of Macedon,True,father,2,-0.02187192440032959,1.2121241092681885,58.17880630493164,35.40625,-13.4453125
+34,Who is the father of Philip III of Macedon?,Philip II of Macedon,Philip II of Macedon,True,father,3,-0.044635333120822906,1.1340864896774292,54.46649169921875,16.0625,-10.0234375
+35,Who was the screenwriter for The Shout?,Robert Graves,John Sayles,False,screenwriter,1,-0.03882806748151779,1.095607042312622,52.61075210571289,7.9296875,-26.46875
+35,Who was the screenwriter for The Shout?,Robert Graves,John Sayles,False,screenwriter,2,-0.01924750953912735,1.1924904584884644,57.23457336425781,35.15625,-12.9453125
+35,Who was the screenwriter for The Shout?,Robert Graves,John Sayles,False,screenwriter,3,-0.03714565560221672,1.09719717502594,52.68421173095703,16.46875,-9.8828125
+36,Who was the director of In My Life?,Bille August,Michael Apted,False,director,1,-0.03853962570428848,1.1041094064712524,53.01803207397461,8.4921875,-26.71875
+36,Who was the director of In My Life?,Bille August,Michael Apted,False,director,2,-0.01807788945734501,1.2027363777160645,57.72533416748047,35.125,-13.53125
+36,Who was the director of In My Life?,Bille August,Michael Apted,False,director,3,-0.036984775215387344,1.116489052772522,53.6092529296875,16.125,-9.9921875
+37,Who is the author of Conan the Valiant?,Roland J. Green,Robert E. Howard,False,author,1,-0.03873416408896446,1.1034470796585083,52.986595153808594,9.15625,-26.625
+37,Who is the author of Conan the Valiant?,Roland J. Green,Robert E. Howard,False,author,2,-0.019458744674921036,1.2124509811401367,58.1925163269043,35.28125,-14.046875
+37,Who is the author of Conan the Valiant?,Roland J. Green,Robert E. Howard,False,author,3,-0.03965921700000763,1.1218950748443604,53.8729248046875,16.015625,-10.078125
+38,Who was the screenwriter for Yesterday's Hero?,Jackie Collins,John Sayles,False,screenwriter,1,-0.03860148787498474,1.0984961986541748,52.748931884765625,8.53125,-26.265625
+38,Who was the screenwriter for Yesterday's Hero?,Jackie Collins,John Sayles,False,screenwriter,2,-0.02119568921625614,1.1957122087478638,57.390750885009766,35.125,-12.859375
+38,Who was the screenwriter for Yesterday's Hero?,Jackie Collins,John Sayles,False,screenwriter,3,-0.0386044904589653,1.1075820922851562,53.184696197509766,16.203125,-9.984375
+39,Who was the composer of Getting to Know You?,Richard Rodgers,Richard Rodgers,True,composer,1,-0.039224233478307724,1.103745937347412,53.00175857543945,7.859375,-27.0
+39,Who was the composer of Getting to Know You?,Richard Rodgers,Richard Rodgers,True,composer,2,-0.018442634493112564,1.2056593894958496,57.86586380004883,35.4375,-13.65625
+39,Who was the composer of Getting to Know You?,Richard Rodgers,Richard Rodgers,True,composer,3,-0.03670775145292282,1.1068488359451294,53.14643096923828,15.8046875,-10.0703125
+40,Who was the director of Stuff?,Johnny Depp,Chris Morris,False,director,1,-0.038647156208753586,1.092294454574585,52.45158004760742,7.87109375,-26.1875
+40,Who was the director of Stuff?,Johnny Depp,Chris Morris,False,director,2,-0.017865212634205818,1.1975489854812622,57.476280212402344,35.125,-13.234375
+40,Who was the director of Stuff?,Johnny Depp,Chris Morris,False,director,3,-0.03647613152861595,1.1185364723205566,53.70664596557617,16.578125,-9.8984375
+41,Who was the director of After Hours?,Martin Scorsese,Martin Scorsese,True,director,1,-0.037989355623722076,1.0978734493255615,52.718040466308594,7.9453125,-26.34375
+41,Who was the director of After Hours?,Martin Scorsese,Martin Scorsese,True,director,2,-0.01875254139304161,1.199062466621399,57.54955291748047,34.9375,-13.4140625
+41,Who was the director of After Hours?,Martin Scorsese,Martin Scorsese,True,director,3,-0.03766540065407753,1.1330459117889404,54.404449462890625,16.0,-10.015625
+42,Who was the director of Hackers?,Iain Softley,Iain Softley,True,director,1,-0.03830176964402199,1.0956755876541138,52.61315155029297,8.265625,-26.171875
+42,Who was the director of Hackers?,Iain Softley,Iain Softley,True,director,2,-0.017808539792895317,1.2005141973495483,57.6185188293457,35.125,-13.171875
+42,Who was the director of Hackers?,Iain Softley,Iain Softley,True,director,3,-0.035368070006370544,1.1231659650802612,53.927001953125,16.515625,-9.8671875
+43,Who was the composer of The Social Network?,Trent Reznor,Trent Reznor,True,composer,1,-0.03997626528143883,1.1025373935699463,52.94510269165039,8.625,-26.59375
+43,Who was the composer of The Social Network?,Trent Reznor,Trent Reznor,True,composer,2,-0.019237510859966278,1.2053345441818237,57.85087203979492,35.21875,-13.453125
+43,Who was the composer of The Social Network?,Trent Reznor,Trent Reznor,True,composer,3,-0.03873750939965248,1.1232670545578003,53.93717956542969,16.40625,-10.109375
+44,Who was the screenwriter for Champion?,Rabi Kinagi,John Sayles,False,screenwriter,1,-0.03958934172987938,1.092354416847229,52.456077575683594,8.234375,-26.0
+44,Who was the screenwriter for Champion?,Rabi Kinagi,John Sayles,False,screenwriter,2,-0.020225919783115387,1.1915638446807861,57.19089889526367,34.96875,-12.765625
+44,Who was the screenwriter for Champion?,Rabi Kinagi,John Sayles,False,screenwriter,3,-0.03793710470199585,1.1120271682739258,53.39677810668945,16.65625,-9.8125
+45,Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,John Grisham,False,author,1,-0.03935995697975159,1.1194502115249634,53.755165100097656,9.6171875,-27.453125
+45,Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,John Grisham,False,author,2,-0.018084274604916573,1.2186110019683838,58.4870719909668,35.71875,-13.890625
+45,Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,John Grisham,False,author,3,-0.03577350080013275,1.1048948764801025,53.051246643066406,15.90625,-10.1015625
+46,Who is the author of Anything Goes?,Howard Lindsay,Cole Porter,False,author,1,-0.03949189558625221,1.1056208610534668,53.092140197753906,8.6171875,-26.78125
+46,Who is the author of Anything Goes?,Howard Lindsay,Cole Porter,False,author,2,-0.01870807074010372,1.2087109088897705,58.012489318847656,35.25,-13.53125
+46,Who is the author of Anything Goes?,Howard Lindsay,Cole Porter,False,author,3,-0.038628995418548584,1.1252397298812866,54.031612396240234,15.890625,-10.0390625
+47,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,Ann Brashares,True,author,1,-0.03876363858580589,1.0939228534698486,52.529869079589844,7.3203125,-26.625
+47,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,Ann Brashares,True,author,2,-0.018327148631215096,1.2106837034225464,58.10686492919922,35.6875,-13.8359375
+47,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,Ann Brashares,True,author,3,-0.0423637256026268,1.1216291189193726,53.86491012573242,15.9921875,-10.046875
+48,Who was the screenwriter for 2012?,Roland Emmerich,Simon Beaufoy,False,screenwriter,1,-0.039810020476579666,1.099430799484253,52.79582595825195,8.8046875,-25.75
+48,Who was the screenwriter for 2012?,Roland Emmerich,Simon Beaufoy,False,screenwriter,2,-0.020002033561468124,1.1996326446533203,57.577884674072266,35.34375,-12.4140625
+48,Who was the screenwriter for 2012?,Roland Emmerich,Simon Beaufoy,False,screenwriter,3,-0.03718101978302002,1.1101102828979492,53.303619384765625,16.28125,-9.96875
+49,Who was the producer of Precious?,Lee Daniels,Lee Daniels,True,producer,1,-0.039969250559806824,1.0987180471420288,52.76190948486328,8.375,-26.546875
+49,Who was the producer of Precious?,Lee Daniels,Lee Daniels,True,producer,2,-0.019720133394002914,1.2055323123931885,57.86074447631836,35.25,-13.484375
+49,Who was the producer of Precious?,Lee Daniels,Lee Daniels,True,producer,3,-0.038608431816101074,1.1269725561141968,54.114681243896484,15.9140625,-9.96875
+50,In what city was Alfredo Ramos Martínez born?,Monterrey,Mexico City,True,place of birth,1,-0.04074842482805252,1.099100947380066,52.78165817260742,8.75,-26.546875
+50,In what city was Alfredo Ramos Martínez born?,Monterrey,Mexico City,True,place of birth,2,-0.021628819406032562,1.1959246397018433,57.40132141113281,35.125,-12.546875
+50,In what city was Alfredo Ramos Martínez born?,Monterrey,Mexico City,True,place of birth,3,-0.04109615087509155,1.1440669298171997,54.93872833251953,15.5078125,-10.109375
+51,Who was the composer of Petrushka chord?,Igor Stravinsky,Igor Stravinsky,True,composer,1,-0.04120044410228729,1.1045215129852295,53.04240798950195,8.953125,-26.375
+51,Who was the composer of Petrushka chord?,Igor Stravinsky,Igor Stravinsky,True,composer,2,-0.020819293335080147,1.2123585939407349,58.18916702270508,35.46875,-13.390625
+51,Who was the composer of Petrushka chord?,Igor Stravinsky,Igor Stravinsky,True,composer,3,-0.04049552232027054,1.107010006904602,53.160499572753906,16.171875,-9.921875
+52,Who was the screenwriter for The Sea Inside?,Mateo Gil,Alejandro Amenabar,False,screenwriter,1,-0.03956364840269089,1.099137783050537,52.781341552734375,8.328125,-26.359375
+52,Who was the screenwriter for The Sea Inside?,Mateo Gil,Alejandro Amenabar,False,screenwriter,2,-0.019713766872882843,1.1985068321228027,57.523624420166016,35.21875,-12.96875
+52,Who was the screenwriter for The Sea Inside?,Mateo Gil,Alejandro Amenabar,False,screenwriter,3,-0.03753314167261124,1.1034067869186401,52.98267364501953,16.609375,-9.921875
+53,Who was the producer of The Fog?,Debra Hill,John Carpenter,True,producer,1,-0.03910622373223305,1.096118450164795,52.6357536315918,8.53125,-26.234375
+53,Who was the producer of The Fog?,Debra Hill,John Carpenter,True,producer,2,-0.018845124170184135,1.20703125,57.93198776245117,35.28125,-13.46875
+53,Who was the producer of The Fog?,Debra Hill,John Carpenter,True,producer,3,-0.036864954978227615,1.1142995357513428,53.5040397644043,15.96875,-9.921875
+54,Who is the author of Utopia?,Thomas More,Thomas More,True,author,1,-0.03939196094870567,1.1015660762786865,52.89750671386719,8.328125,-26.71875
+54,Who is the author of Utopia?,Thomas More,Thomas More,True,author,2,-0.017777176573872566,1.2126909494400024,58.20279312133789,35.5,-13.734375
+54,Who is the author of Utopia?,Thomas More,Thomas More,True,author,3,-0.03880081698298454,1.1221460103988647,53.88351821899414,15.890625,-10.046875
+55,Who was the producer of Positive?,Farhan Akhtar,"The producer of Positive was the late,",False,producer,1,-0.04003971815109253,1.1017876863479614,52.90925216674805,8.5,-26.234375
+55,Who was the producer of Positive?,Farhan Akhtar,"The producer of Positive was the late,",False,producer,2,-0.019727401435375214,1.2125983238220215,58.19979476928711,35.1875,-13.5625
+55,Who was the producer of Positive?,Farhan Akhtar,"The producer of Positive was the late,",False,producer,3,-0.0382489413022995,1.1251800060272217,54.02812194824219,15.7734375,-9.984375
+56,Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach",Joseph Charles of Sulzbach was the,True,father,1,-0.041930437088012695,1.109247088432312,53.270347595214844,9.3828125,-26.6875
+56,Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach",Joseph Charles of Sulzbach was the,True,father,2,-0.023302201181650162,1.213797926902771,58.260406494140625,35.71875,-13.25
+56,Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach",Joseph Charles of Sulzbach was the,True,father,3,-0.04437355697154999,1.1170324087142944,53.64822006225586,15.8828125,-10.078125
+57,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,David Zucker,True,screenwriter,1,-0.03852654993534088,1.0926008224487305,52.466064453125,8.1015625,-25.953125
+57,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,David Zucker,True,screenwriter,2,-0.018933244049549103,1.1971319913864136,57.45705795288086,35.5625,-12.6484375
+57,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,David Zucker,True,screenwriter,3,-0.03341164439916611,1.0795601606369019,51.83246612548828,16.671875,-9.8828125
+58,Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,John Sayles,False,screenwriter,1,-0.04048605635762215,1.1017524003982544,52.90834426879883,8.359375,-26.78125
+58,Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,John Sayles,False,screenwriter,2,-0.021253399550914764,1.1981757879257202,57.50900650024414,35.15625,-13.421875
+58,Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,John Sayles,False,screenwriter,3,-0.03779955208301544,1.1021273136138916,52.92173767089844,16.4375,-9.953125
+59,Who was the screenwriter for Over the Top?,Stirling Silliphant,David Mamet,False,screenwriter,1,-0.03884170949459076,1.0944395065307617,52.554779052734375,8.0859375,-26.1875
+59,Who was the screenwriter for Over the Top?,Stirling Silliphant,David Mamet,False,screenwriter,2,-0.01962238922715187,1.1967132091522217,57.4375,35.125,-13.0859375
+59,Who was the screenwriter for Over the Top?,Stirling Silliphant,David Mamet,False,screenwriter,3,-0.03721246495842934,1.112198829650879,53.403839111328125,16.5,-9.9921875

@@ -1,51 +1,61 @@
 question,correct_answer,model_answer,is_correct,type,correct_answer_num_tokens,model_answer_num_tokens,correct_answer_tokens,model_answer_tokens,is_correct_answer_single_token,is_model_answer_single_token
-Who is the father of Peter II of Portugal?,John IV of Portugal,King John I of Portugal,True,father,4,5,"['John', '▁IV', '▁of', '▁Portugal']","['King', '▁John', '▁I', '▁of', '▁Portugal']",False,False
-Who was the screenwriter for Last Night?,Massy Tadjedin,David Koepp,False,screenwriter,5,3,"['Mass', 'y', '▁Tad', 'jed', 'in']","['David', '▁Koe', 'pp']",False,False
-Who was the director of Pilot?,Alex Graves,David Nutter,False,director,2,3,"['Alex', '▁Graves']","['David', '▁N', 'utter']",False,False
-Who was the director of The Crossing?,John Woo,John Frankenheimer,False,director,2,3,"['John', '▁Woo']","['John', '▁Franken', 'heimer']",False,False
-Who is the father of Richard of Normandy?,William the Conqueror,William the Conqueror,True,father,3,3,"['William', '▁the', '▁Conqueror']","['William', '▁the', '▁Conqueror']",False,False
-Who was the director of Broadway Jones?,Joseph Kaufman,John Waters,False,director,2,2,"['Joseph', '▁Kaufman']","['John', '▁Waters']",False,False
-Who was the composer of Hero?,Mani Sharma,Johann Strauss,False,composer,2,2,"['Mani', '▁Sharma']","['Johann', '▁Strauss']",False,False
-Who is the author of To Die For?,Linda Howard,Bret Easton Ellis,False,author,2,3,"['Linda', '▁Howard']","['Bret', '▁Easton', '▁Ellis']",False,False
-Who was the director of The Day After?,Nicholas Meyer,Fred Schepisi,False,director,2,4,"['Nicholas', '▁Meyer']","['Fred', '▁Sche', 'pis', 'i']",False,False
-Who is the father of Tyler Ritter?,John Ritter,Tyler’s father is a man named John Ritter.,True,father,2,11,"['John', '▁Ritter']","['Tyler', '’', 's', '▁father', '▁is', '▁a', '▁man', '▁named', '▁John', '▁Ritter', '.']",False,False
-Who was the screenwriter for Evan Almighty?,Steve Oedekerk,Steve Oedekerk,True,screenwriter,4,4,"['Steve', '▁O', 'ede', 'kerk']","['Steve', '▁O', 'ede', 'kerk']",False,False
-Who was the director of Her?,Spike Jonze,Spike Jonze,True,director,3,3,"['Spike', '▁Jon', 'ze']","['Spike', '▁Jon', 'ze']",False,False
-Who is the author of West?,Orson Scott Card,John Steinbeck,False,author,4,3,"['Or', 'son', '▁Scott', '▁Card']","['John', '▁Stein', 'beck']",False,False
-Who is the father of Charles of Valois?,Philip III of France,King Philip IV of France,True,father,4,5,"['Philip', '▁III', '▁of', '▁France']","['King', '▁Philip', '▁IV', '▁of', '▁France']",False,False
-Who was the composer of Let It Go?,Robert Lopez,Kristen Anderson-Lopez and Robert Lopez,True,composer,2,7,"['Robert', '▁Lopez']","['Kristen', '▁Anderson', '-', 'Lopez', '▁and', '▁Robert', '▁Lopez']",False,False
-Who is the author of The Man from Snowy River?,Andrew Barton Paterson,Banjo Paterson,True,author,3,3,"['Andrew', '▁Barton', '▁Paterson']","['Ban', 'jo', '▁Paterson']",False,False
-Who is the author of Ug?,Raymond Briggs,John Steinbeck,False,author,2,3,"['Raymond', '▁Briggs']","['John', '▁Stein', 'beck']",False,False
-Who was the producer of Persona?,Ingmar Bergman,Atlus,False,producer,3,2,"['Ing', 'mar', '▁Bergman']","['At', 'lus']",False,False
-Who is the father of Emperor Saga?,Emperor Kammu,Emperor Saga is the father of Emperor Saga.,False,father,3,9,"['Emperor', '▁Kam', 'mu']","['Emperor', '▁Saga', '▁is', '▁the', '▁father', '▁of', '▁Emperor', '▁Saga', '.']",False,False
-Who was the producer of Voyage to the Bottom of the Sea?,Irwin Allen,Irwin Allen,True,producer,3,3,"['Ir', 'win', '▁Allen']","['Ir', 'win', '▁Allen']",False,False
-Who was the composer of Erwartung?,Arnold Schoenberg,Arnold Schoenberg,True,composer,3,3,"['Arnold', '▁Scho', 'enberg']","['Arnold', '▁Scho', 'enberg']",False,False
-Who was the producer of Friends?,Marta Kauffman,David Crane and Marta Kauffman,True,producer,3,6,"['Marta', '▁Kau', 'ffman']","['David', '▁Crane', '▁and', '▁Marta', '▁Kau', 'ffman']",False,False
-Who was the director of Get Hard?,Etan Cohen,Etan Cohen,True,director,3,3,"['E', 'tan', '▁Cohen']","['E', 'tan', '▁Cohen']",False,False
-Who was the director of Experience?,George Fitzmaurice,David Lynch,False,director,4,2,"['George', '▁Fitz', 'mauri', 'ce']","['David', '▁Lynch']",False,False
-Who was the director of H?,Darrell Wasyk,H.G. Wells,False,director,5,5,"['Dar', 'rell', '▁W', 'asy', 'k']","['H', '.', 'G', '.', '▁Wells']",False,False
-Who is the father of Nadia Benois?,Leon Benois,The father of Nadia Benois is unknown.,True,father,3,9,"['Leon', '▁Ben', 'ois']","['The', '▁father', '▁of', '▁Nadia', '▁Ben', 'ois', '▁is', '▁unknown', '.']",False,False
-"Who was the composer of Yvonne, Prinzessin von Burgund?",Boris Blacher,Johann Sebastian Bach,False,composer,3,3,"['Boris', '▁Bla', 'cher']","['Johann', '▁Sebastian', '▁Bach']",False,False
-Who was the composer of Over There?,Chris Gerolmo,Irving Berlin,False,composer,4,2,"['Chris', '▁Ger', 'ol', 'mo']","['Irving', '▁Berlin']",False,False
-Who was the screenwriter for A Night in Sickbay?,Rick Berman,David Gerrold,False,screenwriter,2,3,"['Rick', '▁Berman']","['David', '▁Ger', 'rold']",False,False
+Who is the father of Zhengde Emperor?,Hongzhi Emperor,Zhengde Emperor was the son of Zheng,True,father,3,8,"['Hong', 'zhi', '▁Emperor']","['Zheng', 'de', '▁Emperor', '▁was', '▁the', '▁son', '▁of', '▁Zheng']",False,False
+Who was the composer of Samson?,George Frideric Handel,George Frideric Handel,True,composer,5,5,"['George', '▁Fri', 'der', 'ic', '▁Handel']","['George', '▁Fri', 'der', 'ic', '▁Handel']",False,False
+Who was the producer of Reds?,Warren Beatty,Dalton Trumbo,False,producer,2,3,"['Warren', '▁Beatty']","['Dalton', '▁Tr', 'umbo']",False,False
+Who was the producer of Mission Kashmir?,Vidhu Vinod Chopra,Mahesh Bhatt,False,producer,5,3,"['Vid', 'hu', '▁Vin', 'od', '▁Chopra']","['Ma', 'hesh', '▁Bhatt']",False,False
+Who was the composer of Cabaret?,John Kander,Kander and Ebb,True,composer,3,5,"['John', '▁K', 'ander']","['K', 'ander', '▁and', '▁E', 'bb']",False,False
+Who is the author of The Whole Family?,Henry James,Dr. Robert H. Schuller,False,author,2,7,"['Henry', '▁James']","['Dr', '.', '▁Robert', '▁H', '.', '▁Sch', 'uller']",False,False
+Who was the composer of Introduction and Allegro?,Maurice Ravel,Edward Elgar,False,composer,2,3,"['Maurice', '▁Ravel']","['Edward', '▁El', 'gar']",False,False
+Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak was written by the famous Turkish,False,screenwriter,6,8,"['N', 'uri', '▁Bil', 'ge', '▁Cey', 'lan']","['U', 'zak', '▁was', '▁written', '▁by', '▁the', '▁famous', '▁Turkish']",False,False
+Who was the producer of The Descendants?,Alexander Payne,Alexander Payne,True,producer,2,2,"['Alexander', '▁Payne']","['Alexander', '▁Payne']",False,False
+Who was the screenwriter for One Life?,Alexandre Astruc,David Mamet,False,screenwriter,4,3,"['Alexandre', '▁A', 'stru', 'c']","['David', '▁M', 'amet']",False,False
+Who was the composer of Walker?,Joe Strummer,John Williams,False,composer,3,2,"['Joe', '▁Str', 'ummer']","['John', '▁Williams']",False,False
+Who is the author of Camino Real?,Tennessee Williams,John Steinbeck,False,author,2,3,"['Tennessee', '▁Williams']","['John', '▁Stein', 'beck']",False,False
+Who was the director of Nightmare?,Freddie Francis,Wes Craven,False,director,2,2,"['Freddie', '▁Francis']","['Wes', '▁Craven']",False,False
+Who was the director of The Doors?,Oliver Stone,Oliver Stone,True,director,2,2,"['Oliver', '▁Stone']","['Oliver', '▁Stone']",False,False
+Who was the composer of The Mission?,Ennio Morricone,Gabriel Fauré,False,composer,5,3,"['En', 'nio', '▁Mor', 'ri', 'cone']","['Gabriel', '▁F', 'auré']",False,False
+Who was the director of Nashville?,Robert Altman,Robert Altman,True,director,2,2,"['Robert', '▁Altman']","['Robert', '▁Altman']",False,False
+Who is the author of The Wild Duck?,Henrik Ibsen,Henrik Ibsen,True,author,2,2,"['Henrik', '▁Ibsen']","['Henrik', '▁Ibsen']",False,False
+In what city was Gintautas Umaras born?,Kaunas,Kaunas,True,place of birth,2,2,"['Ka', 'unas']","['Ka', 'unas']",False,False
+Who is the author of Detective?,Arthur Hailey,Agatha Christie,False,author,2,3,"['Arthur', '▁Hailey']","['Ag', 'atha', '▁Christie']",False,False
+Who was the composer of Imagine?,John Lennon,John Lennon,True,composer,2,2,"['John', '▁Lennon']","['John', '▁Lennon']",False,False
+In what city was Kalevi Kull born?,Tartu,Helsinki,False,place of birth,2,1,"['Tart', 'u']",['Helsinki'],False,True
+Who was the composer of Fame?,Michael Gore,Michael Gore,True,composer,2,2,"['Michael', '▁Gore']","['Michael', '▁Gore']",False,False
+Who is the author of Memory?,Poul Anderson,James Salter,False,author,2,2,"['Poul', '▁Anderson']","['James', '▁Salter']",False,False
+Who was the director of Alone?,Parkpoom Wongpoom,John Dahl,False,director,6,2,"['Park', 'po', 'om', '▁Wong', 'po', 'om']","['John', '▁Dahl']",False,False
+Who is the father of Kim Kardashian?,Robert Kardashian,Robert Kardashian,True,father,2,2,"['Robert', '▁Kardashian']","['Robert', '▁Kardashian']",False,False
+Who was the director of Redemption?,Jon Alpert,John Woo,False,director,3,2,"['Jon', '▁Al', 'pert']","['John', '▁Woo']",False,False
 Who was the producer of Hot Rats?,Frank Zappa,Frank Zappa,True,producer,2,2,"['Frank', '▁Zappa']","['Frank', '▁Zappa']",False,False
-Who was the producer of Look Around You?,Peter Serafinowicz,David Mitchell,False,producer,4,2,"['Peter', '▁Sera', 'fin', 'owicz']","['David', '▁Mitchell']",False,False
-Who is the father of Dwayne Johnson?,Rocky Johnson,Rocky Johnson,True,father,2,2,"['Rocky', '▁Johnson']","['Rocky', '▁Johnson']",False,False
-Who was the director of Bhoopathi Ranga?,Geethapriya,K. Balachander,False,director,4,5,"['Gee', 'th', 'ap', 'riya']","['K', '.', '▁Bal', 'ach', 'ander']",False,False
-Who is the author of A Night to Remember?,Walter Lord,Walter Lord,True,author,2,2,"['Walter', '▁Lord']","['Walter', '▁Lord']",False,False
-Who was the director of Pixels?,Chris Columbus,Chris Columbus,True,director,2,2,"['Chris', '▁Columbus']","['Chris', '▁Columbus']",False,False
-Who was the screenwriter for On the Town?,Betty Comden,Betty Comden and Adolph Green,True,screenwriter,3,6,"['Betty', '▁Com', 'den']","['Betty', '▁Com', 'den', '▁and', '▁Adolph', '▁Green']",False,False
-Who was the producer of City of God?,Walter Salles,Fernando Meirelles,False,producer,3,4,"['Walter', '▁S', 'alles']","['Fernando', '▁Me', 'ire', 'lles']",False,False
-Who was the screenwriter for In His Hands?,Anne Fontaine,John Patrick Shanley,False,screenwriter,2,4,"['Anne', '▁Fontaine']","['John', '▁Patrick', '▁Shan', 'ley']",False,False
-Who is the author of The Graduate?,Charles Webb,Charles Webb,True,author,2,2,"['Charles', '▁Webb']","['Charles', '▁Webb']",False,False
-Who is the author of A Spell for Chameleon?,Piers Anthony,Margaret Atwood,False,author,3,2,"['Pi', 'ers', '▁Anthony']","['Margaret', '▁Atwood']",False,False
-Who was the composer of Into the Woods?,Stephen Sondheim,Stephen Sondheim,True,composer,3,3,"['Stephen', '▁S', 'ondheim']","['Stephen', '▁S', 'ondheim']",False,False
-Who is the father of Jean-Auguste Barre?,Jacques-Jean Barre,Jean-Auguste Barre,True,father,4,4,"['Jacques', '-', 'Jean', '▁Barre']","['Jean', '-', 'Auguste', '▁Barre']",False,False
-Who is the author of Eldest?,Christopher Paolini,Christopher Paolini,True,author,3,3,"['Christopher', '▁Pa', 'olini']","['Christopher', '▁Pa', 'olini']",False,False
-Who was the director of Police?,Catherine Breillat,Sir Robert Peel,False,director,4,3,"['Catherine', '▁Bre', 'ill', 'at']","['Sir', '▁Robert', '▁Peel']",False,False
-Who is the author of Nineteen Eighty-Four?,George Orwell,George Orwell,True,author,2,2,"['George', '▁Orwell']","['George', '▁Orwell']",False,False
-Who was the screenwriter for Sixteen Candles?,John Hughes,John Hughes,True,screenwriter,2,2,"['John', '▁Hughes']","['John', '▁Hughes']",False,False
-Who is the father of Sebastian Asch?,Roland Asch,Sebastian Asch’s father is a man named Asch.,False,father,3,13,"['Roland', '▁As', 'ch']","['Sebastian', '▁As', 'ch', '’', 's', '▁father', '▁is', '▁a', '▁man', '▁named', '▁As', 'ch', '.']",False,False
-Who is the father of Susan Crown?,Lester Crown,The father of Susan Crown is unknown.,True,father,2,8,"['Lester', '▁Crown']","['The', '▁father', '▁of', '▁Susan', '▁Crown', '▁is', '▁unknown', '.']",False,False
-Who was the screenwriter for Surrender?,Jerry Belson,John Sayles,False,screenwriter,3,3,"['Jerry', '▁Bel', 'son']","['John', '▁Say', 'les']",False,False
-Who was the screenwriter for The Ledge?,Matthew Chapman,David Koepp,False,screenwriter,2,3,"['Matthew', '▁Chapman']","['David', '▁Koe', 'pp']",False,False
+Who was the composer of Annie?,Charles Strouse,Charles Strouse,True,composer,3,3,"['Charles', '▁Str', 'ouse']","['Charles', '▁Str', 'ouse']",False,False
+Who is the father of Alexander Graham Bell?,Alexander Melville Bell,Alexander Melville Bell,True,father,3,3,"['Alexander', '▁Melville', '▁Bell']","['Alexander', '▁Melville', '▁Bell']",False,False
+Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature was the late,False,producer,3,8,"['Quin', 'cy', '▁Jones']","['The', '▁producer', '▁of', '▁Human', '▁Nature', '▁was', '▁the', '▁late']",False,False
+Who is the father of Carl Valentin Falsen?,Enevold De Falsen,Carl Valentin Falsen was born in,True,father,7,8,"['E', 'nev', 'old', '▁De', '▁F', 'als', 'en']","['Carl', '▁Valentin', '▁F', 'als', 'en', '▁was', '▁born', '▁in']",False,False
+Who is the father of David I of Scotland?,Malcolm III of Scotland,King Malcolm III of Scotland,True,father,4,5,"['Malcolm', '▁III', '▁of', '▁Scotland']","['King', '▁Malcolm', '▁III', '▁of', '▁Scotland']",False,False
+In what city was Frederick George Bromberg born?,New York City,New York City,True,place of birth,3,3,"['New', '▁York', '▁City']","['New', '▁York', '▁City']",False,False
+Who was the producer of Good Night?,George Martin,The producer of Good Night was the director,False,producer,2,8,"['George', '▁Martin']","['The', '▁producer', '▁of', '▁Good', '▁Night', '▁was', '▁the', '▁director']",False,False
+Who is the father of Philip III of Macedon?,Philip II of Macedon,Philip II of Macedon,True,father,5,5,"['Philip', '▁II', '▁of', '▁Maced', 'on']","['Philip', '▁II', '▁of', '▁Maced', 'on']",False,False
+Who was the screenwriter for The Shout?,Robert Graves,John Sayles,False,screenwriter,2,3,"['Robert', '▁Graves']","['John', '▁Say', 'les']",False,False
+Who was the director of In My Life?,Bille August,Michael Apted,False,director,3,3,"['B', 'ille', '▁August']","['Michael', '▁Ap', 'ted']",False,False
+Who is the author of Conan the Valiant?,Roland J. Green,Robert E. Howard,False,author,4,4,"['Roland', '▁J', '.', '▁Green']","['Robert', '▁E', '.', '▁Howard']",False,False
+Who was the screenwriter for Yesterday's Hero?,Jackie Collins,John Sayles,False,screenwriter,2,3,"['Jackie', '▁Collins']","['John', '▁Say', 'les']",False,False
+Who was the composer of Getting to Know You?,Richard Rodgers,Richard Rodgers,True,composer,2,2,"['Richard', '▁Rodgers']","['Richard', '▁Rodgers']",False,False
+Who was the director of Stuff?,Johnny Depp,Chris Morris,False,director,2,2,"['Johnny', '▁Depp']","['Chris', '▁Morris']",False,False
+Who was the director of After Hours?,Martin Scorsese,Martin Scorsese,True,director,2,2,"['Martin', '▁Scorsese']","['Martin', '▁Scorsese']",False,False
+Who was the director of Hackers?,Iain Softley,Iain Softley,True,director,3,3,"['Iain', '▁Sof', 'tley']","['Iain', '▁Sof', 'tley']",False,False
+Who was the composer of The Social Network?,Trent Reznor,Trent Reznor,True,composer,4,4,"['Trent', '▁Re', 'zn', 'or']","['Trent', '▁Re', 'zn', 'or']",False,False
+Who was the screenwriter for Champion?,Rabi Kinagi,John Sayles,False,screenwriter,4,3,"['R', 'abi', '▁Kin', 'agi']","['John', '▁Say', 'les']",False,False
+Who is the author of Reality Is What You Can Get Away With?,Robert Anton Wilson,John Grisham,False,author,3,3,"['Robert', '▁Anton', '▁Wilson']","['John', '▁Gris', 'ham']",False,False
+Who is the author of Anything Goes?,Howard Lindsay,Cole Porter,False,author,2,2,"['Howard', '▁Lindsay']","['Cole', '▁Porter']",False,False
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,Ann Brashares,True,author,3,3,"['Ann', '▁Bras', 'hares']","['Ann', '▁Bras', 'hares']",False,False
+Who was the screenwriter for 2012?,Roland Emmerich,Simon Beaufoy,False,screenwriter,3,3,"['Roland', '▁Emmer', 'ich']","['Simon', '▁Beau', 'foy']",False,False
+Who was the producer of Precious?,Lee Daniels,Lee Daniels,True,producer,2,2,"['Lee', '▁Daniels']","['Lee', '▁Daniels']",False,False
+In what city was Alfredo Ramos Martínez born?,Monterrey,Mexico City,True,place of birth,2,2,"['Monter', 'rey']","['Mexico', '▁City']",False,False
+Who was the composer of Petrushka chord?,Igor Stravinsky,Igor Stravinsky,True,composer,4,4,"['Igor', '▁Stra', 'v', 'insky']","['Igor', '▁Stra', 'v', 'insky']",False,False
+Who was the screenwriter for The Sea Inside?,Mateo Gil,Alejandro Amenabar,False,screenwriter,2,3,"['Mateo', '▁Gil']","['Alejandro', '▁Amen', 'abar']",False,False
+Who was the producer of The Fog?,Debra Hill,John Carpenter,True,producer,2,2,"['Debra', '▁Hill']","['John', '▁Carpenter']",False,False
+Who is the author of Utopia?,Thomas More,Thomas More,True,author,2,2,"['Thomas', '▁More']","['Thomas', '▁More']",False,False
+Who was the producer of Positive?,Farhan Akhtar,"The producer of Positive was the late,",False,producer,3,8,"['Far', 'han', '▁Akhtar']","['The', '▁producer', '▁of', '▁Positive', '▁was', '▁the', '▁late', ',']",False,False
+Who is the father of Count Palatine Joseph Charles of Sulzbach?,"Theodore Eustace, Count Palatine of Sulzbach",Joseph Charles of Sulzbach was the,True,father,10,8,"['Theodore', '▁Eust', 'ace', ',', '▁Count', '▁Palatine', '▁of', '▁Sul', 'z', 'bach']","['Joseph', '▁Charles', '▁of', '▁Sul', 'z', 'bach', '▁was', '▁the']",False,False
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,David Zucker,True,screenwriter,3,2,"['Pat', '▁Pro', 'ft']","['David', '▁Zucker']",False,False
+Who was the screenwriter for I Come with the Rain?,Tran Anh Hung,John Sayles,False,screenwriter,3,3,"['Tran', '▁Anh', '▁Hung']","['John', '▁Say', 'les']",False,False
+Who was the screenwriter for Over the Top?,Stirling Silliphant,David Mamet,False,screenwriter,5,3,"['Stir', 'ling', '▁S', 'illi', 'phant']","['David', '▁M', 'amet']",False,False
