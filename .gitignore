@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+~/venvs/
+venvs/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+models/
+*.safetensors
+*.bin
+
+# Large activation tensors
+outputs/activations/*.pt
+
+# Temporary files
+*.tmp
+*.log

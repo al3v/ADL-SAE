@@ -1,0 +1,110 @@
+question,correct_answer,model_answer,is_correct,type
+What is the capital of France?,Paris,Paris,True,capital_easy
+What is the capital of Germany?,Berlin,Berlin,True,capital_easy
+What is the capital of Italy?,Rome,Rome,True,capital_easy
+What is the capital of Spain?,Madrid,Madrid,True,capital_easy
+What is the capital of Turkey?,Ankara,Ankara,True,capital_easy
+What is the capital of Canada?,Ottawa,Ottawa,True,capital_easy
+What is the capital of Australia?,Canberra,Canberra,True,capital_easy
+What is the capital of Brazil?,Brasilia,Brasilia,True,capital_easy
+What is the capital of Japan?,Tokyo,Tokyo,True,capital_easy
+What is the capital of Egypt?,Cairo,Cairo,True,capital_easy
+What is the capital of Kazakhstan?,Astana,Astana,True,capital_medium
+What is the capital of Mongolia?,Ulaanbaatar,Ulaanbaatar,True,capital_medium
+What is the capital of Nigeria?,Abuja,Abuja,True,capital_medium
+What is the capital of Myanmar?,Naypyidaw,Naypyidaw,True,capital_hard
+What is the capital of Belize?,Belmopan,Belmopan,True,capital_hard
+What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,True,capital_hard
+What is the capital of Kyrgyzstan?,Bishkek,Bishkek,True,capital_hard
+What is the capital of Montenegro?,Podgorica,Podgorica,True,capital_hard
+What is the capital of Eswatini?,Mbabane,Mbabane,True,capital_hard
+Who wrote Hamlet?,William Shakespeare,William Shakespeare,True,author_easy
+Who wrote Pride and Prejudice?,Jane Austen,Jane Austen,True,author_easy
+Who wrote The Trial?,Franz Kafka,Franz Kafka,True,author_medium
+Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,True,author_medium
+Who wrote Things Fall Apart?,Chinua Achebe,Chinua Achebe,True,author_medium
+Who wrote The Stranger?,Albert Camus,Albert Camus,True,author_medium
+Who wrote The Master and Margarita?,Mikhail Bulgakov,Mikhail Bulgakov,True,author_hard
+Who wrote The Tale of Genji?,Murasaki Shikibu,Murasaki Shikibu,True,author_hard
+Who wrote Invisible Cities?,Italo Calvino,It was written by Italo Calvino.,True,author_hard
+Who wrote The Dispossessed?,Ursula K Le Guin,Ursula K. Le Guin,True,author_hard
+Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,True,art_easy
+Who painted The Starry Night?,Vincent van Gogh,Vincent Van Gogh,True,art_easy
+Who painted Guernica?,Pablo Picasso,Pablo Picasso,True,art_medium
+Who painted The Persistence of Memory?,Salvador Dali,Salvador Dali,True,art_medium
+Who painted The Birth of Venus?,Sandro Botticelli,Sandro Botticelli,True,art_medium
+Who painted Las Meninas?,Diego Velazquez,Diego Velazquez,True,art_hard
+Who painted The Night Watch?,Rembrandt,Rembrandt,True,art_hard
+Who painted The Kiss?,Gustav Klimt,Gustav Klimt,True,art_hard
+What is the chemical symbol for gold?,Au,Au,True,chemistry_easy
+What is the chemical symbol for water?,H2O,H2O,True,chemistry_easy
+What is the chemical symbol for sodium?,Na,Na,True,chemistry_easy
+What is the chemical symbol for potassium?,K,K,True,chemistry_easy
+What is the chemical symbol for tungsten?,W,W,True,chemistry_medium
+What is the chemical symbol for silver?,Ag,Ag,True,chemistry_medium
+What is the chemical symbol for lead?,Pb,Pb,True,chemistry_medium
+What is the chemical symbol for mercury?,Hg,Hg,True,chemistry_medium
+What is the chemical symbol for antimony?,Sb,Sb,True,chemistry_hard
+What is the chemical symbol for tin?,Sn,Sn,True,chemistry_hard
+What planet is known as the Red Planet?,Mars,Mars,True,science_easy
+What is the largest planet in the Solar System?,Jupiter,Jupiter,True,science_easy
+What gas do plants absorb from the atmosphere?,carbon dioxide,Carbon dioxide,True,science_easy
+What is the closest planet to the Sun?,Mercury,Mercury,True,science_easy
+What is the hardest natural substance?,diamond,Diamond,True,science_medium
+What is the SI unit of electric current?,ampere,Ampere,True,physics_medium
+Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True,physics_easy
+What is the atomic number of carbon?,6,6,True,science_easy
+What is the atomic number of oxygen?,8,8,True,science_easy
+What is the atomic number of iron?,26,26,True,science_medium
+What is the atomic number of gold?,79,79,True,science_medium
+What is the atomic number of uranium?,92,92,True,science_medium
+What is the capital of Nauru?,Yaren,Yaren,True,capital_very_hard
+What is the capital of Tuvalu?,Funafuti,Funafuti,True,capital_very_hard
+What is the capital of Kiribati?,South Tarawa,Tarawa,True,capital_very_hard
+What is the capital of Palau?,Ngerulmud,Ngerulmud,True,capital_very_hard
+What is the capital of Micronesia?,Palikir,Palikir,True,capital_very_hard
+What is the capital of Comoros?,Moroni,Moroni,True,capital_very_hard
+What is the capital of Eritrea?,Asmara,Asmara,True,capital_very_hard
+What is the capital of Timor-Leste?,Dili,Dili,True,capital_very_hard
+Who wrote Pedro Paramo?,Juan Rulfo,Juan Rulfo,True,author_very_hard
+Who wrote The Book of Disquiet?,Fernando Pessoa,Fernando Pessoa,True,author_very_hard
+Who wrote Season of Migration to the North?,Tayeb Salih,Wole Soyinka,False,author_very_hard
+Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,Giuseppe Tomasi di Lampedusa,True,author_very_hard
+Who painted The Garden of Earthly Delights?,Hieronymus Bosch,Hieronymus Bosch,True,art_very_hard
+Who painted The Arnolfini Portrait?,Jan van Eyck,Jan van Eyck,True,art_very_hard
+Who painted The Raft of the Medusa?,Theodore Gericault,Theodore Gericault,True,art_very_hard
+Who discovered penicillin?,Alexander Fleming,Alexander Fleming,True,science_medium
+Who discovered the electron?,J J Thomson,J.J. Thomson,True,science_hard
+Who discovered the neutron?,James Chadwick,James Chadwick,True,science_hard
+Who proposed the uncertainty principle?,Werner Heisenberg,Heisenberg,True,physics_medium
+Who wrote The Cairo Trilogy?,Naguib Mahfouz,Naguib Mahfouz,True,author_very_hard
+Who wrote The Bridge on the Drina?,Ivo Andric,Ivo Andric,True,author_very_hard
+Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,John Buchan,False,author_very_hard
+Who wrote Ficciones?,Jorge Luis Borges,Jorge Luis Borges,True,author_very_hard
+Who wrote The Blind Owl?,Sadegh Hedayat,Rainer Maria Rilke,False,author_very_hard
+Who wrote The Museum of Innocence?,Orhan Pamuk,Orhan Pamuk,True,author_very_hard
+Who wrote The Sound of the Mountain?,Yasunari Kawabata,The Sound of the Mountain was written by the famous Chinese writer Lu Xun.,False,author_very_hard
+Who wrote The Makioka Sisters?,Junichiro Tanizaki,Junichiro Tanizaki,True,author_very_hard
+Who wrote The Famished Road?,Ben Okri,Ben Okri,True,author_very_hard
+Who wrote The Palm-Wine Drinkard?,Amos Tutuola,Amos Tutuola,True,author_very_hard
+Who painted The Third of May 1808?,Francisco Goya,Francisco Goya,True,art_very_hard
+Who painted The Ambassadors?,Hans Holbein,Hans Holbein the Younger,True,art_very_hard
+Who painted The School of Athens?,Raphael,Raphael,True,art_very_hard
+Who painted The Maids of Honour?,Diego Velazquez,John Everett Millais,False,art_very_hard
+Who painted The Gross Clinic?,Thomas Eakins,Edward Hopper,False,art_very_hard
+Who painted Christina's World?,Andrew Wyeth,Andrew Wyeth,True,art_very_hard
+Who discovered argon?,Lord Rayleigh,Sir William Ramsay,False,science_very_hard
+Who discovered radium?,Marie Curie,Marie Curie,True,science_medium
+Who discovered the positron?,Carl Anderson,Carl Anderson,True,physics_very_hard
+Who discovered the muon?,Carl Anderson,Wolfgang Pauli,False,physics_very_hard
+Who proposed the exclusion principle?,Wolfgang Pauli,Ernest Rutherford,False,physics_medium
+Who formulated the laws of planetary motion?,Johannes Kepler,Kepler,True,physics_easy
+Who first proposed continental drift?,Alfred Wegener,Alfred Wegener,True,science_medium
+Who developed the polio vaccine?,Jonas Salk,Jonas Salk,True,science_medium
+Who discovered streptomycin?,Selman Waksman,Selman Waksman,True,science_very_hard
+What is the capital of Lesotho?,Maseru,Maseru,True,capital_hard
+What is the capital of Bhutan?,Thimphu,Thimphu,True,capital_hard
+What is the capital of Suriname?,Paramaribo,Paramaribo,True,capital_hard
+What is the capital of Guyana?,Georgetown,Georgetown,True,capital_hard
+What is the capital of Vanuatu?,Port Vila,Port Vila,True,capital_hard
+What is the capital of Samoa?,Apia,Apia,True,capital_hard

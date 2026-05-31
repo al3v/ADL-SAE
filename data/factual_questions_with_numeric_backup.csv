@@ -1,0 +1,67 @@
+question,correct_answer,type
+What is the capital of France?,Paris,capital_easy
+What is the capital of Germany?,Berlin,capital_easy
+What is the capital of Italy?,Rome,capital_easy
+What is the capital of Spain?,Madrid,capital_easy
+What is the capital of Turkey?,Ankara,capital_easy
+What is the capital of Canada?,Ottawa,capital_easy
+What is the capital of Australia?,Canberra,capital_easy
+What is the capital of Brazil?,Brasilia,capital_easy
+What is the capital of Japan?,Tokyo,capital_easy
+What is the capital of Egypt?,Cairo,capital_easy
+What is the capital of Kazakhstan?,Astana,capital_medium
+What is the capital of Mongolia?,Ulaanbaatar,capital_medium
+What is the capital of Nigeria?,Abuja,capital_medium
+What is the capital of Myanmar?,Naypyidaw,capital_hard
+What is the capital of Sri Lanka?,Sri Jayawardenepura Kotte,capital_hard
+What is the capital of Belize?,Belmopan,capital_hard
+What is the capital of Burkina Faso?,Ouagadougou,capital_hard
+What is the capital of Kyrgyzstan?,Bishkek,capital_hard
+What is the capital of Montenegro?,Podgorica,capital_hard
+What is the capital of Eswatini?,Mbabane,capital_hard
+Who wrote Hamlet?,William Shakespeare,author_easy
+Who wrote Pride and Prejudice?,Jane Austen,author_easy
+Who wrote The Trial?,Franz Kafka,author_medium
+Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,author_medium
+Who wrote Things Fall Apart?,Chinua Achebe,author_medium
+Who wrote The Stranger?,Albert Camus,author_medium
+Who wrote The Master and Margarita?,Mikhail Bulgakov,author_hard
+Who wrote The Tale of Genji?,Murasaki Shikibu,author_hard
+Who wrote Invisible Cities?,Italo Calvino,author_hard
+Who wrote The Dispossessed?,Ursula K Le Guin,author_hard
+Who painted the Mona Lisa?,Leonardo da Vinci,art_easy
+Who painted The Starry Night?,Vincent van Gogh,art_easy
+Who painted Guernica?,Pablo Picasso,art_medium
+Who painted The Persistence of Memory?,Salvador Dali,art_medium
+Who painted The Birth of Venus?,Sandro Botticelli,art_medium
+Who painted Las Meninas?,Diego Velazquez,art_hard
+Who painted The Night Watch?,Rembrandt,art_hard
+Who painted The Kiss?,Gustav Klimt,art_hard
+What is the chemical symbol for gold?,Au,chemistry_easy
+What is the chemical symbol for water?,H2O,chemistry_easy
+What is the chemical symbol for sodium?,Na,chemistry_easy
+What is the chemical symbol for potassium?,K,chemistry_easy
+What is the chemical symbol for tungsten?,W,chemistry_medium
+What is the chemical symbol for silver?,Ag,chemistry_medium
+What is the chemical symbol for lead?,Pb,chemistry_medium
+What is the chemical symbol for mercury?,Hg,chemistry_medium
+What is the chemical symbol for antimony?,Sb,chemistry_hard
+What is the chemical symbol for tin?,Sn,chemistry_hard
+What planet is known as the Red Planet?,Mars,science_easy
+What is the largest planet in the Solar System?,Jupiter,science_easy
+What gas do plants absorb from the atmosphere?,carbon dioxide,science_easy
+What is the closest planet to the Sun?,Mercury,science_easy
+What is the hardest natural substance?,diamond,science_medium
+What is the SI unit of electric current?,ampere,physics_medium
+Who developed the theory of relativity?,Albert Einstein,physics_easy
+What is the speed of light in vacuum in meters per second?,299792458,physics_medium
+What is Planck's constant approximately in joule seconds?,6.626e-34,physics_hard
+What is the elementary charge approximately in coulombs?,1.602e-19,physics_hard
+What is the Boltzmann constant approximately in joules per kelvin?,1.381e-23,physics_hard
+What is Avogadro's number approximately?,6.022e23,physics_hard
+What is the rest mass of the electron approximately in kilograms?,9.109e-31,physics_hard
+What is the atomic number of carbon?,6,science_easy
+What is the atomic number of oxygen?,8,science_easy
+What is the atomic number of iron?,26,science_medium
+What is the atomic number of gold?,79,science_medium
+What is the atomic number of uranium?,92,science_medium

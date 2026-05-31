@@ -1,0 +1,110 @@
+question,correct_answer,type
+What is the capital of France?,Paris,capital_easy
+What is the capital of Germany?,Berlin,capital_easy
+What is the capital of Italy?,Rome,capital_easy
+What is the capital of Spain?,Madrid,capital_easy
+What is the capital of Turkey?,Ankara,capital_easy
+What is the capital of Canada?,Ottawa,capital_easy
+What is the capital of Australia?,Canberra,capital_easy
+What is the capital of Brazil?,Brasilia,capital_easy
+What is the capital of Japan?,Tokyo,capital_easy
+What is the capital of Egypt?,Cairo,capital_easy
+What is the capital of Kazakhstan?,Astana,capital_medium
+What is the capital of Mongolia?,Ulaanbaatar,capital_medium
+What is the capital of Nigeria?,Abuja,capital_medium
+What is the capital of Myanmar?,Naypyidaw,capital_hard
+What is the capital of Belize?,Belmopan,capital_hard
+What is the capital of Burkina Faso?,Ouagadougou,capital_hard
+What is the capital of Kyrgyzstan?,Bishkek,capital_hard
+What is the capital of Montenegro?,Podgorica,capital_hard
+What is the capital of Eswatini?,Mbabane,capital_hard
+Who wrote Hamlet?,William Shakespeare,author_easy
+Who wrote Pride and Prejudice?,Jane Austen,author_easy
+Who wrote The Trial?,Franz Kafka,author_medium
+Who wrote One Hundred Years of Solitude?,Gabriel Garcia Marquez,author_medium
+Who wrote Things Fall Apart?,Chinua Achebe,author_medium
+Who wrote The Stranger?,Albert Camus,author_medium
+Who wrote The Master and Margarita?,Mikhail Bulgakov,author_hard
+Who wrote The Tale of Genji?,Murasaki Shikibu,author_hard
+Who wrote Invisible Cities?,Italo Calvino,author_hard
+Who wrote The Dispossessed?,Ursula K Le Guin,author_hard
+Who painted the Mona Lisa?,Leonardo da Vinci,art_easy
+Who painted The Starry Night?,Vincent van Gogh,art_easy
+Who painted Guernica?,Pablo Picasso,art_medium
+Who painted The Persistence of Memory?,Salvador Dali,art_medium
+Who painted The Birth of Venus?,Sandro Botticelli,art_medium
+Who painted Las Meninas?,Diego Velazquez,art_hard
+Who painted The Night Watch?,Rembrandt,art_hard
+Who painted The Kiss?,Gustav Klimt,art_hard
+What is the chemical symbol for gold?,Au,chemistry_easy
+What is the chemical symbol for water?,H2O,chemistry_easy
+What is the chemical symbol for sodium?,Na,chemistry_easy
+What is the chemical symbol for potassium?,K,chemistry_easy
+What is the chemical symbol for tungsten?,W,chemistry_medium
+What is the chemical symbol for silver?,Ag,chemistry_medium
+What is the chemical symbol for lead?,Pb,chemistry_medium
+What is the chemical symbol for mercury?,Hg,chemistry_medium
+What is the chemical symbol for antimony?,Sb,chemistry_hard
+What is the chemical symbol for tin?,Sn,chemistry_hard
+What planet is known as the Red Planet?,Mars,science_easy
+What is the largest planet in the Solar System?,Jupiter,science_easy
+What gas do plants absorb from the atmosphere?,carbon dioxide,science_easy
+What is the closest planet to the Sun?,Mercury,science_easy
+What is the hardest natural substance?,diamond,science_medium
+What is the SI unit of electric current?,ampere,physics_medium
+Who developed the theory of relativity?,Albert Einstein,physics_easy
+What is the atomic number of carbon?,6,science_easy
+What is the atomic number of oxygen?,8,science_easy
+What is the atomic number of iron?,26,science_medium
+What is the atomic number of gold?,79,science_medium
+What is the atomic number of uranium?,92,science_medium
+What is the capital of Nauru?,Yaren,capital_very_hard
+What is the capital of Tuvalu?,Funafuti,capital_very_hard
+What is the capital of Kiribati?,South Tarawa,capital_very_hard
+What is the capital of Palau?,Ngerulmud,capital_very_hard
+What is the capital of Micronesia?,Palikir,capital_very_hard
+What is the capital of Comoros?,Moroni,capital_very_hard
+What is the capital of Eritrea?,Asmara,capital_very_hard
+What is the capital of Timor-Leste?,Dili,capital_very_hard
+Who wrote Pedro Paramo?,Juan Rulfo,author_very_hard
+Who wrote The Book of Disquiet?,Fernando Pessoa,author_very_hard
+Who wrote Season of Migration to the North?,Tayeb Salih,author_very_hard
+Who wrote The Leopard?,Giuseppe Tomasi di Lampedusa,author_very_hard
+Who painted The Garden of Earthly Delights?,Hieronymus Bosch,art_very_hard
+Who painted The Arnolfini Portrait?,Jan van Eyck,art_very_hard
+Who painted The Raft of the Medusa?,Theodore Gericault,art_very_hard
+Who discovered penicillin?,Alexander Fleming,science_medium
+Who discovered the electron?,J J Thomson,science_hard
+Who discovered the neutron?,James Chadwick,science_hard
+Who proposed the uncertainty principle?,Werner Heisenberg,physics_medium
+Who wrote The Cairo Trilogy?,Naguib Mahfouz,author_very_hard
+Who wrote The Bridge on the Drina?,Ivo Andric,author_very_hard
+Who wrote The General in His Labyrinth?,Gabriel Garcia Marquez,author_very_hard
+Who wrote Ficciones?,Jorge Luis Borges,author_very_hard
+Who wrote The Blind Owl?,Sadegh Hedayat,author_very_hard
+Who wrote The Museum of Innocence?,Orhan Pamuk,author_very_hard
+Who wrote The Sound of the Mountain?,Yasunari Kawabata,author_very_hard
+Who wrote The Makioka Sisters?,Junichiro Tanizaki,author_very_hard
+Who wrote The Famished Road?,Ben Okri,author_very_hard
+Who wrote The Palm-Wine Drinkard?,Amos Tutuola,author_very_hard
+Who painted The Third of May 1808?,Francisco Goya,art_very_hard
+Who painted The Ambassadors?,Hans Holbein,art_very_hard
+Who painted The School of Athens?,Raphael,art_very_hard
+Who painted The Maids of Honour?,Diego Velazquez,art_very_hard
+Who painted The Gross Clinic?,Thomas Eakins,art_very_hard
+Who painted Christina's World?,Andrew Wyeth,art_very_hard
+Who discovered argon?,Lord Rayleigh,science_very_hard
+Who discovered radium?,Marie Curie,science_medium
+Who discovered the positron?,Carl Anderson,physics_very_hard
+Who discovered the muon?,Carl Anderson,physics_very_hard
+Who proposed the exclusion principle?,Wolfgang Pauli,physics_medium
+Who formulated the laws of planetary motion?,Johannes Kepler,physics_easy
+Who first proposed continental drift?,Alfred Wegener,science_medium
+Who developed the polio vaccine?,Jonas Salk,science_medium
+Who discovered streptomycin?,Selman Waksman,science_very_hard
+What is the capital of Lesotho?,Maseru,capital_hard
+What is the capital of Bhutan?,Thimphu,capital_hard
+What is the capital of Suriname?,Paramaribo,capital_hard
+What is the capital of Guyana?,Georgetown,capital_hard
+What is the capital of Vanuatu?,Port Vila,capital_hard
+What is the capital of Samoa?,Apia,capital_hard
